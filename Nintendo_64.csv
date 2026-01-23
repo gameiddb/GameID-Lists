@@ -1,0 +1,1144 @@
+Release Type,Name,Game Title,Game Code,ROM Version,Byte-Order,SHA256
+No-Intro,"007 - The World Is Not Enough (Europe) (En,Fr,De)",TWINE,NO7P,0 (0x00),big,06c65f4f35c869468502f33bf7edd2d4995c9cccada6bff30fe4e8da0209c2ac
+No-Intro,007 - The World Is Not Enough (USA),TWINE,NO7E,0 (0x00),big,72e3e7b4ff1615bc17336d3d10e18aa9342898db063ace68922a47f5e46c48b1
+No-Intro,007 - The World Is Not Enough (USA) (v2) (Beta),TWINE,NM4E,0 (0x00),big,5ab4affb162e2b4172ed0bbc766641b3f17417fd3619d2a048d8720d726edb87
+No-Intro,007 - The World Is Not Enough (USA) (v21) (Beta),TWINE,NO7E,0 (0x00),big,1cd43fbe6ff06d7b326297824d3458c46014517096ba0c08e9edfab75639bbfa
+No-Intro,"1080 Snowboarding (Europe) (En,Ja,Fr,De)",1080 SNOWBOARDING,NTEP,0 (0x00),big,a5d47b9b21bc2c234a0e5c8a1f7eb0e893a914e17a0755318b48c5ad15b7d13c
+No-Intro,"1080 Snowboarding (Japan, USA) (En,Ja)",1080 SNOWBOARDING,NTEA,0 (0x00),big,5e9d7168e5786ba1bd4b643431ba7100ff3d7a09e558acae15438d426c0f34df
+No-Intro,"1080 Snowboarding (USA) (En,Ja) (LodgeNet)",1080 SNOWBOARDING,NTEG,0 (0x00),big,34a00b431f7b059af48e3a18d1f539835a4ebcd80866475a871c710b56fe6a85
+No-Intro,"2048 (World) (En,Fr,Es) (Aftermarket) (Unl)",2048-64,,0 (0x00),big,84e26880c801547a071cdcd5b5fb21ae1354686a4e521aace715cc25fda1e346
+No-Intro,3D Model RGB Test Program (USA) (Test Program),40 WINKS,N4WE,0 (0x00),big,c907f2d572a623e5458fa5b474849e0d66b9e86eefe6a72e302ed7a0506d6eb1
+No-Intro,"40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)",40 WINKS,N4WX,0 (0x00),big,899b866a45dfbebc8152a3122f28aa0ba906fb448dc6b2dc7c7442e7622b5442
+No-Intro,40 Winks (USA) (Aftermarket) (Unl),40 WINKS,N4WE,0 (0x00),big,057232ef7618e25f5645df50d3cd45f08cb5a2cccb3e2fdf48faa8755c4ddb1a
+No-Intro,40 Winks (USA) (Proto) (2000-01-10),40 WINKS,N4WZ,0 (0x00),big,9316ffbe863051a7464e33b9837d6deff11845389a6b275ce6541eded4caa7b0
+No-Intro,64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan),,NTWJ,0 (0x00),big,77f656a9e71c286d41a1e84c26bcdf126fd7598807c98b62e96491c76da403d6
+No-Intro,64 Hanafuda - Tenshi no Yakusoku (Japan),64 ~~,NHFJ,0 (0x00),big,08e68047b4eed07de7a05bf50c2011b44a8de553440b99b3f4ef2c15ac94d518
+No-Intro,64 Oozumou (Japan),64 OHZUMOU,NOSJ,0 (0x00),big,661420aa5a7b5c0f86aad0dad813a0c876b99267d9d92fed0f4507e8e2a37240
+No-Intro,64 Oozumou 2 (Japan),64  2,NO2J,0 (0x00),big,3ff701b4735c84b17f8d80a996db59801caa766ee7da4d3e5a3b88eb34d99a17
+No-Intro,64 Trump Collection - Alice no Wakuwaku Trump World (Japan),64 TRUMP COLLECTION,NTCJ,0 (0x00),big,afc2eedcd4e7cfe6fd0e56259a45d58ed5647f7ce64fad6d2199312ea564de6f
+No-Intro,Action Replay Pro 64 (Europe) (v3.0) (Unl),(C) MUSHROOM &NU15:5,99,0 (0x00),big,921cb11324fee888ea0277e55c2756bb1a201153b72881e1049eb262d025af24
+No-Intro,Action Replay Pro 64 (Europe) (v3.3) (Unl),(C) MUSHROOM &NU16:0,',39 (0x27),big,92c25b26356ec21aa9d903da3b76ef2e0d49d97701d4b5ff41f1f3b6aefb4909
+No-Intro,"AeroFighters Assault (Europe) (En,Fr,De)",AERO FIGHTERS ASSAUL,NSAP,0 (0x00),big,be4a5d9c32e79334ddbe1611136b6a7c31c1e41a2a1024bbc32eec6632855c4d
+No-Intro,AeroFighters Assault (USA),AERO FIGHTERS ASSAUL,NERE,0 (0x00),big,5abd27f2be286d6814d64c76a521a80b2b07d03802a71bc03e61e80a16b27931
+No-Intro,"AeroGauge (Europe) (En,Fr,De)",AEROGAUGE,NAGP,0 (0x00),big,acae3faba2f0f3e55d6fc0746b392275cbaf51a27e82cf4f88adcc32080d481a
+No-Intro,AeroGauge (Japan) (Demo) (Kiosk),AEROGAUGE,NAGJ,0 (0x00),big,1ae451dbfbc4b9206356f765f18b7d2db4722e63cd39e656a5405a175d29eba2
+No-Intro,AeroGauge (Japan) (Rev 1),AEROGAUGE,NAGJ,1 (0x01),big,1abff752862450bbfd3cfbb75b1c217daa57f524bee65f14ae436519a615368a
+No-Intro,AeroGauge (USA),AEROGAUGE,NAGE,0 (0x00),big,2cc529109b11b00289d87f693a40591ef260d1dc7c1129113966ba6ddb1be4a5
+No-Intro,AI Shougi 3 (Japan),AI3,NS3J,0 (0x00),big,05265ab26612612b5573971c217709a073b44640182333ea87269975c324c9b9
+No-Intro,Aidyn Chronicles - The First Mage (Europe),AIDYN_CHRONICLES,NAYP,0 (0x00),big,19a7739f1a3c8db931eaffc0cbcaebc4f4a93da7d550a257258bcde6eab1a1a7
+No-Intro,Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-03-02),AIDYN_CHRONICLES,NAYP,0 (0x00),big,954843718bd0ba6d19d214aead72895df8c47fe96505fa9c2caa57f2ff89a261
+No-Intro,Aidyn Chronicles - The First Mage (Europe) (Beta) (2001-04-10),AIDYN_CHRONICLES,NAYP,0 (0x00),big,d6bfc15751cfcfb668cca0d2038cb0919873bc39c15f77dfa3d32f8f72dd0c90
+No-Intro,Aidyn Chronicles - The First Mage (USA),AIDYN_CHRONICLES,NAYE,0 (0x00),big,64e80de903faa4ddd40f3f0f077ca814f82b6cb46c1de14b7b968bbd380bf41c
+No-Intro,Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10),,,0 (0x00),big,0069edab529c75ea72e028b05b0f580152dd86b3896e7579f399ccc35e1ec939
+No-Intro,Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09),,,0 (0x00),big,c975fb203ce3ceec6276e5c88c5172c6c353f8e1f03693c81e49df997ab29cd8
+No-Intro,Aidyn Chronicles - The First Mage (USA) (Beta) (2000-12-05),,,0 (0x00),big,468efe1af342f60b93461c50cbcc471f41f48f4e54c81ef622b69820a9d00c32
+No-Intro,Aidyn Chronicles - The First Mage (USA) (Rev 1),AIDYN_CHRONICLES,NAYE,1 (0x01),big,c1ceed1e7fe15263bd915062e2eedddc4f4f32991e4dbf2acd6ee7d0703f14ec
+No-Intro,Air Boarder 64 (Japan),64,NABJ,0 (0x00),big,e3fa6d6f13671237e703f32d01f48aff62071114a7a92086c9e3229d1b943ecc
+No-Intro,Airboarder 64 (Europe),AIR BOARDER 64,NABP,0 (0x00),big,adc68241f2472aa5b4cd71f189f0b04f44d99e4d29776e831feb0ef86e6ceb79
+No-Intro,Akumajou Dracula Mokushiroku - Real Action Adventure (Japan),DRACULA MOKUSHIROKU,ND3J,0 (0x00),big,f5b8a1bd8dd4d03b5fe291428b284ca30d9afd300fe25f60317aa1e4590db638
+No-Intro,Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan),DRACULA MOKUSHIROKU2,ND4J,0 (0x00),big,51a0443883f3f94b20b6fb9a8688631c51bc7feafb143c51e48dc7198adfd1ca
+No-Intro,"All Star Tennis '99 (Europe) (En,Fr,De,Es,It)",ALL STAR TENNIS '99,NTNP,0 (0x00),big,84bf65f8d325cebe502495ed959c3a1804363376897e2ab4812df5e7684965e4
+No-Intro,All Star Tennis 99 (USA),ALL STAR TENNIS '99,NTNE,0 (0x00),big,c42c19a076522451233d9cf02ee73013c4017daced799a1f71601948c9117705
+No-Intro,All-Star Baseball 2000 (Europe),All-Star Baseball '0,NBEP,0 (0x00),big,2e30b758271c441eab2ed35dcf3a542fd46782522607c2fd6b1663771b756e07
+No-Intro,All-Star Baseball 2000 (USA),All-Star Baseball '0,NBEE,0 (0x00),big,f354489d79d6ca69a43f3bf95e0e112a6d3a20acdbf96ae847c4180aa0154791
+No-Intro,All-Star Baseball 2001 (USA),All-Star Baseball 20,NASE,0 (0x00),big,35313f399fd98072bd7dd22d98814bb2b5e49aadcc654b51d558b639c438f144
+No-Intro,All-Star Baseball 99 (Europe),All-Star Baseball 99,NBSP,0 (0x00),big,94c4b3f6964109fe237e158ba5a659d5c05b14361f35f6c36a3e6583434782ef
+No-Intro,All-Star Baseball 99 (USA),All Star Baseball 99,NBSE,0 (0x00),big,018f19f4174f4efd2c2bb7aabf92a9218436bdbbf2fd65085801d6c86a0a9516
+No-Intro,Armorines - Project S.W.A.R.M. (Europe),Armorines Project S.,NARP,0 (0x00),big,558588b3649c7313cc694610ce81344dfe9a829d63e315c7c108d1a27d7d987b
+No-Intro,Armorines - Project S.W.A.R.M. (Germany),Armorines Project S.,NARD,0 (0x00),big,aebd316ab12bae8bf84f2cab21023a3cb08ae1bec04f6bc574cad415dfb3c090
+No-Intro,Armorines - Project S.W.A.R.M. (USA),Armorines Project S.,NARE,0 (0x00),big,6c999d00089e384a1d85bec52c3474d789f905a49726fc1d901cdc367ebf7524
+No-Intro,Army Men - Air Combat (USA),ARMYMENAIRCOMBAT,NACE,0 (0x00),big,9edae0d4d39ccb493bfaf8dcd3075db2582dea1b70ffcc477ee15a0048d97eea
+No-Intro,"Army Men - Sarge's Heroes (Europe) (En,Fr,De)",Army Men Sarge,NAMP,0 (0x00),big,25d3091b4d0713099006933349c4b6e01e79e1f108596abbc5342a4d7d647066
+No-Intro,Army Men - Sarge's Heroes (USA),Army Men Sarge,NAME,0 (0x00),big,b1992d8069cb7c14d5be4c351578058631cae9e1b2f29656ae7fb9d5ecc1dc22
+No-Intro,Army Men - Sarge's Heroes 2 (USA),ARMYMEN SARGE 2,N32E,0 (0x00),big,ee8568e107b6d33128a5384d7614acac530cc834417e2c8e3d65e7ed9b82d546
+No-Intro,Asteroids Hyper 64 (USA),Asteroids Hyper 64,NAHE,0 (0x00),big,db8871295af1083038d959f1a4c8ac43a8b7cafb84bcc9717ef0c9f4bd6b60b8
+No-Intro,Automobili Lamborghini (Europe),LAMBORGHINI,NLCP,0 (0x00),big,740a878157b15c0cd65e2623dea3ab9c90b6984ad709d8543b7e50f33e88fc62
+No-Intro,Automobili Lamborghini (USA),LAMBORGHINI,NLCE,0 (0x00),big,cab2467684a58bc19c787423d704a961aa497629763367d9fe691172de58591c
+No-Intro,Baku Bomberman (Japan),BAKU-BOMBERMAN,NBMJ,0 (0x00),big,7a36567a0a26dfdcb6f24eb454be9f9cd815cf96d6660867845e8a55434084cf
+No-Intro,Baku Bomberman 2 (Japan),BAKUBOMB2,NBVJ,0 (0x00),big,45c622c2e6d65ceb255c531b499c78d0e1880c32e9e9d7b804c617549f3da7cb
+No-Intro,Bakuretsu Muteki Bangaioh (Japan),BANGAIOH,NBNJ,0 (0x00),big,60f0117bd8e48f8049a72f5b8bd0957f08282f2b687f0a1fea71f4597dfd4c4a
+No-Intro,Bakushou Jinsei 64 - Mezase! Resort Ou (Japan),64,NBJJ,0 (0x00),big,2e48f2efdd1895d7d5b3119ca4b3abb4b509249389f9b6d6e3c74cfe4a20c530
+No-Intro,Banjo to Kazooie no Daibouken (Japan),Banjo-Kazooie,NBKJ,0 (0x00),big,f766bdb553dd38bf1ce1b9395647aa44abb85503ef08592c8c1a94b15eb6dbfb
+No-Intro,Banjo to Kazooie no Daibouken 2 (Japan),BANJO KAZOOIE 2,NB7J,0 (0x00),big,0abe75ee302623440c6af4ab1f702f0874ce290865eddef09f816ed10216a54d
+No-Intro,"Banjo-Kazooie (Europe) (En,Fr,De)",Banjo-Kazooie,NBKP,0 (0x00),big,d4e7534d8bcdc329386bf28dcb86e35136e793622f3e6913342500d17e89a931
+No-Intro,Banjo-Kazooie (USA),Banjo-Kazooie,NBKE,0 (0x00),big,59875835b9a5128bb0054315a7f929e2071c2001e528d70bf543e1d6680e6eff
+No-Intro,Banjo-Kazooie (USA) (Rev 1),Banjo-Kazooie,NBKE,1 (0x01),big,f9ad43f64c3a38b0ca4067e24f570dcb8f3f8fec077c5c342484bcbec7ff6d22
+No-Intro,Banjo-Tooie (Australia),BANJO TOOIE,NB7U,0 (0x00),big,017495239c491c5f3575de171527732a80b597cbb6331bfa984efc677801df43
+No-Intro,"Banjo-Tooie (Europe) (En,Fr,De,Es)",BANJO TOOIE,NB7P,0 (0x00),big,82d5b9062263daad5108645049de3f06c9db00a2eeffa409876af74e43437748
+No-Intro,Banjo-Tooie (USA),BANJO TOOIE,NB7E,0 (0x00),big,9ec37fba6890362eba86fb855697a9cff1519275531b172083a1a6a045483583
+No-Intro,Bass Rush - ECOGEAR PowerWorm Championship (Japan),Bass Rush,NVBJ,0 (0x00),big,e0ccd9ca6f27ac49d28d72eb7978be7eaf43ec0dd15c532be2312a0d6387f526
+No-Intro,Bassmasters 2000 (USA),BASSMASTERS2000,NB4E,0 (0x00),big,dece8932dfdcb7f42e4118c4f763b198098fee854c90cfe71e8d5bd2e6e02efe
+No-Intro,Bassmasters 2000 (USA) (Beta),,,0 (0x00),big,8c638f6d2e7ad367d7bd207fbdf4d62b12734dd23a54e195427ee6adfe114cd0
+No-Intro,Batman Beyond - Return of the Joker (USA),BATMAN BEYOND RETURN,NJQE,0 (0x00),big,7ce0f1304c46f16613ff3d414c9b011a0a34bcd2a67db1b3cbd063cfb7d5d38b
+No-Intro,"Batman of the Future - Return of the Joker (Europe) (En,Fr,De)",BATMAN OF THE FUTURE,NJQP,0 (0x00),big,f96affc5a89bff0843a2e35a6dee9ea1fe8ae65719519a742780877419f5ce60
+No-Intro,"BattleTanx - Global Assault (Europe) (En,Fr,De)",BATTLETANXGA,NBQP,0 (0x00),big,8c0f538d32243d7d230ff28432326fbb17ea59bec2e2d9815dc04317dbe70db0
+No-Intro,BattleTanx - Global Assault (USA),BATTLETANXGA,NBQE,0 (0x00),big,88268ce770ff39f2ca839848b842c87866df6c5ddaf775f180b2522c18ff6221
+No-Intro,BattleTanx (USA),BATTLETANX,NBXE,0 (0x00),big,c5b7cf3523de025e3f18e2c8df2deb0eced5613e7c46cb8c6c5a4f22644ead3f
+No-Intro,Battlezone - Rise of the Black Dogs (USA),BATTLEZONE,NZOE,0 (0x00),big,67d85ce25cb54aba71191cde04c230a3883a2b7e49581b6f309219c61ace0bcc
+No-Intro,"Beetle Adventure Racing! (Europe) (En,Fr,De)",Beetle Adventure Rac,NNSP,0 (0x00),big,ef0c7bfa39712b841cc0d5b87ab6f8faf15a6877e587168a48ddff0c9c3bef87
+No-Intro,Beetle Adventure Racing! (Japan),BEETLE ADVENTURE JP,NB8J,0 (0x00),big,26bd3bbea7773aa46c5b94e4570fad5c413cc933ee06166718017732bddd851e
+No-Intro,"Beetle Adventure Racing! (USA) (En,Fr,De)",Beetle Adventure Rac,NNSE,0 (0x00),big,6addd60de277c83351eff83099e4dab25ac45279b6401728cfda9eea2f1380df
+No-Intro,Big Mountain 2000 (USA),Big Mountain 2000,NMUE,0 (0x00),big,d42bf9fd1a49daff13a4626196b2fc5f3d8af27b607ce7eabfec0addaec7abee
+No-Intro,Bio F.R.E.A.K.S. (Europe),BIOFREAKS,NBFP,0 (0x00),big,66037309dc4d7619ff31548e3ed9bf3cd1e3d0f17e484aee87f748bf6e42ade6
+No-Intro,Bio F.R.E.A.K.S. (USA),BIOFREAKS,NBFE,0 (0x00),big,7967e3d7a8441339b7e58f2180404034fc44548a477fbce73caf546eb50d74a3
+No-Intro,Biohazard 2 (Japan),BioHazard II,NB5J,0 (0x00),big,f64a3c4a3873cf145e577ee710366fd638bb8d03f6f01549f81e04df738fd425
+No-Intro,"Blast Corps (Europe) (En,De)",Blast Corps,NBCP,0 (0x00),big,9a9246c1128ae4e1cfc6b9b0137894a9575202ce9cd62bf4b9405fb0cdfbd506
+No-Intro,Blast Corps (USA),Blast Corps,NBCE,0 (0x00),big,902769f9d27d888a35d8bdbec88ae9f4f3f33583323475678e99b6456eeaa6f5
+No-Intro,Blast Corps (USA) (Rev 1),Blast Corps,NBCE,1 (0x01),big,42e4d8cde3c106637a25bbfa62d74cc2e5c1eed1d64de5bbb0b1c4896b185927
+No-Intro,Blastdozer (Japan),Blastdozer,NBCJ,0 (0x00),big,88b8ab9ea99dd0d226c3699d1386c7e4b3253ce0b4ab1d298855a4c82bd28229
+No-Intro,"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)",BLUES BROTHERS 2000,NBPP,0 (0x00),big,2a7540a8cb2d0f2eec24bc99e8c9af505a17f32e3aa2e43394a4ac94867dc2c8
+No-Intro,"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20)",,,0 (0x00),big,89c1bedc4035cc14af28d11b5e223ca83bab824b2f6ab5940c9bac158b39d25c
+No-Intro,"Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53)",,,0 (0x00),big,b749fcead39e4f02e362620f7e3efba4efe4967dc82b89cbf7facea3ccdbefba
+No-Intro,Blues Brothers 2000 (USA),BLUES BROTHERS 2000,NBPE,0 (0x00),big,3ca0ac99c1611125783d474825b9d912b7b2e491d17468b0db6fb29b941fc985
+No-Intro,"Body Harvest (Europe) (En,Fr,De)",Body Harvest,NBHP,0 (0x00),big,e0340a9656384420eab6c92ac6e2d0b6eba38cb527cf1ec26e4b2057964984a4
+No-Intro,Body Harvest (USA),BODY HARVEST,NBHE,0 (0x00),big,d4b2654d6d903e43454bffdf025eeb4a954d8fafefab64dc5f8cf0e6dd392a74
+No-Intro,Bokujou Monogatari 2 (Japan),2,NYWJ,0 (0x00),big,d59d97b15e2282e279ea6097d69d013d59941722d918a911bf1618b31ab8d428
+No-Intro,Bokujou Monogatari 2 (Japan) (Rev 1),2,NYWJ,1 (0x01),big,914ad2eb454fb7382be9e88670e580d265106b08fbe68a6f2db5fbaa3e57fe7f
+No-Intro,Bokujou Monogatari 2 (Japan) (Rev 2),2,NYWJ,2 (0x02),big,fd0390c22834604f4c894d7507f6d6ba768fea60aa374d1382bde535c02cc265
+No-Intro,Bomberman 64 - The Second Attack! (USA),BOMBERMAN64U2,NBVE,0 (0x00),big,96f641120471a1d5dab848dffdeeeeb7c4002333a06763ae20e14af72126efd8
+No-Intro,Bomberman 64 (Europe),BOMBERMAN64E,NBMP,0 (0x00),big,412112a3a7dbd712c9d7420028144b47691768aa6a26846c897abae8c9a69157
+No-Intro,Bomberman 64 (Japan),BOMBERMAN64,NHAJ,0 (0x00),big,5c7fb711f3885f3d8682955e5c88e4bb47c9bfbb996d8423b6da8f1e8f8884a2
+No-Intro,Bomberman 64 (USA),BOMBERMAN64U,NBME,0 (0x00),big,e6da7c26127788cd894b88b71cc055ff9dec0d0f4f8e10d9b15b40153af2b52a
+No-Intro,Bomberman Hero - Mirian Oujo o Sukue! (Japan),,NBDJ,0 (0x00),big,ce37c2dd12c17f413d94f802760ebf669ceef964044beb44879b3f87e40881d7
+No-Intro,Bomberman Hero (Europe),BOMBERMAN HERO,NBDP,0 (0x00),big,f0323b303dfd4fc0f8eafba20aa8dac25c764ec8ec7a2e4d5933d38f5a763fc3
+No-Intro,Bomberman Hero (USA),BOMBERMAN HERO,NBDE,0 (0x00),big,e021ec484a88c528256dbff80617e599768b074b0918dcec081ecbf365386542
+No-Intro,Bottom of the 9th (USA),Bottom of the 9th,NBOE,0 (0x00),big,f814ecc17de9e4035c324b35f636cef299149e8bf96b9d46fe07fbbcfb98cae3
+No-Intro,Brunswick Circuit Pro Bowling (USA),BRUNSWICKBOWLING,NOWE,0 (0x00),big,0820db5f76a45bbbe6323176b70d4a93256ccde925aee91a6bb500fd0fbd859a
+No-Intro,"Buck Bumble (Europe) (En,Fr,De,Es,It)",BUCK BUMBLE,NBLP,0 (0x00),big,3ac266d98a84f01174ad7ffbb532f3e3bc041a57ebc8874c0b45bb062899a6db
+No-Intro,Buck Bumble (Japan),BUCK BUMBLE,NBLJ,0 (0x00),big,9b4be33fe5adbc911e69546bcb0149c380f00f02c669539411a8cf1d78714ff4
+No-Intro,Buck Bumble (USA),BUCK BUMBLE,NBLE,0 (0x00),big,d21e3d1c2ec4d7f025cfaa119553be9a5fa87a9fd6625ef1ef44dc1d4b0aa54b
+No-Intro,"Bug's Life, A (Europe)",A Bug's Life,NBYP,0 (0x00),big,2c67a977be8c159298d3e1e93e1f2d390994037d73ac786705943ee3dcd9ee53
+No-Intro,"Bug's Life, A (France)",A Bug's Life,NBYF,0 (0x00),big,ca95b985145db27f39d08166829df792a08fb83192368aa4acf9174efa53b12d
+No-Intro,"Bug's Life, A (Germany)",A Bug's Life,NBYD,0 (0x00),big,296969309890de4f1b0b62ca6f8b0ad29742a26817794e33d6ee4846676b137b
+No-Intro,"Bug's Life, A (Italy)",A Bug's Life,NBYI,0 (0x00),big,9e1fe3d012dbe9814e4ef36dab7c18c1a84edf9bdfb7df4d04cea2134e5f3853
+No-Intro,"Bug's Life, A (USA)",A Bug's Life,NBYE,0 (0x00),big,a9a3ad10d2660e0fa8c1c23c6a75f900ee2882569917abab6e258f3bd333a3e4
+No-Intro,Bust-A-Move 2 - Arcade Edition (Europe),Bust A Move 2,NBUP,0 (0x00),big,4536d1d05d0f8cfe84926d758e538ecbf5264debdea9dd87292141a2edbd32d0
+No-Intro,Bust-A-Move 2 - Arcade Edition (USA),Bust A Move 2,NBUE,0 (0x00),big,fb92418bf3673d128807a13a16afc4b3c75f8c04944eea128435d69a1bdf13e9
+No-Intro,Bust-A-Move 3 DX (Europe),Bust A Move 3 DX,NB3P,0 (0x00),big,b8847b703aff8ff887d58b482067fc8dece91856503685b20249c25066c4657c
+No-Intro,Bust-A-Move 3 DX (USA) (Beta) (1998-08-28),Bust A Move 3,NB3E,0 (0x00),big,253edfb7b9ae7b5de846669978dc949ab2b239982b66792df02d50e86e4897e0
+No-Intro,Bust-A-Move '99 (USA),Bust A Move '99,NB3E,0 (0x00),big,2932dae8bcce7cb86bbc15c5f1cca96ba5838c486398d445b248276f1203b501
+No-Intro,California Speed (Europe) (Proto),CAL SPEED,NCLP,0 (0x00),big,42461fe5caba754c5a669220cb8352a4907a32c0e1f93accdd1a23e2e44892ec
+No-Intro,California Speed (USA),CAL SPEED,NCLE,0 (0x00),big,32d083c6570a92614f7ed8221b136ca45eb3d06ca98d8a8342e0a366563ba791
+No-Intro,"Carmageddon 64 (Europe) (En,Fr,De,Es)",CARMAGEDDON64,NCDX,0 (0x00),big,ac47515585ced9013e6a261d4da8216936f68119a1ea084fe5d6c395fa6abee7
+No-Intro,"Carmageddon 64 (Europe) (En,Fr,Es,It)",CARMAGEDDON64,NCDY,0 (0x00),big,9cba33550c919fbeeef732b2b4345f309b7e95c9f8d0384a38fe44ba185b1d29
+No-Intro,Carmageddon 64 (USA),CARMAGEDDON64,NCDE,0 (0x00),big,533a15b5da737fcbb2ae062d1cf2fc7552d64d7ac67293a76c70ebcdd354b01e
+No-Intro,Carnivale - Cenzo's Adventure (USA) (Proto) (2000-07-21),CARNIVAL,NSYE,0 (0x00),big,bb85e7dc83d645755967e70ac3e557afc31217474805884f4a31d4f750060b0d
+No-Intro,"Castlevania - Legacy of Darkness (Europe) (En,Fr,De)",CASTLEVANIA2,ND4P,0 (0x00),big,e78c172c1d554d1c94865969cec9b87a2149c92ec69ebc52b73a46648b5b2395
+No-Intro,Castlevania - Legacy of Darkness (USA),CASTLEVANIA2,ND4E,0 (0x00),big,89e15df6042defddc48c61f7408f99d06fffdb845e2422cf8b5ba8e73d4d70fb
+No-Intro,"Castlevania (Europe) (En,Fr,De)",CASTLEVANIA,ND3P,0 (0x00),big,902f060c7787ffdf83f547203eb1182c737714a2bec5f42c409f05b26ecdb9dc
+No-Intro,Castlevania (USA),CASTLEVANIA,ND3E,0 (0x00),big,0237b439a3adcc2e6c1b24b4ff1b24d2f0d8f04a2d0cc29b8b67cb075f1903c5
+No-Intro,Castlevania (USA) (Rev 1),CASTLEVANIA,ND3E,1 (0x01),big,d7ac93315463b968eb0b628d9047c96b72666c93b72752ab729764a3aca59eee
+No-Intro,Castlevania (USA) (Rev 2),CASTLEVANIA,ND3E,2 (0x02),big,0f53f12e85bcf5799c8c8e9e71957e20c434f8f5823ab95bd1f54c33c16e7b1c
+No-Intro,Centre Court Tennis (Europe),CENTRE COURT TENNIS,NTSP,0 (0x00),big,872ada665b49641f97b3b6e7bb1ebbc09487d6b5fb6ab92a1e5802f5c3e669fb
+No-Intro,Chameleon Twist (Europe),Chameleon Twist,NCTP,0 (0x00),big,b804e8fe18937ddcc781aa8746feefeaec90dcf55dd42f08e78445891ca5f301
+No-Intro,Chameleon Twist (Japan),Chameleon Twist,NCTJ,0 (0x00),big,0e336471285028ba12528a5b6182f95e069e15d12d752b5cbc48368160afed8a
+No-Intro,Chameleon Twist (USA),Chameleon Twist,NCTE,0 (0x00),big,3fbf3b4fd1abf27cde4f100e646e43d99c24afe0120a77fd66fe80b15ae0a5b8
+No-Intro,Chameleon Twist (USA) (Rev 1),Chameleon Twist,NCTE,1 (0x01),big,8ca37d6dc7f3fbd78211d4ed2274cf9c8ac315f81dafa4e2d636e771fdff36c5
+No-Intro,Chameleon Twist 2 (Europe),Chameleon Twist2,N2VP,0 (0x00),big,ae74febfcef8c41c3ce8b633720252b8b067273ecb8e60c7ed13601326b484b2
+No-Intro,Chameleon Twist 2 (Japan),Chameleon Twist2,NV2J,0 (0x00),big,5b9a8acbee9f677e134232c3b2270848922771072e35a1a2c067bc8e3378758b
+No-Intro,Chameleon Twist 2 (USA),Chameleon Twist2,N2VE,0 (0x00),big,43ecfea060ac708446769c2049b9a75beb34be4d0f0aa89dba49c839ccac8ee4
+No-Intro,Charlie Blast's Territory (Europe),CHARLIE BLAST'S,NCBP,0 (0x00),big,ee5608476461947552c8969c217d9eb34065115ce86769f0b00c0f7817c298d9
+No-Intro,Charlie Blast's Territory (USA),CHARLIE BLAST'S,NCBE,0 (0x00),big,7a201d5cc030a921425aa1583edcecdf4394a258819be46c3a0d557c8d1fd7e5
+No-Intro,Chopper Attack (Europe),CHOPPER_ATTACK,NCHP,0 (0x00),big,7f6f4b79dbc80843edc1f9ac67c5e936febcf2d70f93b7434d2698ad8e00b8e2
+No-Intro,Chopper Attack (USA),CHOPPER_ATTACK,NCHE,0 (0x00),big,669fd3b75a5fb3db077f76d1cc74fc3396698d208945511567823165e2515f4d
+No-Intro,Choro Q 64 (Japan),CHOROQ64,NCRJ,0 (0x00),big,e54dd88e65c6a14b7d591118c18d1c69551de334dbebba43d70a96162d63ba32
+No-Intro,Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan),Q64 2,NCGJ,0 (0x00),big,e017605014c4565f88eb58caba5bad7b038693a0db08f2e67dbd4e854bf2bcf1
+No-Intro,Chou Kuukan Nighter Pro Yakyuu King (Japan),PROYAKYUKING,NPKJ,0 (0x00),big,a8267610ebf5832a222de6689a8364ce60b981bc327fbe83bf3871f9e6275255
+No-Intro,Chou Kuukan Nighter Pro Yakyuu King 2 (Japan),2,NP2J,0 (0x00),big,aa02595a3f33ed848d59d06523b2ad0ccad294506827369e3e4c4f826a7a59df
+No-Intro,Chou Snobo Kids (Japan),,NK2J,0 (0x00),big,223416525fe25ef4f74ab829bcc4208c1c3591aa19760c9a4e9cefff17170e4d
+No-Intro,City-Tour GP - Zen-Nihon GT Senshuken (Japan),CITY TOUR GP,NGTJ,0 (0x00),big,8229117b9a8f1d9bfb96e9cc05e5dcd3ad4432d63b5f418c621f953ba554026a
+No-Intro,Clay Fighter - Sculptor's Cut (USA),Clayfighter SC,NC2E,0 (0x00),big,9ccebc317b7ee892be3bdc0d1c8ae46687995908ed51ebd58d6855e5e25abd7f
+No-Intro,Clay Fighter 63 1-3 (Europe),CLAYFIGHTER 63,NCFP,0 (0x00),big,bcab31d4590161691f0eb0ca79cdfbdfd145b647ea78ab1b34b9a7ea4b42f5f6
+No-Intro,Clay Fighter 63 1-3 (USA),CLAYFIGHTER 63,NCFE,0 (0x00),big,357f26c6cd72559c5c05e8c2df46369624630dbcb1c02b3b6f3338f6ac79af07
+No-Intro,Clay Fighter 63 1-3 (USA) (Beta),CLAYFIGHTER 63,NCFE,48 (0x30),big,95fce9f0de21241ec59c96eff75e6445f88a01b667e45a124089a299fca251c7
+No-Intro,"Command & Conquer (Europe) (En,Fr)",Command&Conquer,NCCP,0 (0x00),big,55ad032b303c0006da8d2efe732af32ea2cd7c1f3d2b2b0bcab3c71201229cb7
+No-Intro,Command & Conquer (Germany),Command&Conquer,NCCD,0 (0x00),big,2c43a3277d7b3664ec4aad9e3db65a65d82da229bbf6808802cdf9fe1a39ab72
+No-Intro,Command & Conquer (USA),Command&Conquer,NCCE,0 (0x00),big,cd9113ba6ca54912c08378eef084e1bbb47f0609a8543702e1c07f89d053f908
+No-Intro,Conker's Bad Fur Day (Europe),CONKER BFD,NFUP,0 (0x00),big,8717054d8edcf1bb9fb4607c7ac8fe4d6fb855fe6506f7e5dcba62e414558178
+No-Intro,Conker's Bad Fur Day (USA),CONKER BFD,NFUE,0 (0x00),big,32e6a8b970ec12ac5f782344945aa0c98a193832eefb687529d03bab6948714b
+No-Intro,Conker's Bad Fur Day (USA) (Beta) (2000-08-26) (ECTS 2000),CBFD ECTS,NFUE,0 (0x00),big,dabfed4967a67709730f5e5b1bdc27c3d9d75480a9c89c464a6409deacf57acf
+No-Intro,Conker's Bad Fur Day (USA) (Beta) (2000-10-25),CONKER BFD DEBUG,NFUE,0 (0x00),big,46aed7f7b022c4bed93503b648097c4a741a465a8b61d1964921270126a3316d
+No-Intro,Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program),,,0 (0x00),big,69e616893d731d55a64fdcf16ebf02dbf1219ca75c87e5fcf2b33065e0da4df1
+No-Intro,Cruis'n Exotica (USA),CruisnExotica,NXOE,0 (0x00),big,d26ecb1b3a3dc965acc1063cc243ab573bf5ffca310e96aff2f6d2265a49f0b1
+No-Intro,Cruis'n USA (Europe),Cruis'n USA,NCUP,0 (0x00),big,25fd3ca587edc8316080f28814b7a22fddce2338ef22ac23ed61dbc87b4d8473
+No-Intro,Cruis'n USA (USA),Cruis'n USA,NCUE,0 (0x00),big,2eee547273101e02bb96d0ef3db5e400f0506fba77397719d33b1072617c0558
+No-Intro,Cruis'n USA (USA) (Rev 1),Cruis'n USA,NCUE,1 (0x01),big,9c7cf76974a0219575ff0fc007f9fb2ccd9c1971b7571e3c6269a946f095df5b
+No-Intro,Cruis'n USA (USA) (Rev 2),Cruis'n USA,NCUE,2 (0x02),big,86db95f334c54fd900db7dce9a2f5880e933cc3650e4e4ebfc2def0f4bcd59c6
+No-Intro,Cruis'n USA (USA) (Wii Virtual Console),Cruis'n USA,NCUE,0 (0x00),big,0a0dac296e92ee45248598db422828bf52a2dcd81f1b379b707377b14290eedc
+No-Intro,Cruis'n World (Europe),CRUIS'N WORLD,NCWP,0 (0x00),big,775d164c1e2448dc71b50061ece0fb00aae17f357db97604b47af8f126addb9e
+No-Intro,Cruis'n World (Europe) (Rev 1),CRUIS'N WORLD,NCWP,1 (0x01),big,a73a35fac126d7058c84fbdd2566cc542bd875e9e31fd3cabf33a7ef6536efd6
+No-Intro,Cruis'n World (USA),CRUIS'N WORLD,NCWE,0 (0x00),big,5320594232f0c492a672464832425351bd06497c95fb243745e2493bc5df9c2c
+No-Intro,Custom Robo (Japan),custom robo,NCXJ,0 (0x00),big,9b66c00a983ceccccf17727731173d7c7eeef9f7c13faf44ae89e5d2b9f656c1
+No-Intro,Custom Robo V2 (Japan),CUSTOMROBOV2,NCZJ,0 (0x00),big,60acf8dc7361f155ec8c987f75c6988ca1b0ccd36baefaffd67c24af6d21ace1
+No-Intro,CyberTiger (Europe),CyberTiger,NT4P,0 (0x00),big,868dbb42eb29614da40e298532f4ae86c4905de8c54b73059e41d2aae42a9fc5
+No-Intro,CyberTiger (USA),CyberTiger,NT4E,0 (0x00),big,cb05fdd1aaed4b8db33094d065e87d6ef123db45516816e6f2565cf09e28f395
+No-Intro,"Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)",DAFFY DUCK STARRING,NDUP,0 (0x00),big,296938fb1192d721944e2036b988262af9c556cf432ff9353623495f7e297bb9
+No-Intro,Dance Dance Revolution - Disney Dancing Museum (Japan),DDR DISNEY D MUSEUM,NDFJ,0 (0x00),big,6faae1c2878a411a5cb1a3fcfef5456a3aa010b448a25b476d759365247ecd77
+No-Intro,Dark Rift (Europe),DARK RIFT,NDKP,0 (0x00),big,3c528bd0671c72d1a65ae022617b481d1b7bdfad1109f5fa3c300290e3f7cd35
+No-Intro,Dark Rift (USA),DARK RIFT,NDKE,0 (0x00),big,e9eca077b22369b958dbde8d1a540ad77516d8e0a8e14e4bd982007d291dbae2
+No-Intro,Deadly Arts (USA),DeadlyArts,NGAE,0 (0x00),big,80ba81827277bc1f171a00c4669406a3ef51d419f3aa0d510b9b567b43531a2c
+No-Intro,Defi au Tetris Magique (France),MAGICAL TETRIS,NMTF,0 (0x00),big,7d58b339526d2068f3801c213bca2c1443cab3897d553f3f2595ce2f94b9c857
+No-Intro,Densha de Go! 64 (Japan),GO!64,ND6J,0 (0x00),big,91b32c77c070fc87c194e7945b3a835d6e7c96519e0b0dd8efd29a1c8ab07f5d
+No-Intro,Derby Stallion 64 (Japan),DERBYSTALLION 64,NDAJ,0 (0x00),big,2649337accba282f74bf0ae62a5103d5c9ac09bd1a27da84179722c51b3ad576
+No-Intro,Derby Stallion 64 (Japan) (Beta) [b],,,0 (0x00),big,57b9f9fc8b93f38ad222d5503d8f310f053b103f482016e344cc3cf9133c2448
+No-Intro,"Destruction Derby 64 (Europe) (En,Fr,De)",DESTRUCT DERBY,NDEP,0 (0x00),big,14d3584daec049d12ba802aa6139a2960a9e0400e04c3cdd7ec971ca25498f10
+No-Intro,Destruction Derby 64 (USA),DESTRUCT DERBY,NDEE,0 (0x00),big,91abc085eaf245fc3987442a18dfe00585af615fab61e2306b870e7ff4b9e19c
+No-Intro,Destruction Derby 64 (USA) (Beta) (1998-07-31),,,0 (0x00),big,eead2f3ed135e51794131ddef086264c337879458974a4bad223bdf4c037df0c
+No-Intro,Dezaemon 3D (Japan),DEZAEMON3D,CDZJ,0 (0x00),big,f20163baf3adea0883da4b900b4e74e5c500f1d64b3ccd8b970860f811e11e36
+No-Intro,"Diddy Kong Racing (Europe) (En,Fr,De)",Diddy Kong Racing,NDYP,0 (0x00),big,11578b1dcb8a93a817300b2c43908e937fdf8b2219cd48de88c62a3607e1e88d
+No-Intro,"Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)",Diddy Kong Racing,NDYP,1 (0x01),big,584d59412b3a8c675f5569516a0406128028929e31544490a4dbc3ab16a038b9
+No-Intro,Diddy Kong Racing (Japan),Diddy Kong Racing,NDYJ,0 (0x00),big,d81a6fafde1f9a5d22c930b5ce4e30845beb42503240bc57454edf967ebc55e4
+No-Intro,"Diddy Kong Racing (USA) (En,Fr)",Diddy Kong Racing,NDYE,0 (0x00),big,dcf54c82a58f6b38603b5865e90c3baabfe553a4d141a1ea2b282170a2e98876
+No-Intro,"Diddy Kong Racing (USA) (En,Fr) (Rev 1)",Diddy Kong Racing,NDYE,1 (0x01),big,7de1a8fb2a9558cfc3d9ad4497df698c1e89cf7095ac1531557df2af40ba8bcf
+No-Intro,Die Hard 64 (USA) (Proto) (Level 1),,,0 (0x00),big,f81a4c5da33ade66b936c7388e4094ed9877206c03fe23602d61d6ca7915adc1
+No-Intro,Die Hard 64 (USA) (Proto) (Level 2),,,0 (0x00),big,7530f3c4329230e28a25d759c0a4e0bc14839e32d9ab785fe4dcbe6f54535075
+No-Intro,Die Hard 64 (USA) (Proto) (Level 3),,,0 (0x00),big,d94310dd15e3c62c631ed12e56f539b9080de036f0ac3b901bb062a19f3433df
+No-Intro,Dinosaur Planet (USA) (Proto) (2000-12-01),DINO PLANET,NDPE,0 (0x00),big,22830780902f51aea442825c574b88d404ccf30d726219e4b000edc64bcc60a6
+No-Intro,"Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)",Donald Duck Goin' Qu,NDQE,0 (0x00),big,16948956781b76c13206444a14549adfaa39f4fe9242c6014a9a0ae024fcbe54
+No-Intro,"Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)",Donald Duck Quack At,NDQP,0 (0x00),big,f74318c58ef60f72df354c3b6c647763f09b2c1545ecd8ded7c95e1ca962a8fd
+No-Intro,"Donkey Kong 64 (Europe) (En,Fr,De,Es)",DONKEY KONG 64,NDOP,0 (0x00),big,f704ddc06dda5bee065dd89adcf86aa58bd817684e190094cd0776c0cabba9df
+No-Intro,Donkey Kong 64 (Japan),DONKEY KONG 64,NDOJ,0 (0x00),big,8a6a5b48b0a4d5d31fa59608e65bafe787b8664fbc9dbaecbcce16e41e8934cd
+No-Intro,Donkey Kong 64 (USA),DONKEY KONG 64,NDOE,0 (0x00),big,b6347d9f1f75d38a88d829b4f80b1acf0d93344170a5fbe9546c484dae416ce3
+No-Intro,Donkey Kong 64 (USA) (Demo) (Kiosk),D K DISPLAY,NDPE,0 (0x00),big,c07b247b60272e17f5f0fe4971b971ea9b492b5f107e92eb65810cf4a6d6ff14
+No-Intro,Donkey Kong 64 (USA) (LodgeNet),DONKEY KONG 64,NDOG,0 (0x00),big,cbba422ab7ab29f24502664c4d6da5ffe915065f71eafe1de0ce80f5f6a0eac1
+No-Intro,Donsol (World) (Aftermarket) (Unl),,,0 (0x00),big,f2a7eba26bd3bcaa025365025df5e73741c802b2d0734f591c9e7f4e405a4401
+No-Intro,Doom 64 (Europe),Doom64,NDMP,0 (0x00),big,e8460f2fa7e55172a296a1e30354cbb868be924a454ff883d1a6601c66b9610f
+No-Intro,Doom 64 (Japan),DOOM64,NDMJ,0 (0x00),big,19ad4130f8b259f24761d5c873e2ce468315cc5f7bce07e7f44db21241cef4a9
+No-Intro,Doom 64 (USA),Doom64,NDME,0 (0x00),big,d3404a7e8ca9d20ba034651932e67aa90c6c475c5f4738f222cd1e3056df935f
+No-Intro,Doom 64 (USA) (Beta) (1996-12-10),Doom64,NDME,0 (0x00),big,4b3931c14d548fedf98fcd28681ec45695dec415d39fd4a6d58a877e1c6dd2a2
+No-Intro,Doom 64 (USA) (Rev 1),Doom64,NDME,1 (0x01),big,c28eaac9a8a8cc1d30c1b50fbb04622c2ddeb9b14ddcecc6edbaad4a6d067f3f
+No-Intro,Doraemon - Nobita to 3tsu no Seireiseki (Japan),,NDRJ,0 (0x00),big,3a8c50fd245158cfd37bf6fffd496abd7c68b185e4dc2d901c7cc492659d38cc
+No-Intro,Doraemon 2 - Nobita to Hikari no Shinden (Japan),2,ND2J,0 (0x00),big,4503bf20866cb599d88cf1bb5df4dccbd9265c3386c61ce6c9e1968340124c10
+No-Intro,Doraemon 3 - Nobita no Machi SOS! (Japan),3 SOS!,N3DJ,0 (0x00),big,410f99bdd58795639da272c9be9d1ab8c35b61f24f7c1fb92f7e83e1069a2602
+No-Intro,Doubutsu Banchou (Japan) (Proto),DOUBUTSU BANCHOU,,0 (0x00),big,62d3fb29147b3f7021a15f9810f4732e5e79e4ebe8a19242e6957fdf7edae38c
+No-Intro,Doubutsu no Mori (Japan),DOUBUTSUNOMORI,NAFJ,0 (0x00),big,d9417be056534fcc0bdff2e6cd5f1135511be7c0a4dace04a96a2649596ce908
+No-Intro,Dr. Mario 64 (USA),DR.MARIO 64,NN6E,0 (0x00),big,bb2c0dec0a8287ad256929563d0509801c2f239df883c1cf52cab05b23bd77b6
+No-Intro,Dr. Mario 64 (USA) (LodgeNet),DR.MARIO 64,NN6G,0 (0x00),big,a4a2b0f451745c0ef905f2e727b6fa87aa1c294e15d9275ea7517b66ff940457
+No-Intro,Dragon Sword 64 (Europe) (Proto),DragonStorm,MGVP,0 (0x00),big,8a498dc20583268d9d2406b36ab4765fe7e87fb25f4548d167ce2cf0a41707ad
+No-Intro,Dragon Sword 64 (USA) (Proto) (1999-08-25),DragonStorm,,0 (0x00),big,b833036594701d8973a436a876313cb661e373f2127280760735b3e3c10f832b
+No-Intro,Dual Heroes (Europe),Dual heroes PAL,NDHP,0 (0x00),big,292ffc02db47118a4b94a5581394c2edf41d16f0f1d42e9cbfae73dad78f0b2f
+No-Intro,Dual Heroes (Japan),Dual heroes JAPAN,NDHJ,0 (0x00),big,2d390313b93fbc838ddda8225901f994d5953191853ed3f7549f48720767930c
+No-Intro,Dual Heroes (USA),Dual heroes USA,NDHE,0 (0x00),big,5715846bd3bf7da5c296e10384b7ff4ff6e94ee315856c4ad275d5c2ed9bd712
+No-Intro,"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)",LT DUCK DODGERS,NDUE,0 (0x00),big,2bbfe0cfc6aff7b623ae53673b8f91e9008cc5749fe07920712e0d0f9abe3fc5
+No-Intro,"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 1)",,,0 (0x00),big,bac2d18a2dc57499c9637ef6351df0963bdb8200afdfc9be68df9989758599f9
+No-Intro,"Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta 2) (2000-03-07)",,,0 (0x00),big,d40569054d74b28b3d57e6e17446665d79f6bd59368d3e3cc263355fdb3278f7
+No-Intro,Duke Nukem - Zero Hour (Europe),DUKE NUKEM ZERO HOUR,NDZP,0 (0x00),big,4efcba37b79d2c1beeed9c3aa169346df763760996927aeee4cd1f2385f8b997
+No-Intro,Duke Nukem - Zero Hour (France),DUKE NUKEM ZERO HOUR,NDZF,0 (0x00),big,7fbfe76673e54b681ddeefcfc2c59a4910459af335cc9de22a2335f46abf4972
+No-Intro,Duke Nukem - Zero Hour (USA),DUKE NUKEM ZERO HOUR,NDZE,0 (0x00),big,5ba016567c53b0d111eb175347c6eee603c31783cd2bb3fea97f31b5ff74190f
+No-Intro,Duke Nukem - Zero Hour (USA) (Beta),DUKE NUKEM ZERO HOUR,NDZE,0 (0x00),big,9a679928314ef211c9bf1f5e28e680133d73cd7d0cab0768122be4673cb3e66c
+No-Intro,Duke Nukem 64 (Europe),DUKE NUKEM,NDNP,0 (0x00),big,8aaa9ccee878cee7b9084b721ee0314a2136a5b87f6e394a9c46ab79b5dbc823
+No-Intro,Duke Nukem 64 (Europe) (Beta),duke,NMSE,0 (0x00),big,0609bc62b79f42132e56f439dcd1db6564a6ef07f294f5e6c67ffb0fe7cb3329
+No-Intro,Duke Nukem 64 (France),DUKE NUKEM,NDNF,0 (0x00),big,f51460caf18b6457befb79a62e2930537dceaa409e1dc8a2407226af04671a92
+No-Intro,Duke Nukem 64 (USA),DUKE NUKEM,NDNE,0 (0x00),big,5885913d626849190469a7e0e8ad90729b490d1715f70fe73ef047d24f20964b
+No-Intro,"Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)",EARTHWORM JIM 3D,NJMP,0 (0x00),big,4beb08c33592bb98339c9e0d3df3d5511ea8ca064864be744fd07e29c76345e5
+No-Intro,Earthworm Jim 3D (USA),EARTHWORM JIM 3D,NJME,0 (0x00),big,fb21478839ba3f73b200a6b305d3d888fc38bf841e85454d68e4e5c8987c9890
+No-Intro,ECW Hardcore Revolution (Europe),ECW Hardcore Revolut,NWIP,0 (0x00),big,4902bdb739cea1eb5722a120bf046776eb2bb11bbd9a455f181555f9ea528e48
+No-Intro,ECW Hardcore Revolution (Germany),ECW Hardcore Revolut,NWID,0 (0x00),big,7da42aca9cd1daa7310aab8221085de14779d6d38fefe3dd2b0e09e2f37bb852
+No-Intro,ECW Hardcore Revolution (USA),ECW Hardcore Revolut,NWIE,0 (0x00),big,c12c0f6579d9e49762658c73a58bf5b9a82fab154e29952039b7f8d231869d13
+No-Intro,ECW Hardcore Revolution (USA) (Beta),,,0 (0x00),big,245a8859d079dd5425cc3847186e9fb8ee5d0a3a18ecd388749c74d77c839950
+No-Intro,EEPROM & SRAM Erase Program (USA) (v1.2) (LodgeNet),,,0 (0x00),big,bf1a894e6c62982a3e583fbc281343d027c83b79985145ebc8043a5e50877812
+No-Intro,Eikou no Saint Andrews (Japan),,NSTJ,0 (0x00),big,4d7292884c27dc329499dab22a116bbe0d07b62b4b169138c89d7493b09a2bfa
+No-Intro,Eleven Beat (Japan),ELEVEN BEAT,ZHAJ,0 (0x00),big,f9eff51dbd4f9ca013c34c13619efb77b8c23bf041b6a69be93f19a89683afcb
+No-Intro,Eltale Monsters (Japan),Eltail,NETJ,0 (0x00),big,dd05763200fcff84c29f23c74ea057381e95c64c4677f82fbefabed3d64ab54f
+No-Intro,Excitebike 64 (Europe),EXCITEBIKE64,NMXP,0 (0x00),big,a28143f7dc16e905ca4da25665875a2b0d5489bcc7310ce4465637537ab096d0
+No-Intro,Excitebike 64 (Japan),EXCITEBIKE64,NMXJ,0 (0x00),big,a2227d626690256f6d1242d5fe7c9bbbf8fa5aec2d803a0a138e1e09dd26b635
+No-Intro,Excitebike 64 (USA),EXCITEBIKE64,NMXE,0 (0x00),big,2909229be3cdaac1b5ead544648b970a23e8ea83c2c3a7f891ce121fefe918cc
+No-Intro,Excitebike 64 (USA) (Demo) (Kiosk),EXCITEBIKE64,NNXE,0 (0x00),big,cd056cc339b30b77d9a7afa99bc7f9203d655ba9e34ee4048cc0b36982458263
+No-Intro,Excitebike 64 (USA) (LodgeNet),EXCITEBIKE64,NMXG,0 (0x00),big,b41714d0efa98f20c7710a306dc92a4323e023c921464c32f05b3e34d63d90f1
+No-Intro,Excitebike 64 (USA) (Rev 1),EXCITEBIKE64,NMXE,1 (0x01),big,7f72526876c87423c757ffa2246eb689e4079de473c7a9f599699e6892dfe7ed
+No-Intro,"Extreme-G (Europe) (En,Fr,De,Es,It)",extreme_g,NEGP,0 (0x00),big,45cfbf079b7c5777ee47f3b86c643eeeb406acb2a84c95ec4ab2b5e2d754107b
+No-Intro,Extreme-G (Japan),EXTREME-G,NEGJ,0 (0x00),big,a4784b478525cef90be5576a1acfde1ca23bac254535952811f22385d5e03601
+No-Intro,Extreme-G (USA),extremeg,NEGE,0 (0x00),big,9e67bc574e40ef273759d587972655003d5213e625bfa68d3071dc9782d2071c
+No-Intro,"Extreme-G XG2 (Europe) (En,Fr,De,Es,It)",Extreme G 2,NG2P,0 (0x00),big,de1deae125b6f17048cb240132dbfe918b8fec61fe2ed1fe8e5a2e03995211b3
+No-Intro,Extreme-G XG2 (Japan),G2,NG2J,0 (0x00),big,5004c79552feb976b72aec4fa3e3eba2e19f7e7b6233be58acee9f7b7fb75cbe
+No-Intro,Extreme-G XG2 (USA),Extreme G 2,NG2E,0 (0x00),big,0b5d9904cf45a92396396308506da0ae258afe44a902c96e50d0ff4969c67500
+No-Intro,"F1 Pole Position 64 (Europe) (En,Fr,De)",F1 POLE POSITION 64,NHGP,0 (0x00),big,25e201e65a7d8cd656846b51a39a3cf56a8c5cd4ecb6b577091f61de201ec59d
+No-Intro,"F1 Pole Position 64 (USA) (En,Fr,De)",F1 POLE POSITION 64,NHGE,0 (0x00),big,c41c9679fee76a32aefa4e35e54eff2a90edd3e501c339c18496eb915c7b1736
+No-Intro,"F1 Racing Championship (Brazil) (En,Fr)",F1RacingChampionship,NFRE,0 (0x00),big,cbab945ba0b247d7edba04f64fca46b01adf521fae2235fc4892e4f032d2cc33
+No-Intro,"F1 Racing Championship (Europe) (En,Fr,De,Es,It)",F1RacingChampionship,NFRP,0 (0x00),big,51b765ae7cfdd67ed58a92b5c2181c6c5a6949884df0775b53f72c243f0b6919
+No-Intro,F1 Racing Championship (USA) (Beta),Monaco Grand Prix,NMGE,0 (0x00),big,2fe66b2acd642d8557250df6c5c8b92d58e76997ea09acdca9ccba8387c305a2
+No-Intro,F-1 World Grand Prix (Europe),F1 WORLD GRAND PRIX,NFWP,0 (0x00),big,bc965dee76361aed01d5d745ae1060e010d6d6f118421a6cd6959015767872a6
+No-Intro,F-1 World Grand Prix (Europe) (Beta),F1 WORLD GRAND PRIX,NFWP,0 (0x00),big,94c0cfff085a9e1768d840d9b48f226d6a6c12692e629bf0bb0b1b5f7d955b27
+No-Intro,F-1 World Grand Prix (France),F1 WORLD GRAND PRIX,NFWF,0 (0x00),big,673a8da8fc0dadf665d54f2cfcf319f8f876941dc0f691d956c6e7afebb4e346
+No-Intro,F-1 World Grand Prix (Germany),F1 WORLD GRAND PRIX,NFWD,0 (0x00),big,b64f5b9a3c4afc1907aa71f81edd7df91222a961bd346e0ef57bba6d25900fb4
+No-Intro,F-1 World Grand Prix (Japan),F1 WORLD GRAND PRIX,NFWJ,0 (0x00),big,756bfcd4f823a5306520ad48d14d43b94392e5a8c922653328165b109f1be147
+No-Intro,F-1 World Grand Prix (USA),F1 WORLD GRAND PRIX,NFWE,0 (0x00),big,b5470d259dfebcdf7910257479ff47792bcc83e82f6c70131d4363d7ecb6e7a0
+No-Intro,"F-1 World Grand Prix II (Europe) (En,Fr,De,Es)",F1 WORLD GRAND PRIX2,NF2P,0 (0x00),big,84ad927e250a746b24ab6a9c35264a008d7c27c216da37e5ec1dd46c4c5f699f
+No-Intro,Famista 64 (Japan),64,NFSJ,0 (0x00),big,2be370d02d6626d101cf2096087772457c5fe993363a9ba737583f25c5134c92
+No-Intro,FIFA - Road to World Cup 98 - World Cup e no Michi (Japan),RoadToWorldCup98,N8IJ,0 (0x00),big,c7f3e24c03d47c1406b22ce7117f1b172fd22237683d7c59603ce5b7f96507af
+No-Intro,"FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)",FIFA: RTWC 98,N8IP,0 (0x00),big,baee4f4a6b528eab242f09885c518af282fb02175c622812ecb82d58c79d8849
+No-Intro,"FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)",FIFA: RTWC 98,N8IE,0 (0x00),big,aa6f85b86a40b9388d99324e7ff58c3df67ce666f2dbc5cf01a31357b4f7ccc2
+No-Intro,"FIFA 64 (Europe) (En,Fr,De)",FIFA Soccer 64,N7IP,0 (0x00),big,f00e3398a860839631b1e06ad26454029bf0d35b3fa27703fdbe58dc1e89051f
+No-Intro,"FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",FIFA 99,N9FP,0 (0x00),big,9598ee62390f249f02bd595c8610e5f81a21f71b7d1162f7d1014012ce799db0
+No-Intro,"FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)",FIFA 99,N9FE,0 (0x00),big,1299c143c9310cb03aa7424635fb2e148a00173cf21f9baebbd992c03fb90d43
+No-Intro,"FIFA Soccer 64 (USA) (En,Fr,De)",FIFA Soccer 64,N7IE,0 (0x00),big,4721c09d2f5e33c278dd7bf7b13037d95c54cc357d1c9f71ccde91006f7780a4
+No-Intro,Fighter Destiny 2 (USA),FIGHTER DESTINY2,NFGE,0 (0x00),big,f38166f6d8ef4f04fc698cd8c4885b84622e4eb58f0aefca47b95af1eb7c3c6d
+No-Intro,Fighters Destiny (Europe),Fighter's Destiny,NKAP,0 (0x00),big,45ca5db19ca02452a2b381135f4c866f1a4201e16766f705a3dfd952c04001c4
+No-Intro,Fighters Destiny (France),Fighter's Destiny,NKAF,0 (0x00),big,2e2bb4113ad0f987fb51b13250c015eec6fe8def0244d98be33b8675c82b0649
+No-Intro,Fighters Destiny (Germany),Fighter's Destiny,NKAD,0 (0x00),big,604cf4dc2f8bbf24091e1a3a9ae431d7a98ed10735de7e2f999fb68ce99a088f
+No-Intro,Fighters Destiny (USA),Fighter's Destiny,NKAE,0 (0x00),big,0e6dae67a6e002eb14b4c890fbce18491560c87430e11711f31c0264f6843175
+No-Intro,Fighting Cup (Japan),Fighting Cup,NKAJ,0 (0x00),big,b52c505767ae8ffb9dc1168b7f45efb1e440f83adbc1c76a2c937cfc4a24742a
+No-Intro,Fighting Force 64 (Europe),Fighting Force,NFFP,0 (0x00),big,5747731470434e1b4613d81288f8a7743b41e61c7349acf673eea92685c75c43
+No-Intro,Fighting Force 64 (USA),Fighting Force,NFFE,0 (0x00),big,951b6e3ae20fa5eed054f55e9c345b7eaa913930b330cd87e0ade373233bc417
+No-Intro,Fission Failure 64 (World) (Aftermarket) (Unl),FissionFailure64,,0 (0x00),big,eaaa374a817dc2327133b39371b1f2231fc25a074bee566e678e637eda3f3319
+No-Intro,"Flood64 (World) (En,Fr,Es) (Aftermarket) (Unl)",Flood-64,,0 (0x00),big,3434bfe3df0208ff05afbced300f572b81f78c43377c253c8798a61d7b32ac06
+No-Intro,Flying Dragon (Europe),FLYING DRAGON,NFDP,0 (0x00),big,a67ca1d9a3297429524dfde1bc9cd27d7b9b727c4aa336510211b6d2ef070e0e
+No-Intro,Flying Dragon (USA),FLYING DRAGON,NFDE,0 (0x00),big,9025db18dfa8926b4ad0fbc003b641b3f6ccb107c23adee1195af6e453795060
+No-Intro,"Forsaken (Europe) (En,Fr,Es,It)",Forsaken,NFOP,0 (0x00),big,a94eb83c9e68906d1cfb320bb3d07c74b74f6fa1ac9c57d291e5801cc15e9289
+No-Intro,Forsaken (Germany),Forsaken,NFOD,0 (0x00),big,bbe52d306ec9382629e3cc8c6cc14dcf7c9052c89ce3c0ad6172c8975d77795f
+No-Intro,Forsaken 64 (USA),Forsaken,NFOE,0 (0x00),big,e323fa5e482244ac7b520fd09393c59ddfca6be0666fbb1325554324a945abe0
+No-Intro,Fox Sports College Hoops '99 (USA),Fox Sports Hoops 99,NF9E,0 (0x00),big,f024208dae4c096c3472d880e18e994060c9d7b11140f2fdc7418e68e8aaa8db
+No-Intro,Freak Boy  (Proto),,,0 (0x00),big,e22a3dcc9d4b735698c93ae2ca85572550f303521908fa4c4ef3c74921777223
+No-Intro,Frogger 2 (USA) (Proto 1),Frogger2,NGVE,1 (0x01),big,4789b3b90ac4802af2d56c29fa8e668c099c7287b4f6109d97f8d6bab75fe16d
+No-Intro,Frogger 2 (USA) (Proto 2),Frogger2,NGVE,1 (0x01),big,0bd3d50c0dba7ed314d9fbece9875057a08a95e60a99705d3fc3bc225a0bbfea
+No-Intro,Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan),F3 2,NSIJ,0 (0x00),big,4073a9f6516ef5d15cdd8b259a952a7d07633a2815f2a738fb5d98415d30a458
+No-Intro,F-Zero X (Europe),F-ZERO X,NFZP,0 (0x00),big,1fb61b96aba61ed061201d1267c2dca6532abb12420dc951648b4b06f1eeb181
+No-Intro,F-Zero X (Japan),F-ZERO X,CFZJ,0 (0x00),big,fa28ed5fd250ee7a948919a28720b8d02bd2b5dd59c5c629e04dde8875bd90d5
+No-Intro,F-Zero X (USA),F-ZERO X,CFZE,0 (0x00),big,2be0f861c30752bbdfa727753a454108bc973c27ad814744f191b1278c1f482d
+No-Intro,F-Zero X (USA) (Beta) (The Legend of Zelda - Ocarina of Time leftover data),F-ZERO X,CFZE,0 (0x00),big,8cef0e399c0524052b758109abe894c709a72540a42c4a2118064a5cddf01b6d
+No-Intro,F-Zero X (USA) (LodgeNet),F-ZERO X,NFZG,0 (0x00),big,31bfb67a33b4aa00d0fb0ec6ff019417a1fd57df9c39a3260be1c0cc1587a671
+No-Intro,F-Zero X Climax,F-ZERO X CLIMAX,CFZE,0 (0x00),big,bc86c02d723a6f76cb02fa8d0eef885de8fb27989ae9e7711df5e695b64ed887
+No-Intro,G.A.S.P!! Fighters' NEXTream (Europe),G.A.S.P!!Fighters'NE,NGAP,0 (0x00),big,dcb4b7c2c53b1505e12db2136af1dea4877ba1be446d4524c2bca18dbe65acd3
+No-Intro,G.A.S.P!! Fighters' NEXTream (Japan),G.A.S.P!!Fighters'NE,NGAJ,0 (0x00),big,77f06356547f3da2d2631d7d4ee9a9c193bb2f2052cac5a9f93a2f0dc3ece84f
+No-Intro,GameBooster 64 (Europe) (v1.1) (Unl),(C) MUSHROOM &,KING,32 (0x20),big,2bc1abf5327b8f3f575a51f96db15b1eb9edd788ec90a04abfa232cbf7276f23
+No-Intro,GameBooster 64 (USA) (v1.1) (Unl),(C) MUSHROOM &,KING,32 (0x20),big,15fcd8a0535f9287d0d9f90f6d016ba48b1ae9ee8df7553098292ace7d060159
+No-Intro,GameShark Pro (USA) (v2.0) (Unl),(C) DATEL D&D NU10:0,98,0 (0x00),big,ea7cbf3934f02dc6941428d9d8e8d5996a9960ddc686fd437e707978c7cfb9e3
+No-Intro,GameShark Pro (USA) (v3.3) (Unl),(C) MUSHROOM &NU09:5,p',39 (0x27),big,88b80ef37d73f3382e8c39cdd14a513c2231081d8558ae84cd7f72912d245b22
+No-Intro,Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan),GOEMON2 DERODERO,NG6J,0 (0x00),big,d42e0fcdcc11678f17cd1977f9b774981923bfca22a989d73d7989b09d25bdd8
+No-Intro,Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan),,NG5J,0 (0x00),big,a1d288fa352ef185e0499a63b64dfc937c460da15a10456f180ee71298277413
+No-Intro,Ganbare! Nippon! Olympics 2000 (Japan),OLYMPIC 2000,N3HJ,0 (0x00),big,2256ff68a6043c272157bc7f9790c9bbd22aba9a60703f42f52d5f86c8256a57
+No-Intro,Gauntlet Legends (Europe),GAUNTLET LEGENDS,NGXP,0 (0x00),big,344a04c993618acdbf01f8bc7283874d77ebcc78c534a49f3ac2e38ca61e38a9
+No-Intro,Gauntlet Legends (Japan),GAUNTLET LEGENDS,NGDJ,0 (0x00),big,4e27d82c476bfaa48172aa6230b2d5beb66a7f326d915b1e2e4ad0ccf7736d24
+No-Intro,Gauntlet Legends (USA),GAUNTLET LEGENDS,NGXE,0 (0x00),big,1cc9cb70686b4785c46fff337ded30a2e1f83f2d63768ad8041e978ad0379ec9
+No-Intro,Gauntlet Legends (USA) (LodgeNet),GAUNTLET LEGENDS,NGXG,0 (0x00),big,47fae677c3fd9d0654647f1556791ff9e36fb64e28c2a1b9f167d0d2fdfc88e6
+No-Intro,Getter Love!! - Cho Renai Party Game Tanjou (Japan),Getter Love!!,NGLJ,0 (0x00),big,d66a9b152d32d96fa1360e23437cfd30da7451e444945984387209fceb3a8ff1
+No-Intro,"Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)",Gex 3 Deep Cover Gec,NX3P,0 (0x00),big,68ab684678e59d9b05416fbf3a5964ea7761fee8c447ffb6ad8620a82a16d1a4
+No-Intro,"Gex 3 - Deep Cover Gecko (Europe) (Fr,De)",Gex 3 Deep Cover Gec,NX3X,0 (0x00),big,ca8e4d82ce229b6ca4d58328f874379c3e95171b35c6af5695515c31bef10866
+No-Intro,Gex 3 - Deep Cover Gecko (USA),Gex 3 Deep Cover Gec,NX3E,0 (0x00),big,ec968d0844563fa9b3984f51f648d3676c9e373ed9669b3ce8047070151c89c6
+No-Intro,Gex 64 - Enter the Gecko (Europe),GEX: ENTER THE GECKO,NX2P,0 (0x00),big,c2febf6820928ed6ab87e11847da6c29ee125344427ccbbeb4f66030f63748ff
+No-Intro,Gex 64 - Enter the Gecko (USA),GEX: ENTER THE GECKO,NX2E,0 (0x00),big,665dfdcd28b5055f49896220456c6e3aea2adfac0ec37abebee1fafd2adeb1eb
+No-Intro,Glamorous Zombie Flakes (World) (Aftermarket) (Unl),N64 APP,,0 (0x00),big,15232963b5fd553cb81fd95f0ccfecbeec318575b9145dc3ecd88dfb9ad9b35f
+No-Intro,"Glover (Europe) (En,Fr,De)",Glover,NGVP,0 (0x00),big,3b4537794a4b89920fe6fb0739388e4545e4a7ccd57f3b4ed65d8b26859cc7ab
+No-Intro,Glover (USA),Glover,NGVE,0 (0x00),big,363c84be17c7c11e97df6069ee8f3b205cb190f60e0c02ca223892ff7f47367a
+No-Intro,Glover (USA) (1998-07-16) (Beta) [b],whack 'n' roll,,0 (0x00),big,556987c744fd46a26d4a23c7d2abaf24d6a37f7222c0535bc835818f14c2034c
+No-Intro,Glover (USA) (1998-09-04) (Beta),Glover,NGVE,1 (0x01),big,7bfbdce623cdfdffcebdfc95db1317ab46de8d3189e13c790d1def46b2ff6710
+No-Intro,"Glover (USA) (En,Fr,De) (Aftermarket) (Unl)",Glover,NGVE,2 (0x02),big,50ab53161132f657722c19e69852e69d03db0bc097732cbc245a05cd949bd822
+No-Intro,Glover 2 (USA) (Proto 1),Glover2,NGVE,1 (0x01),big,dad6ce070cbe50be06634c6fb2d306530159c00ae628361926b60439125e3feb
+No-Intro,Glover 2 (USA) (Proto 2),Glover2,NGVE,1 (0x01),big,a099f381d12f3b92c52ca28a4e42cfd8c57c56d27bf7a7c74606bb99db914951
+No-Intro,Goemon - Mononoke Sugoroku (Japan),,NGPJ,0 (0x00),big,3970bb8ba3089b2e4cabefc95e886ecf50b0befbf1a93584cf64fbe94a925d3b
+No-Intro,Goemon's Great Adventure (USA),GOEMONS GREAT ADV,NGME,0 (0x00),big,a16a6d76f7ba325ed35ecbeaafdeb637f1c1fe79205480f56f6cf3b744d5ba86
+No-Intro,Golden Nugget 64 (USA),GOLDEN NUGGET 64,NGNE,0 (0x00),big,85bda93bf603585340170183811856116dde707641e541e1ff2943c2bf2772ce
+No-Intro,GoldenEye 007 (Europe),GOLDENEYE,NGEP,0 (0x00),big,40ff3643d3ed0be1b0b88266d298f455c15bd5a6f1a520c9aa2650b5f4b349de
+No-Intro,GoldenEye 007 (Japan),GOLDENEYE,NGEJ,0 (0x00),big,ec77080ba674068299afea2baf0530165c2a76192025a09c7abbb0b9614cd7ec
+No-Intro,GoldenEye 007 (Japan) (Switch Online),GOLDENEYE,NGEJ,0 (0x00),big,272f656be04c38aa4e7b00bad8a6ea302b98f6a9c19e79773eef0f8ed6ebccf7
+No-Intro,GoldenEye 007 (USA),GOLDENEYE,NGEE,0 (0x00),big,2cdcec8a9f0cb6e36337f3ee39d8ad105dc8afa6ba1c02d466e8f5b771f9a162
+No-Intro,"GoldenEye 007 (USA, Europe) (Switch Online)",GOLDENEYE,NGEE,0 (0x00),big,57dc56aa4b8c66a85d6f83c3068960850dd81f8eaea309e1a7602cb969499fbc
+No-Intro,Goldeneye X,GoldenEye X,NX7E,1 (0x01),big,a338cdf5a3f9653f47113ed2d2b620b9078a31b849e8c6bd91a1ac1997549467
+No-Intro,"GT 64 - Championship Edition (Europe) (En,Fr,De)",GT64,NGCP,0 (0x00),big,928e0763465ddce8109720e529d22cf34fc9567ac965ebe03917e83871e52f28
+No-Intro,GT 64 - Championship Edition (USA),GT64,NGCE,0 (0x00),big,50a81573e42213cde69a3b5179c562e4b17f6887e779411a74219d7714c2ad83
+No-Intro,GT 64 - Championship Edition (USA) (Beta) (1998-05-25),GT64,NGCE,0 (0x00),big,27f8b1096217982402f612ebfbe01f56830795181bb50e542d8143fdfebb8bcf
+No-Intro,Hamster Monogatari 64 (Japan),64,NHSJ,0 (0x00),big,8ebdd2ca91df12f73fb42845e07571ed746ad89d4d648ef11c58c14a0d6b0118
+No-Intro,Hanabi de Doon! - Don-chan Puzzle (Japan),,,0 (0x00),big,b47dc9acf860b8fe1c21e8a41f380202243382f3f3cb3ca9ddf618ae87e1997b
+No-Intro,Harukanaru Augusta - Masters '98 (Japan),MASTERS'98,NM9J,0 (0x00),big,469ec8ff20deaacae51577106e7e301eb9d2b5dec86e9ec9b237ab7910d98709
+No-Intro,Harvest Moon 64 (USA),HARVESTMOON64,NYWE,0 (0x00),big,15c570120bfaa97b4580762f5ee5939a56ba054e696925ea81ccfa55a022d2a6
+No-Intro,Heiwa Pachinko World 64 (Japan),HEIWA  64,NHPJ,0 (0x00),big,e620a0c067ae2131784ad66c58661e3db988810ef9db997cf13fbb0d8fdaf406
+No-Intro,"Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)",HERCULES,NHCP,0 (0x00),big,655bf0ba5eb75d4a21ddaaaf96d308ff11480eca9124140eb010048033bcf62a
+No-Intro,Hercules - The Legendary Journeys (USA),HERCULES,NHCE,0 (0x00),big,8c7d23b9d9a349561f922c90aa128d85abf5ccafc696a2bcd36a434738bf72bc
+No-Intro,Hercules - The Legendary Journeys (USA) (Beta 1),,,0 (0x00),big,39f54f55d0a54a8c71597d9950de2422aba9e3a42a40ecf32a2a39359612c40c
+No-Intro,Hercules - The Legendary Journeys (USA) (Beta 2),HERCULES,NHCE,0 (0x00),big,ca4603878ff685bef382b4184155179f6812cbe02c98b10569a3156970ffc0b0
+No-Intro,Hexen (Europe),HEXEN,NHXP,0 (0x00),big,8f4a7fa1ac976d18aa764272b303c644b137046ad287e97f254f345c584f93eb
+No-Intro,Hexen (France),HEXEN,NHXF,0 (0x00),big,d2dd8eacd6697d0ae9a5bea2d45ed6182eedc3bb7e4f71a9b8330d4fdd9304f7
+No-Intro,Hexen (Germany),HEXEN,NHXD,0 (0x00),big,19269d49e2916c9a4ef29cc82941ad152b9ac0213b57efcf4478891293bb3aaf
+No-Intro,Hexen (Japan),HEXEN,NHXJ,0 (0x00),big,3a87423ed5177eb61da932daabbe339fcf52a1574005579f90c08dd804a6aa04
+No-Intro,Hexen (USA),HEXEN,NHXE,0 (0x00),big,68a16a82f7f404ea39540d6e23797cac4144494d1761c4a7701fb55571bb782e
+No-Intro,"Hey You, Pikachu! (USA)","hey you, pikachu",NPGE,0 (0x00),big,9a255c6d36177283f1a72e3b2d57750b70f6c0f13c361fd60ae8545ab04aca43
+No-Intro,Hi Pai Paradise (Japan),,,0 (0x00),big,9221cb569109dab5a1409d4b43c2b9b6ad96bbd4b562f3e8b1189de6dcddd1aa
+No-Intro,Hi Pai Paradise 2 (Japan),,,0 (0x00),big,7e1190a9d90df3c378a92bfa575a7821f4496f2bebb642b3ae229633495e9f2e
+No-Intro,Hiryuu no Ken Twin (Japan),,NHKJ,0 (0x00),big,26245230ce49d044cef1bb77f63ceb4724d87b3c9bf4b43cf4ad79165e4ecca7
+No-Intro,Holy Magic Century (Europe),Holy Magic Century,NETP,0 (0x00),big,a632d3d77817226e35c7e3bd0467207cbc65a5a2ff3fc27d4a14ea402e27d235
+No-Intro,Holy Magic Century (France),Holy Magic Century,NETF,0 (0x00),big,6e861b0b50149ba9ccb751d06002728cac0610fc3147f0060369c6691f84b3ca
+No-Intro,Holy Magic Century (Germany),Holy Magic Century,NETD,0 (0x00),big,047288fa8ff8b1490eb824ca82bb4662400e99312fb539bfbee0610bc697f62c
+No-Intro,Hoshi no Kirby 64 (Japan),Kirby64,NK4J,0 (0x00),big,c01a3223483e7dad87db8e4b9a4b0860983585278b7295c92544849dab5258cb
+No-Intro,Hoshi no Kirby 64 (Japan) (Rev 1),Kirby64,NK4J,1 (0x01),big,fa7418fced248219d386fb80cbfe1e1dbf77d6e7e820dcd226537c669e5e50d6
+No-Intro,Hoshi no Kirby 64 (Japan) (Rev 2),Kirby64,NK4J,2 (0x02),big,b6cc5bcdc653198d73f3e82f766e6a4e0c3fcc1569bede79a2fdf0bc7ff22d8c
+No-Intro,Hoshi no Kirby 64 (Japan) (Rev 3),Kirby64,NK4J,3 (0x03),big,81eba9acfb169db372a8c4f151f191ed434b64c0c505cf064f0dec9d4ac0ecb7
+No-Intro,"Hot Wheels - Turbo Racing (Europe) (En,Fr,De)",HOT WHEELS TURBO,NHWP,0 (0x00),big,7beda0bb4ef2435aa097094c8622950d4bd34e786bdb6ae30ecd5f390875089f
+No-Intro,Hot Wheels - Turbo Racing (USA),HOT WHEELS TURBO,NHWE,0 (0x00),big,cdedbe26e64ee9a85c214ae85dceb68d14f52d39a01583d8b6a100d206f172a6
+No-Intro,HSV Adventure Racing! (Australia),HSV ADVENTURE RACING,NNSX,0 (0x00),big,c1ab44c36d2442d8f3e2123bd976a2c2768a0940ebe4ac14408db924241e5a6d
+No-Intro,Human Grand Prix - The New Generation (Japan),HUMAN GRAND PRIX,NHGJ,0 (0x00),big,aafcfa30410daca5cf2b6a6315aa7fb0f717c8f36f77f0c059b3b89c8868c1e5
+No-Intro,"Hybrid Heaven (Europe) (En,Fr,De)",HYBRID HEAVEN PAL,NHVP,0 (0x00),big,b8f74146e50eaf17aa7198fc70c27d85ecb4a494951ebef3f7a33352fb0ba7ff
+No-Intro,Hybrid Heaven (Japan),HYBRID HEAVEN JP,NHYJ,0 (0x00),big,377d21f6a9d78def9edfa304da01d1b0a8d52c97dc20559b5bdedc16ef9125d3
+No-Intro,Hybrid Heaven (USA),HYBRID HEAVEN USA,NHVE,0 (0x00),big,5476523049dd35c287cf05e0cc743cf5942dbc88d29bd7c351c220257bd18790
+No-Intro,Hydro Thunder (Europe),Hydro Thunder,NHTP,0 (0x00),big,2fafd6786e8a60a4802f65d5b31ff0568f78438282331d00ae69822643c694c4
+No-Intro,Hydro Thunder (France),Hydro Thunder,NHTF,0 (0x00),big,ba0bd67caa0968b70f18ca0e62fc2c41efd484d906df29d5d296302fe12c6d6f
+No-Intro,Hydro Thunder (USA),HYDRO THUNDER,NHTE,0 (0x00),big,41703c97b3045ab9bd414a3c36e97617c3309a7695233eddf3e5c252936bc20e
+No-Intro,Hydro Thunder (USA) (LodgeNet),Hydro Thunder,NHTG,0 (0x00),big,cc7e097a253347f254cbed0aa2f62cf8c3dc28f8b67c0f673459cecec32d53be
+No-Intro,Hyper Olympics in Nagano 64 (Japan),NAGANO OLYMPICS,NH5J,0 (0x00),big,7acb7105170afe4a25b3167d1ec1010ae4384dee63c75ea64d16156e8b5edf7d
+No-Intro,Ide Yosuke no Mahjong Juku (Japan),,NIMJ,0 (0x00),big,ee36dc5adf5ccaa446e6148d8dc5f4519bdf1c225bf36cee30163a185caaa47c
+No-Intro,Iggy-kun no Bura Bura Poyon (Japan),BURABURA POYON,NWBJ,0 (0x00),big,6b48035c9b6af0fde902ac8d5f29ca471ac040c8fab090be6142ae8ffd69284c
+No-Intro,Iggy's Reckin' Balls (Europe),Iggy's Reckin' Balls,NWBP,0 (0x00),big,d4cb09595833b42ae9c8c4ceb3df5c35e0b013409cd57b11bac955e7b42dc5b1
+No-Intro,Iggy's Reckin' Balls (USA),Iggy's Reckin' Balls,NWBE,0 (0x00),big,cd5fb12c0295f3911f688a2444152a2aadd417cf13f0fd89623f64eb36e630bc
+No-Intro,Iggy's Reckin' Balls (USA) (Beta),reckinballs,NTUE,0 (0x00),big,7ee9782bffccc49380c489a0f02d8248440d478f7ad48c215328e28c4025e8bc
+No-Intro,Indiana Jones and the Infernal Machine (Australia) (Proto),Indiana Jones,NIJP,0 (0x00),big,cd8b4e7f0ce4db07a2e40707b12f74989b3a0239857163bb9a47a40fbe581b22
+No-Intro,Indiana Jones and the Infernal Machine (USA),Indiana Jones,NIJE,0 (0x00),big,6e127e592f098a28c92d2032d71c56af1412e5dd189fe792d9238b12a0928c59
+No-Intro,Indy Racing 2000 (USA),INDY RACING 2000,NICE,0 (0x00),big,1a4672323200183efef8df6e9f4ec6bab230f76731407386a72dbebf6d984d08
+No-Intro,In-Fisherman - Bass Hunter 64 (Europe),BASS HUNTER 64,NFHP,0 (0x00),big,ef0be65a822e0cd2c55cac4616e515a4c6bda3ee31b87ada2bf4e0b77a758af1
+No-Intro,In-Fisherman - Bass Hunter 64 (USA),BASS HUNTER 64,NFHE,0 (0x00),big,58e01e561b72c55c20bcc36f02f5f9b52067c9ae09a9efee53c1453b68d7313f
+No-Intro,"International Superstar Soccer 2000 (Europe) (En,De)",I.S.S.2000,NISX,0 (0x00),big,6ce6739b8ead149857c9442178a1ecd9b7f6d15b93a582c7208ca85d493817bf
+No-Intro,"International Superstar Soccer 2000 (Europe) (Fr,It)",I.S.S.2000,NISY,0 (0x00),big,0424b77df0ddae3996bb3af88c17311b46addc4f510da1ae0e2197df03d50eda
+No-Intro,"International Superstar Soccer 2000 (USA) (En,Es)",I.S.S.2000,NISE,0 (0x00),big,e18e87c062a66002c0cbd7e2dd793ef755609e70675d5679df0396d4b6c67850
+No-Intro,"International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)",I.S.S.2000,NISE,1 (0x01),big,801752ae26086adeaac81dda31e1688af805c9c42ec89ef0d520f6d437c0046f
+No-Intro,International Superstar Soccer 64 (Europe),I S S 64,NJPP,0 (0x00),big,87cad89c16530762708eefa49e2c69d5690a406eab8d39554aaceca9efcc4574
+No-Intro,International Superstar Soccer 64 (USA),I S S 64,NJPE,0 (0x00),big,9ffbfae5865f945da36a1a1a37a6b9b0e5bae21690fef0c5fc3f92a99e16b36f
+No-Intro,International Superstar Soccer '98 (Europe),I.S.S.98,NWSP,0 (0x00),big,1825595b2b42a01c0cb83a00d71313695d83f705a0afc1deb9b6a6f097b02c0f
+No-Intro,International Superstar Soccer '98 (Europe) (Beta) (1998-03-02),,,0 (0x00),big,7540ee55ab721c657e86a73b4e98174e13d47880c35f003833cfe5b90a5124aa
+No-Intro,International Superstar Soccer '98 (USA),I.S.S.98,NWSE,0 (0x00),big,b8a6ef570340ef4890e7122d8db4de421b9410e24a79bd3a314f1f8b5010d5f5
+No-Intro,"International Track & Field - Summer Games (Europe) (En,Fr,De)",IT&F SUMMERGAMES,N3HP,0 (0x00),big,271aaf29620973642eaba225e762c92305f7f10285a21c08ef9d00f55bc8baa6
+No-Intro,International Track & Field 2000 (USA),ITF 2000,N3HE,0 (0x00),big,a29933033fd245ae13dc0bac2f586cb08e1bc162912baaba45369cfde3274e15
+No-Intro,Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan),BassFishingNo.1,NIBJ,0 (0x00),big,e7fda3937ef0b59775ca5caba9df750d7ba67a85722a175870a3f42ba0799af8
+No-Intro,J.League Dynamite Soccer 64 (Japan),64,NDSJ,0 (0x00),big,47c52f44e7487be755d599254c46e5c4272cdb64464f14cd256d16289dca266b
+No-Intro,J.League Eleven Beat 1997 (Japan),J 1997,NJEJ,0 (0x00),big,5a72795e2ef25f75578466e9b783cc9849c2469b50fce4d2e6e64924e108eaac
+No-Intro,J.League Live 64 (Japan),J LEAGUE LIVE 64,NJLJ,0 (0x00),big,8472aae0167eceac08923de4b1f21d7a1302883cc0489ba03fe7d4d5e0db370d
+No-Intro,J.League Tactics Soccer (Japan),TACTICS SOCCER,NSJJ,0 (0x00),big,2858be415c6df31e5d7cb439ea476bfc1464e1700f4757f3496246882f4d74e6
+No-Intro,J.League Tactics Soccer (Japan) (Rev 1),TACTICS SOCCER,NSJJ,1 (0x01),big,bd2a45972912e2bb3f809eada128de9c9df66487aad56bf67fb0091126bae4da
+No-Intro,Jangou Simulation Mahjong Dou 64 (Japan),64,NMAJ,0 (0x00),big,0551fa3be5a840309b1b84cb49174031a1c47cc14ab619a4464e16aaa53db327
+No-Intro,Jeopardy! (USA),JEOPARDY!,NJOE,0 (0x00),big,2ebd827db509397f27c557e017bdcdaaed0a748a73babc25f322bb2faab66100
+No-Intro,Jeremy McGrath Supercross 2000 (Europe),Jeremy McGrath Super,NCOP,0 (0x00),big,0aae47e4a9ae696f7bbd6446fc3b620cb1add70ea9d79a2d26f9693c5df0dd88
+No-Intro,Jeremy McGrath Supercross 2000 (USA),Jeremy McGrath Super,NCOE,0 (0x00),big,bf5d67ce97052ee1b50928647d766eca388dbcfc69b1d7f4adeba7e8610f04e7
+No-Intro,Jeremy McGrath Supercross 2000 (USA) (Beta),mc47.rom,NTUE,0 (0x00),big,ecfff6f16825c5aabb939b2448f0c138ceebd379d1ca64e0a8ef81d394ff0a37
+No-Intro,"Jet Force Gemini (Europe) (En,Fr,De,Es)",JET FORCE GEMINI,NJFP,0 (0x00),big,0e8dce17d1df452787341e6f137d987048b6ba94459dfdfc1da815e332542d71
+No-Intro,Jet Force Gemini (USA),JET FORCE GEMINI,NJFE,0 (0x00),big,159dde164c475976a3e527fbb20978431d4765f2c63019b3530c3aa8772595aa
+No-Intro,Jet Force Gemini (USA) (Demo) (Kiosk),J F G DISPLAY,NJDE,0 (0x00),big,290c4d98e308afc8ab5cf4444de6c54c7cae2bc41d07e9fe8ae6a8bc4a9bebd6
+No-Intro,Jikkyou G1 Stable (Japan),G1STABLE,NGSJ,0 (0x00),big,69a4153edb765c34f4959313be6614b18de950efd54e2d809cf6fbe938e0da78
+No-Intro,Jikkyou G1 Stable (Japan) (Rev 1),G1STABLE,NGSJ,1 (0x01),big,4f21d245206efb17a208af9acabbd5e786705c668334ff293494853c785c0359
+No-Intro,Jikkyou J.League 1999 - Perfect Striker 2 (Japan),PERFECT STRIKER2,NPSJ,0 (0x00),big,277742ddefd070cc789cf681895738e5d23a825fae7a0318de2e7c944356d607
+No-Intro,Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1),PERFECT STRIKER2,NPSJ,1 (0x01),big,58671bbcd278749c5a98cd9f1562b600cfc96b6f4c8b9c488af9473c4e1e9115
+No-Intro,Jikkyou J.League Perfect Striker (Japan),PERFECT STRIKER,NJPJ,0 (0x00),big,a2887e9cc91f1a434c3b0d5efc75568e8c6f328ac0a6e593a28fc7b7395465c9
+No-Intro,Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan),PAWAPURO 2001B,NPEJ,0 (0x00),big,d2b20bf8e9ca537691d4b6deec803ed5f674f3853d67b19d94cb4407b6d265cf
+No-Intro,Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1),PAWAPURO 2001B,NPEJ,1 (0x01),big,d9361543b868271f96ca070e37bb99fc57373df30b88c07987ea2f890d1ee2af
+No-Intro,Jikkyou Powerful Pro Yakyuu 2000 (Japan),PAWAPURO 2000,NPAJ,0 (0x00),big,209c2fb444e6a617b22cc41723da4502e30a8c00d9c3a367debff839ddc9df0b
+No-Intro,Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1),PAWAPURO 2000,NPAJ,1 (0x01),big,b09273e8271926f62ec051a9dbf17915d3674fba15dcda59f0dac5b5583a681f
+No-Intro,Jikkyou Powerful Pro Yakyuu 4 (Japan),PAWAFURU PUROYAKYU4,NP4J,0 (0x00),big,f4d22c3968322a0a8b871431e407b520df75403ae9a069f27cc06cb5cf2b85eb
+No-Intro,Jikkyou Powerful Pro Yakyuu 4 (Japan) (Beta) (1996-11-30),,,0 (0x00),big,ff573185ac868da487adc666beafb76966691b82e9b8ca3457d113e34d725fb9
+No-Intro,Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1),PAWAFURU PUROYAKYU4,NP4J,1 (0x01),big,3d53672b8c2c311902ea897d7c89418570d1c35387b1e845f8fbc0d9714cccab
+No-Intro,Jikkyou Powerful Pro Yakyuu 5 (Japan),PAWAFURU PUROYAKYU5,NJ5J,0 (0x00),big,668ceaa2a444558725f186f2e0080685f941f43b466d02aaf2c1dfbdf6ba6569
+No-Intro,Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1),PAWAFURU PUROYAKYU5,NJ5J,1 (0x01),big,22f8dd87f59eb56c6f3ec00be9bf59e275c4dc10ce67d57716722cf9f183e611
+No-Intro,Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2),PAWAFURU PUROYAKYU5,NJ5J,2 (0x02),big,dc6654b03e80a986424a36943c7a87bed89cc3237a7351b2b2d285404aed00a1
+No-Intro,Jikkyou Powerful Pro Yakyuu 6 (Japan),PAWAFURU PUROYAKYU6,NP6J,0 (0x00),big,a1bfce91126b3792567a1d1a66c40e08e7eabc3d0ccce2920253118d9ac0be8f
+No-Intro,Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1),PAWAFURU PUROYAKYU6,NP6J,1 (0x01),big,ac8a8f796b018cccc07a9cffe1dd904d4c164cbcbb9cffa41271620f346d75d8
+No-Intro,Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2),PAWAFURU PUROYAKYU6,NP6J,2 (0x02),big,c954df4098801649763119bf3e21ea21b1846ae0321f55813698fc8b2f53db73
+No-Intro,Jikkyou World Soccer - World Cup France '98 (Japan),J.WORLD CUP 98,NWSJ,0 (0x00),big,3d3ceb9e812a624de169af4efe8728408d52898cbbb9759feceb39f1fca714b0
+No-Intro,Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1),J.WORLD CUP 98,NWSJ,1 (0x01),big,a16ed7eec2e0e79b443581e1cbb9d97dcd0e73d168a0f4b193176ee1aa5ef0ee
+No-Intro,Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2),J.WORLD CUP 98,NWSJ,2 (0x02),big,c9450fc1f47a691043cbb1d72184395ddabc493ee4aa38283cb836199341a3e5
+No-Intro,Jikkyou World Soccer 3 (Japan),J WORLD SOCCER3,NJ3J,0 (0x00),big,1e5597a278e41ced15c613783c93d9af6d63f8900d09c01c8ca1e88bf22e8b84
+No-Intro,Jikuu Senshi Turok (Japan),turok_dinosaur_hunte,NTUJ,0 (0x00),big,78cd7b8174f1e54bae8a77b1c1314a0a147752635b2c95668e34464fedcf4d2d
+No-Intro,Jinsei Game 64 (Japan),JINSEI-GAME64,NJGJ,0 (0x00),big,bfa3cbe991967318eecabac89883427ec29cf071373e97751dccc99cd7efe70d
+No-Intro,"John Romero's Daikatana (Europe) (En,Fr,De)",DAIKATANA,NDWP,0 (0x00),big,3bbf87a2fb2479996cd544758b38ac09861b77235fb8f35b31150e481966653b
+No-Intro,John Romero's Daikatana (Japan),DAIKATANA,NDWJ,0 (0x00),big,d733debf3a38c643127d58e84b086f44948bd630bf6449030db8cea1ca51abf8
+No-Intro,John Romero's Daikatana (USA),DAIKATANA,NDWE,0 (0x00),big,b7a2db013ff1e0628fec4dd87399eb01ede4a3f185be2e7653ff2e072bf42f6c
+No-Intro,Kakutou Denshou - F-Cup Maniax (Japan),KAKUTOU DENSHOU,NFYJ,0 (0x00),big,aa4b4f7528a8f465ef0152652f86888790b6ab0ec0fdced22e349885afcdff64
+No-Intro,Ken Griffey Jr.'s Slugfest (USA),KEN GRIFFEY SLUGFEST,NKJE,0 (0x00),big,85bea38c90d9f6e023afea3053207b46ed8397a55e682fad2727c744e645b6e5
+No-Intro,Killer Instinct Gold (Europe),Killer Instinct Gold,NKIP,0 (0x00),big,a77af932a359c4cd9f17f38e22ebccb3e11ae3dfd58da2780fbdec780809a4c0
+No-Intro,Killer Instinct Gold (USA),KILLER INSTINCT GOLD,NKIE,0 (0x00),big,660bc99b0023b731348535d160d894700fa4bab5b750dff70bd3ce79596f5793
+No-Intro,Killer Instinct Gold (USA) (Rev 1),KILLER INSTINCT GOLD,NKIE,1 (0x01),big,6cb27a5e1be6e65a8959a1b35dcd92f6203b45a1aaf5bcf573452d027943266c
+No-Intro,Killer Instinct Gold (USA) (Rev 2),Killer Instinct Gold,NKIE,2 (0x02),big,f80cae340efadf5725cd0f75441addb9186be9860267595be2b4a2d317b05f8a
+No-Intro,King Hill 64 - Extreme Snowboarding (Japan),KING HILL 64,NSBJ,0 (0x00),big,bd5a3fc86952f24948d67bf55d5dc3dd62f4c9aa692670be508b3d06e7b2fda3
+No-Intro,Kiratto Kaiketsu! 64 Tanteidan (Japan),64,N64J,0 (0x00),big,a0b6a57a5b966870259f163b8e617649f15278c864d6b16ad3c551198684e07d
+No-Intro,Kirby 64 - The Crystal Shards (Europe),Kirby64,NK4P,0 (0x00),big,391a33a74dedffb870aad78c19d1d8c443f4b6963c582066ee77b14b343ba520
+No-Intro,Kirby 64 - The Crystal Shards (USA),Kirby64,NK4E,0 (0x00),big,2f579751d7ad2824dfd8a6141570306bfaeda1cff40139ba231c30b8591d681c
+No-Intro,Kirby 64 - The Crystal Shards (USA) (LodgeNet),Kirby64,NK4G,0 (0x00),big,d9791c17ea32134be19126827d4536bfcad1c681fe4351bf434f925035e72d89
+No-Intro,Knife Edge - Nose Gunner (Europe),KNIFE EDGE,NKEP,0 (0x00),big,07578b1e624fce4ad366f1fc5c446e4516592da3a1f072730656ae0c5cdfd103
+No-Intro,Knife Edge - Nose Gunner (Japan),KNIFE EDGE,NKEJ,0 (0x00),big,ab0ddac8fce7ba6dfd4f3cf83eb801a5bf64181515de9fb4fe42f91e0bcb8143
+No-Intro,Knife Edge - Nose Gunner (USA),KNIFE EDGE,NKEE,0 (0x00),big,467fcb503f384d2479fb3a5fe22405089f56ecab38a3acd1a6aaf0d8b73372b5
+No-Intro,Knockout Kings 2000 (Europe),Knockout Kings 2000,NKKP,0 (0x00),big,9b01ba8aae55151d3445bab551150c884959af7a4897566946b43f7bd6ae394f
+No-Intro,Knockout Kings 2000 (USA),Knockout Kings 2000,NKKE,0 (0x00),big,e34165bdcfcf6dff6322ec6faf23f59ce38d43417573e6eb41233ebf7309e293
+No-Intro,Kobe Bryant in NBA Courtside (Europe),NBA COURTSIDE,NNBP,0 (0x00),big,260f1a046ba71e42555bdb8a698a437d4a42acce09c10f1c03731c383f890381
+No-Intro,Kobe Bryant in NBA Courtside (USA),NBA COURTSIDE,NNBE,0 (0x00),big,7b4970b3e94877b347722bb919ec5b7855bc819a91090388ffd5b62697229a26
+No-Intro,Kuru Kuru Fever (Japan),,,0 (0x00),big,b7b7d577e78796d78d7bb3a564a0d1e424f02e6d769854b81371e0ca804e0d0c
+No-Intro,Last Legion UX (Japan),LASTLEGION UX,NLLJ,0 (0x00),big,cae4ea984be5b2f81c06a6815f8f20e63a1b7d5b4b089d55caf7cb1a9ed5b427
+No-Intro,"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)",ZELDA MAJORA'S MASK,NZSP,0 (0x00),big,d64d412d595ca32a248320da56772291b6bac7bcd942752f357c4bba367685e6
+No-Intro,"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)",ZELDA MAJORA'S MASK,NZSP,1 (0x01),big,f760c811e02b4951873a5919b3a1c84fda68e5042aa5d9f69ee8368ac72b0297
+No-Intro,"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)",ZELDA MAJORA'S MASK,NZSP,1 (0x01),big,d56ab6b0e5351e60e57a625388e05b06abf61f74d6a133f714c3611436d15b57
+No-Intro,"Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)",ZELDA MAJORA'S MASK,NZSP,1 (0x01),big,9324080ea23a84763e2faef7cfabeb602c9dd6824e49776523e2066b6355e9f2
+No-Intro,"Legend of Zelda, The - Majora's Mask (Europe) (GameCube)",ZELDA MAJORA'S MASK,NZSP,2 (0x02),big,1107372efe4843a66ad21ad9116decb969d7f878187b77d55ffeabdfee1024e9
+No-Intro,"Legend of Zelda, The - Majora's Mask (USA)",ZELDA MAJORA'S MASK,NZSE,0 (0x00),big,efb1365b3ae362604514c0f9a1a2d11f5dc8688ba5be660a37debf5e3be43f2b
+No-Intro,"Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)",MAJORA'S MASK,NDLE,0 (0x00),big,d56fefd1e30ab2265649afc8570876251bad81575a9982c01aa62b8eb9e122e4
+No-Intro,"Legend of Zelda, The - Majora's Mask (USA) (GameCube)",ZELDA MAJORA'S MASK,NZSE,0 (0x00),big,e951a0cd34c137267a6434c62b97947e62486212aab5dd412e17131428c6e5d5
+No-Intro,"Legend of Zelda, The - Majora's Mask (USA) (LodgeNet)",ZELDA MAJORA'S MASK,NZSG,0 (0x00),big,346b519652aac3c561b3ac40d59312fb500122fc1f2ee3438c76ee22ee4c1048
+No-Intro,"Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (En,Fr,De) (GameCube)",THE LEGEND OF ZELDA,NZLP,15 (0x0F),big,ed392a890d5fab1c4d6863c69a40df6ca966f568160f2b2a9a73e5d02a6e93c2
+No-Intro,"Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube) (Debug)",THE LEGEND OF ZELDA,NZLP,15 (0x0F),big,dd30b6f31f764e024d5d79d6bf4c27f077a2ff917ae7d5e73f79e8967f64144e
+No-Intro,"Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)",THE LEGEND OF ZELDA,CZLE,15 (0x0F),big,2a8d9dff460757a0f506a43db9b929510777ef690df620fb4364069a653372a8
+No-Intro,"Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)",THE LEGEND OF ZELDA,NZLP,15 (0x0F),big,f2ed79515542faecfdb054cc5228b3f755bfa6c5fd4df52811240cbaaaa979e1
+No-Intro,"Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-21) (GameCube) (Debug)",THE LEGEND OF ZELDA,NZLP,15 (0x0F),big,94bdeb4ab906db112078a902f4477e9712c4fe803c4efb98c7b97c3f950305ab
+No-Intro,"Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)",THE LEGEND OF ZELDA,NZLP,0 (0x00),big,f29d21e10f77c44d933f07ff6d0f593d4267925f1e6834ce55e239b6037549e7
+No-Intro,"Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)",THE LEGEND OF ZELDA,NZLP,1 (0x01),big,74f9266fd7fa23cc700b5b46a21fbe99cdc6ea10438bc4b48eeb625763b8611c
+No-Intro,"Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)",THE LEGEND OF ZELDA,NZLP,15 (0x0F),big,f788793d27aac3f8d91be5f242c4134217c615bfddd5c70384521ea2153435d2
+No-Intro,"Legend of Zelda, The - Ocarina of Time (USA)",THE LEGEND OF ZELDA,CZLE,0 (0x00),big,c916ab315fbe82a22169bff13d6b866e9fddc907461eb6b0a227b82acdf5b506
+No-Intro,"Legend of Zelda, The - Ocarina of Time (USA) (Beta)",THE LEGEND OF ZELDA,CZLE,0 (0x00),big,68bbdd74169510d128e193b93047cad9197e689c33dbbd52ba7414f5b2ffb1ca
+No-Intro,"Legend of Zelda, The - Ocarina of Time (USA) (GameCube)",THE LEGEND OF ZELDA,CZLE,15 (0x0F),big,00712c4951c3823978898b6e1b7b084ab9b7a1d09ad3189307ca8556ef53c761
+No-Intro,"Legend of Zelda, The - Ocarina of Time (USA) (LodgeNet)",THE LEGEND OF ZELDA,NZLG,0 (0x00),big,79d91ac7e5ea3b9ec7ef83b049be3ab2d7154e551160774ca2d459df340b5c26
+No-Intro,"Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)",THE LEGEND OF ZELDA,CZLE,1 (0x01),big,fb87a0dac188f9292c679da7ac6f772acebe6f68e27293cfc281fc8636008db0
+No-Intro,"Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)",THE LEGEND OF ZELDA,CZLE,2 (0x02),big,49acd3885f13b0730119b78fb970911cc8aba614fe383368015c21565983368d
+No-Intro,"Legend of Zelda, The - The Sealed Palace (USA) (v1.21) (Aftermarket) (Pirate)",THE LEGEND OF ZELDA,CZLE,0 (0x00),big,cd9730968e562b7167b76d4cef652ef5c66457b21011e53b00815adde949f321
+No-Intro,"Legend of Zelda, The - The Sealed Palace (USA) (v1.3) (Aftermarket) (Pirate)",THE LEGEND OF ZELDA,CZLE,0 (0x00),big,b382a5a121663afe0d98c4ab685bea047b7cc61d103c3394af65973b08f89b3e
+No-Intro,"LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",LEGORacers,NLGP,0 (0x00),big,4709368b2f11fb724e91eaefe3aebc97b04e9c5d664f476d18cb5e48352c4af3
+No-Intro,"LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",LEGORacers,NLGE,0 (0x00),big,dbbfdfde4abf4b0bec60470fe8ed412f2b0a360b9237066b952ef8d53f74c0ce
+No-Intro,Let's Smash (Japan),LET'S SMASH,NTSJ,0 (0x00),big,30cb478a7a3e136d54d4402e904662906b423978d397ac459bb1f180917d818c
+No-Intro,"Lode Runner 3-D (Europe) (En,Fr,De,Es,It)",Lode Runner 3D,NLRP,0 (0x00),big,9a0bcf401a512c7d0fbc5686f91599e7d6f61c627c848ba841b3f774181d4292
+No-Intro,Lode Runner 3-D (Japan),Lode Runner 3D,NLRJ,0 (0x00),big,f786d68e7db5f2e0f3dd852ebaddcbc2f5f067d4c737f4bad181804df17a3829
+No-Intro,Lode Runner 3-D (USA),Lode Runner 3D,NLRE,0 (0x00),big,c2d408a2b5b27d3e52d27a64338a2a617d8dd3f6edd0896b8fc0ef8211d07af0
+No-Intro,"Lylat Wars (Australia) (En,Fr,De)",STARFOX64,NFXU,0 (0x00),big,3033274692ea008d4525165da035def6181b92975265fe739787aadc65ac55ae
+No-Intro,"Lylatwars (Europe) (En,Fr,De)",STARFOX64,NFXP,0 (0x00),big,6604c219c2835446522d03a7a3f3634fb00a27703fd6b7f318d98f003806e3a4
+No-Intro,Mace - The Dark Age (Europe),MACE,NMEP,0 (0x00),big,73762463297ce7b9c82d8d8630b0d523d93ce9753630357dcda9341443ba26d0
+No-Intro,Mace - The Dark Age (USA),MACE,NMEE,0 (0x00),big,d24b70cb33031fbcbb9e05b49d45753961d46d785a5a6d6f52406decb6af67bd
+No-Intro,Mace - The Dark Age (USA) (Beta),,,0 (0x00),big,7be225fb574fcccd1a7f46f0a2c2e0e44709e555a0ec1badb38385246dfaf3b7
+No-Intro,Madden Football 64 (Europe),MADDEN 64,N8MP,0 (0x00),big,7eaef372a0e0f00a8e0150150686d1c72a87c5232a9ea3b374424275efdad059
+No-Intro,Madden Football 64 (USA),MADDEN 64,N8ME,0 (0x00),big,39f25dad3af4782a909bf58d7127acae700ea7c6f17c48d39ab76fe331735d6f
+No-Intro,Madden NFL 2000 (USA),Madden NFL 2000,NMDE,0 (0x00),big,a5584fd350722f0f1c9792820b9de528665954142ebcee6c236782db8c895822
+No-Intro,Madden NFL 2001 (USA),Madden NFL 2001,NFLE,0 (0x00),big,f9dc0e73a76ac936b176475bdbb0bc260054223112a32b30ed2f8ee32b4c7a49
+No-Intro,Madden NFL 2002 (USA),Madden NFL 2002,N2ME,0 (0x00),big,1ffc43042b9d374ee121d5c784fb78f6fc2092c5d66344ed0c356b1e091a7b16
+No-Intro,Madden NFL 99 (Europe),MADDEN NFL 99,N9MP,0 (0x00),big,0614ccd5bbe6fa5b40f899ca000505390bf49eb6a13f6c1b053ba827c84309b6
+No-Intro,Madden NFL 99 (USA),MADDEN NFL 99,N9ME,0 (0x00),big,e1bc1ce2fe40c4ec803e6eb0bc762bcd0d9d9fb501e9c3c71fb249369506d454
+No-Intro,Madden NFL 99 (USA) (1998-08-05) (Beta),MADDEN NFL 99,N9ME,0 (0x00),big,ea01956a11a9bc078e6432ca0cc9b16b883e21f7dd8193bf30f5b121bd152846
+No-Intro,Madden NFL 99 (USA) (Rev 1),MADDEN NFL 99,N9ME,1 (0x01),big,1a886962d6e9b45c6e0e5b7320aff3bda4402fd8fe1e7792cfa0b5da9abb186e
+No-Intro,Magical Tetris Challenge (Europe),MAGICAL TETRIS,NMTP,0 (0x00),big,4969ca08fc257633aa58f48811fb3e5fe79b0eed3b9f2e81a2735f14d13d4368
+No-Intro,Magical Tetris Challenge (Germany),MAGICAL TETRIS,NMTD,0 (0x00),big,9593e413a8fcd9eccc93862a7af5636be045dcfb069a216f4d4dd7f42e665169
+No-Intro,Magical Tetris Challenge (Japan),MAGICAL TETRIS,ZCAJ,0 (0x00),big,89ea76104d80cf0b77da9c2915f9aa02fdc6adba7660bd9bfa13d44c6ab54b5a
+No-Intro,Magical Tetris Challenge (USA),MAGICAL TETRIS,NMTE,0 (0x00),big,f2d67829d05066fb06f5c02b27eb2e36f2bfa37e7917b3ccacc2ad842a83fb86
+No-Intro,Magical Tetris Challenge featuring Mickey (Japan),MAGICAL TETRIS,NMTJ,0 (0x00),big,eed602ee01838de7e351b3f2425f85e6c874ad3485eca74c161f0cd5a36063ad
+No-Intro,Mahjong 64 (Japan),MAHJONG64,NMJJ,0 (0x00),big,2b6e49e02a233cabdc3f7ee510dc27ee64d7fee8972692f72ea83e835be0198c
+No-Intro,Mahjong Hourouki Classic (Japan),CLASSIC,NMHJ,0 (0x00),big,884124f9e2c26aeb5f88817a8b06179b05b78bd984852d28602c57390d33b8a6
+No-Intro,Mahjong Master (Japan),,NMMJ,0 (0x00),big,f0ebcefe6c459087d69cdde8a612509a95c9094008731aceaf40408548822919
+No-Intro,Major League Baseball Featuring Ken Griffey Jr. (Australia),MLB FEATURING K G JR,NKGP,0 (0x00),big,5e2c3a938d237b81b0c2c446c264c9f72832ddb667af4dfd9582fd6a206680a4
+No-Intro,Major League Baseball Featuring Ken Griffey Jr. (USA),MLB FEATURING K G JR,NKGE,0 (0x00),big,c489d247f13d0ac6ba71b3bbc6052100a8d582576df8e2a80988ee20b1dcb821
+No-Intro,Mario Golf (Europe),MarioGolf64,NMFP,0 (0x00),big,9df6ee0c9a3b463032726400de0e2879578ee55c0d03876bf9d7507e56aa99b9
+No-Intro,Mario Golf (USA),MarioGolf64,NMFE,0 (0x00),big,871134c893d5d671ef90c88dfbe98fb20fa20853b3370936a1d09aee6de1beae
+No-Intro,Mario Golf (USA) (LodgeNet),MarioGolf64,NMFG,0 (0x00),big,47242d19097c4b0e37f2ee4e665033a0eaa43d57e31597d2af533df8135d571f
+No-Intro,Mario Golf 64 (Japan),MarioGolf64,NMFJ,0 (0x00),big,7a8180e46e1761bae7add2a46cad472c9d328f16e8c574a46915adc1f658620e
+No-Intro,Mario Golf 64 (Japan) (Rev 1),MarioGolf64,NMFJ,1 (0x01),big,9a7b624eaa0625d2eea38e54afdd7b3aca906464736109da185be45a7bd93845
+No-Intro,Mario Kart 64 (Europe),MARIOKART64,NKTP,0 (0x00),big,b98b2944c896f6e007876a9309b6d05d24299678b137106dd49fe357cf291e62
+No-Intro,Mario Kart 64 (Europe) (Rev 1),MARIOKART64,NKTP,1 (0x01),big,8d9d2a68bbc5e9512200cab281b6d98c1d49e1028c092e3fb821ae4076e1ce6d
+No-Intro,Mario Kart 64 (Japan),MARIOKART64,NKTJ,0 (0x00),big,9231d689bcf0986a78a9e7505bde3c04dd38083cc94efc66591a1208b0d50371
+No-Intro,Mario Kart 64 (Japan) (Rev 1),MARIOKART64,NKTJ,1 (0x01),big,ffe65c81d29a901cc6831eabf9a49aef31acbe6e55ec5b56b73d9238a00dfd8d
+No-Intro,Mario Kart 64 (USA),MARIOKART64,NKTE,0 (0x00),big,d6b8538dd63f0132ecb2856e7d32816ed3c30e3e479aecd23cf83fb6ba17a5da
+No-Intro,Mario Kart 64 (USA) (LodgeNet),MARIOKART64,NKTG,0 (0x00),big,bd78e0280ee3d717e96e31294d4dbe0e91e57290ea6fc8052f8fa2133d09f4f3
+No-Intro,Mario no Photopie (Japan),,NMPJ,0 (0x00),big,616f74a23cd5730fed7059892cc87420e4f7da174b425ebe8eff088366a7d252
+No-Intro,"Mario Party (Europe) (En,Fr,De)",MarioParty,NLBP,0 (0x00),big,48e6cbb83735ec4e4662866fa99cd6895da97a3b90814f5078bfabd132cbfb9a
+No-Intro,Mario Party (Japan),MarioParty,CLBJ,0 (0x00),big,2fed99bec5458b07900bbc58cbacf0bbec46b3250ac35de00100310d7265c09d
+No-Intro,Mario Party (USA),MarioParty,CLBE,0 (0x00),big,ca4fb9605fff4884e9ba4319dfa23d96b7347ce88ffb8d04e6c25a3a9ff9ed6a
+No-Intro,"Mario Party 2 (Europe) (En,Fr,De,Es,It)",MarioParty2,NMWP,0 (0x00),big,4fe18c71dba3520dab2a0618fdd949cf0869579325ea2ecfd2040337daff3863
+No-Intro,"Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)",MarioParty2,NMWP,0 (0x00),big,43a49a9208c8b7f6420502d9923df88ab10095907d5e48c9c826abd72993b390
+No-Intro,Mario Party 2 (Japan),MarioParty2,NMWJ,0 (0x00),big,bae1720d257791b58fc29189241553d64dece6ce241a6c2af275bf77d25bb96f
+No-Intro,Mario Party 2 (Japan) (Wii Virtual Console),MarioParty2,NMWJ,0 (0x00),big,62c88b6954b71990082e6dd4700f6934e90827439bc3df6b6fb97621e4240db9
+No-Intro,Mario Party 2 (USA),MarioParty2,NMWE,0 (0x00),big,0b7b2ec3bd2ac8713b4c43f74a634285a720779964ee2658f7ad2dfa97b33576
+No-Intro,Mario Party 2 (USA) (Wii Virtual Console),MarioParty2,NMWE,0 (0x00),big,d27f886a433dc58b62502eb0594fe410ed32bd7610ef4819c42f71ceb6c0b3de
+No-Intro,"Mario Party 3 (Europe) (En,Fr,De,Es)",MarioParty3,NMVP,0 (0x00),big,23a33bd5ec1ef62f6888e0d7b68f56ffb36da83025be789ca1170da43266242f
+No-Intro,Mario Party 3 (Japan),MarioParty3,NMVJ,0 (0x00),big,bdf532f2f9c927a4398a1657b5e9ecfb34d416db68e791c743929ef5d0628f69
+No-Intro,Mario Party 3 (USA),MarioParty3,NMVE,0 (0x00),big,a08cbd6a4f40d15cbd8bcdee644f80cdfb843e06d569d1334bcd49f23262855a
+No-Intro,Mario Party 3 (USA) (Beta),MarioParty3,NMVE,0 (0x00),big,06661f5715023a75cc92ec40a1b520f6a84a4bb6f12db126a5ea759e1a8bf8cf
+No-Intro,Mario Party 3 (USA) (LodgeNet),MarioParty3,NMVG,0 (0x00),big,c149f5bd6c33e81a614ea29abb0e5e85d8ed08b6947da3b566b70990d05275fe
+No-Intro,Mario Story (Japan),MARIO STORY,NMQJ,0 (0x00),big,a62c669817f87fba067248962f6737d9a8d27e78a843798d739d9d2a39d73874
+No-Intro,Mario Tennis (Europe),MarioTennis,NM8P,0 (0x00),big,1d9add31b3cf320657ada5295954de12061070cede84dfa6dd1245e9c6548838
+No-Intro,Mario Tennis (Europe) (Wii Virtual Console),MarioTennis,NM8P,0 (0x00),big,542ff9df1a626f9e90617972d3c2578553587912c5f797a63c64e60be45e9d94
+No-Intro,Mario Tennis (USA),MarioTennis,NM8E,0 (0x00),big,6341ec31c937eddf6fab5c848470c9b7c27f43a42a494a7a1aae943eb91d90fb
+No-Intro,Mario Tennis (USA) (LodgeNet),MarioTennis,NM8G,0 (0x00),big,ab3e39781576aaeb205c27bb4274802fe8e86535f13e58b04e64d290d0102968
+No-Intro,Mario Tennis (USA) (Wii Virtual Console),MarioTennis,NM8E,0 (0x00),big,0e7192e98d57602f24f2a5a99ffdd02a6f8253ac728c6d9a7709fe910070f9ba
+No-Intro,Mario Tennis 64 (Japan),MarioTennis64,NM8J,0 (0x00),big,b8d053a22ea2764904f32ed19daa60552e1bca28e1f1c074f4e4c59c91b9fe47
+No-Intro,Mario Tennis 64 (Japan) (Wii Virtual Console),MarioTennis64,NM8J,0 (0x00),big,668405c3443fd7cf5225b6134050d2a199b407f12bc46829ac3d53bc0178b4df
+No-Intro,Mayjinsen 3 (Japan),3,ZSCJ,0 (0x00),big,2d317901d2f1a0cf85958772e710a26ff666246b5f7f97a0744a7c05120590b1
+No-Intro,Mega Man 64 (USA),Mega Man 64,NM6E,0 (0x00),big,618d49bf62913b376e4858f1422a51a4352792b070fe6305860dd43e28353999
+No-Intro,Mega Man 64 (USA) (Beta),,,0 (0x00),big,8bba75b9ac78371f45d8783192a4fe32b6c2ba9c626825983077ae90a59c6be1
+No-Intro,"Mia Hamm Soccer 64 (USA) (En,Es)",Mia Hamm Soccer 64,NHME,0 (0x00),big,c0a564c9c62504b0baa61bf419bdf47b3df858dd225fa5bd8cfb4cf1bdc92332
+No-Intro,Michael Owen's WLS 2000 (Europe),MO WORLD LEAGUE SOCC,NWKX,0 (0x00),big,fa5256878922978dadd8ab20769b93821e2e68806b33822140ff723684711d2e
+No-Intro,"Michael Owen's WLS 2000 (Europe) (En,Fr,De,Es,It) (Beta)",Michael Owens Soccer,,0 (0x00),big,695886b29e5b69e498e474a2a380bdab988ef7ecda7ae7c5a8fd1a4f9a1134e7
+No-Intro,Mickey no Racing Challenge USA (Japan),MICKEY USA,NMLJ,0 (0x00),big,6895c61505698072fa3ec7d736afa52298e25e3c7a30d3a6fd1f5fc4ef9ff53c
+No-Intro,"Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)",MICKEY USA PAL,NMLP,0 (0x00),big,2e5e4836c0ede78c7d81da352584172102f5d4f26f187e991f624dc70cbf308e
+No-Intro,Mickey's Speedway USA (USA),MICKEY USA,NMLE,0 (0x00),big,21c0c73d97d578dbf750acfa2a03ac2e224f703d8b9fc4e431356a27b46cf026
+No-Intro,"Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)",MICROMACHINES64TURBO,NV3P,0 (0x00),big,591ace6eb8ab7c8328a16de545b3baa38230fe31f4c388c88acc94996785feb6
+No-Intro,Micro Machines 64 Turbo (USA),MICROMACHINES64TURBO,NV3E,0 (0x00),big,c6f504194f0fdda4d50882a6a61f7cc7bd36d443ad9aba076429db1d8a743d03
+No-Intro,Midway's Greatest Arcade Hits - Volume 1 (USA),MGAH VOL1,NAIE,0 (0x00),big,165173ac5028f43a34cb4cf2e579720c00c11e80a57859f9669ec5af7537b251
+No-Intro,Midway's Greatest Arcade Hits - Volume 1 (USA) (LodgeNet),Midway's Arcade,NAIG,0 (0x00),big,f1743191c53f82795fa6c7cfa1369a0bc60b70f3a2ce2e32a48a1f80988743f0
+No-Intro,Mike Piazza's Strike Zone (USA),PIAZZA STRIKEZONE,NMBE,0 (0x00),big,3ba45ed9af91bb99ac30d59bc278c872f482ed5a13a475c711c02315c187b0ca
+No-Intro,Milo's Astro Lanes (Europe),Milos_Astro_Lanes,NBRP,0 (0x00),big,c66522df27baed11ac5caf126820bef22c92d6602b25acfc369a5bd1afe39c64
+No-Intro,Milo's Astro Lanes (USA),Milos_Astro_Lanes,NBRE,0 (0x00),big,5e2901b55a23f748c013257e9697a4b63ed3cc24504b809fb7964c538bd75380
+No-Intro,Mini Racers (USA) (Ja) (Proto),,,0 (0x00),big,ba7a13a0608262cf7dc2188f0f15b766b5e14b883f43ee0f6726bb0224585b70
+No-Intro,Mischief Makers (Europe),MISCHIEF MAKERS,NTMP,0 (0x00),big,b1fc1d0d8cd36ffaf49870ab52879987e3d34226ae007839252d7a514a3fbf57
+No-Intro,Mischief Makers (USA),MISCHIEF MAKERS,NTME,0 (0x00),big,230372b76ca9dd240357cb2760060731e65c54c47c6d6d1535513030aadd64ce
+No-Intro,Mischief Makers (USA) (Rev 1),MISCHIEF MAKERS,NTME,1 (0x01),big,e00ab74c3dee79efaafe8e10f2a6b67784d7327ab588d8ef90ad8945427da627
+No-Intro,Mission - Impossible (Europe),MISSION IMPOSSIBLE,NMIP,0 (0x00),big,9a813d401980825d8a6617ca3b15317376eaaa202d6729989993cf07935a4440
+No-Intro,Mission - Impossible (Europe) (Beta),MISSION IMPOSSIBLE,NMIP,0 (0x00),big,66a7b6106fe1b527a96a204886e6ff45e9025b14e64387454140cef4cf22d850
+No-Intro,Mission - Impossible (France),MISSION IMPOSSIBLE,NMIF,0 (0x00),big,c587e1a98f879b08f9f98325b1aaddd4717c48f4eb1586ff36ef59f642863a1b
+No-Intro,Mission - Impossible (Germany),MISSION IMPOSSIBLE,NMID,0 (0x00),big,21418002bf1fb8eab4e6381e9238f0df51c7de0878152bc6fe80b951b520a457
+No-Intro,Mission - Impossible (Italy),MISSION IMPOSSIBLE,NMII,0 (0x00),big,ca3e2ed4e2bf47497784bfac921815e7ac8a66c25374a486e368466b8da8cf67
+No-Intro,Mission - Impossible (Spain),MISSION IMPOSSIBLE,NMIS,0 (0x00),big,b12cb258396a66a5881a364ba460e508573655f98490304f5b8a223c26943f60
+No-Intro,Mission - Impossible (Spain) (Rev 1),MISSION IMPOSSIBLE,NMIS,1 (0x01),big,6c38d2f534c16c14ed547030bdf302a907d46e327deb90d8c24a044cdca5712a
+No-Intro,Mission - Impossible (USA),MISSION IMPOSSIBLE,NMIE,0 (0x00),big,3e82a0ca1dd758d4aa633fb06edb5314fad9b23d52156168ff4b8d1cc4569b16
+No-Intro,"Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)",Monaco GP Racing 2,NMGP,0 (0x00),big,c328e2350bae9828779b89283751f1b30318fe5e1625e1bbe848359e2b2c8f02
+No-Intro,Monaco Grand Prix (USA),Monaco Grand Prix,NMGE,0 (0x00),big,2ffbb7a21cbee8194ae61f877a51d441cb9d7e8184ee76af31701f35de1ab2ac
+No-Intro,Monopoly (USA),monopoly,NMOE,0 (0x00),big,3aa9e06e267e43ca85dbb6e651e64055731422f574af093f60bbb16a2d7b0298
+No-Intro,"Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)",MTM64,NM3P,0 (0x00),big,eb84ef801d3723c3709fc62b5551c5cc83887015d4831392039e99f236eb0c76
+No-Intro,Monster Truck Madness 64 (USA),MTM64,NM3E,0 (0x00),big,52501f827a677df01ba3861b1f4616c7e6bb47dc000e174267c8fbed9e4ae3dd
+No-Intro,Morita Shougi 64 (Japan),64,NMSJ,0 (0x00),big,f23351e263aa6f7f74e035f87a25eb4365196caeb3fa681a23b4126eeb35e9b2
+No-Intro,Mortal Kombat 4 (Europe),MORTAL KOMBAT 4,NM4P,0 (0x00),big,9bf17deaf7a7beabccb285ccf6e0394cbeb2cc88dcc390efdc2a79ef20e79f34
+No-Intro,Mortal Kombat 4 (USA),MORTAL KOMBAT 4,NM4E,0 (0x00),big,ea908a1f790340dc34f1056c4799f7d0984048d90344607f2910d96abf036478
+No-Intro,Mortal Kombat 4 (USA) (LodgeNet),MORTAL KOMBAT 4,NM4G,0 (0x00),big,2d3b10018e88787c1465aa8f29e4eb27750a283f6a87534a180525b079bcbd32
+No-Intro,Mortal Kombat Mythologies - Sub-Zero (Europe),MK_MYTHOLOGIES,NMYP,0 (0x00),big,619ab0dae6d2fcdf785167231786c6a743d0fe9081b269d57dc005b7d00fa86a
+No-Intro,Mortal Kombat Mythologies - Sub-Zero (USA),MK_MYTHOLOGIES,NMYE,0 (0x00),big,9c18254abf6722b95aa782fcd310bd95f6bcf147da66beb77ce32ca90673ffc6
+No-Intro,Mortal Kombat Trilogy (Europe),MortalKombatTrilogy,NMKP,0 (0x00),big,4159adfdaf27068353c899d785ebdefea2a58ad9708a723b3dabbdb2cc8fb810
+No-Intro,Mortal Kombat Trilogy (USA),MortalKombatTrilogy,NMKE,0 (0x00),big,e1fb6c84744e4f95b462769a49236d5bfffaadd0e6abe10775361f2217aa6f02
+No-Intro,Mortal Kombat Trilogy (USA) (1996-05-13) (Beta),,,0 (0x00),big,c42ef4cdf740c4db409af8c27d83d74df6af9645e272cefeac084f46810dc9de
+No-Intro,Mortal Kombat Trilogy (USA) (Rev 1),MortalKombatTrilogy,NMKE,1 (0x01),big,554aa05c5188bac605c064dcc60a5fb4cb8d39e9ad599e6e5d5b47146da46f10
+No-Intro,Mortal Kombat Trilogy (USA) (Rev 2),MortalKombatTrilogy,NMKE,2 (0x02),big,30efdbe266dda8b8b12652a8d0a71b3b4bfec88bdf11ed12c219f5c4e1eaf7bb
+No-Intro,"MRC - Multi-Racing Championship (Europe) (En,Fr,De)",MULTI RACING,NMRP,0 (0x00),big,7d9e4554abd1c360f9af32ff72c6be47d8f67ce3f08e1c8ffef0ea8aa70ad622
+No-Intro,MRC - Multi-Racing Championship (Japan),MULTI RACING,NMRJ,0 (0x00),big,5e26351f7b09cfbc64c6e89381eec3e45e27527e8bb83ae8d8aadaf01c113b0c
+No-Intro,MRC - Multi-Racing Championship (USA),MULTI RACING,NMRE,0 (0x00),big,5729e822337b7dfac5ae81210f1c2e3bfa739b90dfc8182d9e573a4990dd14d9
+No-Intro,Ms. Pac-Man - Maze Madness (USA),MS. PAC-MAN MM,NP9E,0 (0x00),big,e11a9f47257696d29b62c831c1a577b262437cdbed953f9c08fbaf022397efbe
+No-Intro,"Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)",MYSTICAL NINJA2 SG,NGMP,0 (0x00),big,f5f308d6c0fcec49570c91f20ed27729266c6fdaffef445331b11aba7032db9b
+No-Intro,Mystical Ninja Starring Goemon (Europe),MYSTICAL NINJA,NG5P,0 (0x00),big,e051aeff5600e184394ea08f4eed7c295255f729279a8b5ef450014520cc2f02
+No-Intro,Mystical Ninja Starring Goemon (USA),MYSTICAL NINJA,NG5E,0 (0x00),big,1603be37427a33548857fc3d2e8867ede71121c353fb631b79b44f1d94845d80
+No-Intro,Nagano Winter Olympics '98 (Europe),NAGANO OLYMPICS,NH5P,0 (0x00),big,a84cc56686cce0a09f7c1a3a35db71a9015521d628e079099e8721669bebb324
+No-Intro,Nagano Winter Olympics '98 (USA),NAGANO OLYMPICS,NH5E,0 (0x00),big,4ab4c9529f9705b69e871adb664097909aaaab4aa0e5aabeade113c57429832b
+No-Intro,Namco Museum 64 (USA),NAMCOMUSEUM64,NNME,0 (0x00),big,f62aa0a6de87c0d1a3a862bccea0c1be377112accf421e525c0b3752ae85eca9
+No-Intro,NASCAR 2000 (USA),NASCAR 2000,NN2E,0 (0x00),big,8ea70445136fad20584dbc4a1ca05f8b929332b35661c6a5766dcee27a8f1a65
+No-Intro,"NASCAR 99 (Europe) (En,Fr,De)",NASCAR 99,N9CP,0 (0x00),big,148a7acb816c844c99af9289237666b7a421d24c7722616ad38f401006864e55
+No-Intro,NASCAR 99 (USA),NASCAR 99,N9CE,0 (0x00),big,800aa25d7b0275db5214bf81c6a537aa45f3ea7e01872fdf515c32cfbb6413bd
+No-Intro,NBA Courtside 2 featuring Kobe Bryant (USA),NBA Courtside 2,NCKE,0 (0x00),big,11967ed55a7369170d62910bc9b8df2a65ae6a9bd96983dee91cd5f005ca47d3
+No-Intro,NBA Hangtime (Europe),NBA HANGTIME,NXGP,0 (0x00),big,7d98514e3f3e5c3b64882bc3a8d3644c8b8383b41bd63aafc9834ce487eb61e7
+No-Intro,NBA Hangtime (USA),NBA HANGTIME,NXGE,0 (0x00),big,6e1304d5bf8922a652f4063f9d26120ac8c3e9af2a5f8a4f4bc733cf003edf83
+No-Intro,NBA in the Zone 2 (Japan),NBA IN THE ZONE 2,NB2J,0 (0x00),big,74f80f1aa04eb5103bdf014d327b3aa707da45ba77e9f005d970764209d3c09e
+No-Intro,NBA in the Zone 2000 (Europe),NBA IN THE ZONE 2000,NWZP,0 (0x00),big,e419c6695240feb1a1217333ca4ad4778b003fa55a56fa08de2fc63138816713
+No-Intro,NBA in the Zone 2000 (USA),NBA IN THE ZONE 2000,NWZE,0 (0x00),big,20abe4f093131dd2c8ab7c694e01734faf4fd28c442a5cbb3054b0ddf42a1f3c
+No-Intro,NBA in the Zone '98 (Japan),NBA IN THE ZONE '98,NBAJ,0 (0x00),big,8ac071ecf2786a3e3b14b7b10f2ef060c7c1bfb17a7a5621c4f3bc6e5bca35fe
+No-Intro,NBA in the Zone '98 (USA),NBA IN THE ZONE '98,NBAE,0 (0x00),big,0422b2364cf1f7822dbdf4a64e297ea36155a99a6497368d4e844e51692957a2
+No-Intro,NBA in the Zone '99 (USA),NBA IN THE ZONE '99,NB2E,0 (0x00),big,4189751eb5fc07932c7a440c7b448f8929ef8eba104aa1425f430737f284d609
+No-Intro,NBA Jam 2000 (Europe),NBA JAM 2000,NJAP,0 (0x00),big,76778e298da9b3929c1659c2374d19df1d542fb2db89ff5be7d53c7dfa267fca
+No-Intro,NBA Jam 2000 (USA),NBA JAM 2000,NJAE,0 (0x00),big,c41d5622e96280fb00d8c2f17a80fc5cf9520b4b209788a6240e152a1c88c540
+No-Intro,NBA Jam 99 (Europe),NBA JAM 99,NB9P,0 (0x00),big,f37cf583be0b9b5b94c7b7725ba219b09c90a1e33dc80f77b139fe2ca121c71e
+No-Intro,NBA Jam 99 (USA),NBA JAM 99,NB9E,0 (0x00),big,062d9d741a324055d0799bc9f46e152fd427fdcc957328f3434cfa99d148eea7
+No-Intro,NBA Jam 99 (USA) (Beta) (1998-09-25),NBA99,,0 (0x00),big,ea9305d5d0c1005809552abaf1c18d108bd43967c91b8852b7e8b8f7870c2663
+No-Intro,"NBA Live 2000 (Europe) (En,Fr,De,Es)",NBA LIVE 2000,NNLP,0 (0x00),big,d0c85a3035687673be6b4c38cfba3728a6c50cf7beee36fc3a8572f4013a512b
+No-Intro,"NBA Live 2000 (USA) (En,Fr,De,Es)",NBA LIVE 2000,NNLE,0 (0x00),big,3f36da957e6e578f029adbe183d76a2c94352d90dd9ef75ddb3e151ea367eca7
+No-Intro,"NBA Live 99 (Europe) (En,Fr,De,Es,It)",NBA Live 99,N9BP,0 (0x00),big,f21ddf33f8e597a0b49e1dde2b0d9cf55d2b8fd007cf20a92996a0783f7de411
+No-Intro,"NBA Live 99 (USA) (En,Fr,De,Es,It)",NBA Live 99,N9BE,0 (0x00),big,1c37eb542195ca5a85eb0e2e67a92c34ff6700b0f7442e04a73b0fe79098381b
+No-Intro,NBA Pro 98 (Europe),NBA PRO 98,NBAP,0 (0x00),big,90ed10e89d507758551d40e549520228acba39eccd495a4c3088b0e73f6c63c9
+No-Intro,NBA Pro 99 (Europe),NBA PRO 99,NB2P,0 (0x00),big,765bb9b7b8f7a5660ac27459b92ef111e58ff710a88ff70599622492f0b2b96e
+No-Intro,NBA Showtime - NBA on NBC (USA),NBA SHOWTIME,NSOE,0 (0x00),big,6ebf51abe8dbdc8310f8d16dd67c08e0c656e8393756796d4fcca5873d23e5b8
+No-Intro,Neon Genesis Evangelion (Japan),EVANGELION,NEVJ,0 (0x00),big,3305269785ebdb4966da4cc1054a8a26b02c9729515fe68db651dcc4349079fe
+No-Intro,"New Tetris, The (Europe)",NEWTETRIS,NRIP,0 (0x00),big,1e83aaef23061c68023e3fa3d25ff8b554590fba56c25099079f7d6c55aff7bd
+No-Intro,"New Tetris, The (USA)",NEWTETRIS,NRIE,0 (0x00),big,ef64737d6b7b668bc9d4c8a0349b70e934bb692f272bc8d3d4831299800bbc39
+No-Intro,"New Tetris, The (USA) (LodgeNet)",NEWTETRIS,NRIG,0 (0x00),big,364d22e4157ed3b6378312213ce883653777f881136c75fea8424b9032e6836c
+No-Intro,NFL Blitz - Special Edition (USA),NFL BLITZ SPECIAL ED,NSZE,0 (0x00),big,8e861e75e7f16a9baefe2d82525240b68dfb79e01933571537dc5967dd482cc0
+No-Intro,NFL Blitz (USA),NFL BLITZ,NBZE,0 (0x00),big,1c37ed9d1d88122dd174b6258fa72b23b404b4c64a259592504392fa7e21e41e
+No-Intro,NFL Blitz 2000 (USA),blitz2k,NBIE,0 (0x00),big,81fd09077c4be225eea90539b0fddc56339b5d1afd7e313b5d08e0c795aeefeb
+No-Intro,NFL Blitz 2000 (USA) (Rev 1),blitz2k,NBIE,1 (0x01),big,4f6d18eb5531d3b08aec0e33c942af0babeba4acb02b0dd67d171ca121a2145e
+No-Intro,NFL Blitz 2001 (USA),NFL BLITZ 2001,NFBE,0 (0x00),big,c2e8d6f62dc75dcb6f7fda50311b010385ec85d61c88280f1e6e973d0bb5228d
+No-Intro,NFL QB Club 2001 (USA),NFL Quarterback Club,NQCE,0 (0x00),big,39f24f4fafbf486684bfd9e79ebab44069cf94dcc51391a3886e5da502c27356
+No-Intro,NFL Quarterback Club 2000 (Europe),NFL QBC 2000,NQBP,0 (0x00),big,a89fab662762377041fec54f2610b01fc06aaea417d3e03c38695bec428ed6b3
+No-Intro,NFL Quarterback Club 2000 (USA),NFL QBC 2000,NQBE,0 (0x00),big,35ac6193499247596bd0cce20cfe33fb69049e2b107d7ec6000896f52ed14d31
+No-Intro,NFL Quarterback Club 98 (Europe),quarterback_club_98,NQ8P,0 (0x00),big,493a19ce012a9f37dc2a35671e8d4b8d4e60d66963777de3ef4fc7ce30a3b6fb
+No-Intro,NFL Quarterback Club 98 (USA),quarterback_club_98,NQ8E,0 (0x00),big,937c256ee962095dc57aff47e5196004f02b5e70bbc7fb430bad0ad4d8385a95
+No-Intro,NFL Quarterback Club 99 (Europe),NFL QBC '99,NQ9P,0 (0x00),big,c8150c8b97af3871373e19fa9e2f43a266de6a500d55c96a1f9e9a3112565354
+No-Intro,NFL Quarterback Club 99 (USA),NFL QBC '99,NQ9E,0 (0x00),big,ddb39ce144e3aa308eae87763670aa8ae6546ca24fec5fde3e5c982c79409649
+No-Intro,"NHL 99 (Europe) (En,De,Sv,Fi)",NHL 99,N9HP,0 (0x00),big,1660afff428682d1b4852239bc4fab2e35b2fd14d6c2d9d339269430702df731
+No-Intro,NHL 99 (USA),NHL 99,N9HE,0 (0x00),big,bfab38dda9ff0fd465a2ce0eac9f604ca7806369bb02c711f625b9e111885c04
+No-Intro,NHL Blades of Steel '99 (USA),BLADES OF STEEL '99,NHOE,0 (0x00),big,779fa692d07c6a322e189ec80183cb5fa700bbae1c8d5476a78d4ace3cfa4434
+No-Intro,NHL Breakaway 98 (Europe),NHL_BREAKAWAY_98,NHLP,0 (0x00),big,77d6d4ce6b3f8a116f62b27968e91bbb36dbc93c303b21f3141b40887c3a8a27
+No-Intro,NHL Breakaway 98 (USA),NHL_BREAKAWAY_98,NHLE,0 (0x00),big,12cd9cde3c40fd2f2be054ff19c48fcb26b0caccd8bac7aa1cf83be0c02a31bb
+No-Intro,NHL Breakaway 99 (Europe),NHL Breakaway '99,NH9P,0 (0x00),big,d43243d318b79cb458ed34e04aa9923eadd6ce1f99df7bdd7d82e00497befb93
+No-Intro,NHL Breakaway 99 (USA),NHL Breakaway '99,NH9E,0 (0x00),big,ddafa01182ae8a6a7fa76a3b3cc1211ff5702bc3e9aa0d5ba60ca20408193c29
+No-Intro,NHL Pro 99 (Europe),NHL PRO 99,NHOP,0 (0x00),big,800dcc787de9fcdb1210b88bc8c23045a4770e7f692222fde039c306c26e5f12
+No-Intro,Nightmare Creatures (USA),NIGHTMARE CREATURES,NNCE,0 (0x00),big,f1ba543b178fca7962e42af6f4bd231510e33bc80224222e8cd01f3926ca55ac
+No-Intro,Nintama Rantarou 64 Game Gallery (Japan),NINTAMAGAMEGALLERY64,NHBJ,0 (0x00),big,25179fbd5abc34eee034f4218888693d8aa1d3950693850d34917fea35605fdf
+No-Intro,Nintendo 64 Modem (Japan) (Add-on),NINTENDO64 MODEM,CMDJ,0 (0x00),big,c2c9edaadac5aa6680cd454368941a8553824474e53c1acdf03dc9bf9f3bb210
+No-Intro,Nintendo All-Star! Dairantou Smash Brothers (Japan),SMASH BROTHERS,NALJ,0 (0x00),big,527bdd5a36d6f1b90988523ac8d44276e32b44cf93f609ef6d76f399c9733f25
+No-Intro,"Nuclear Strike 64 (Europe) (En,Fr)",NUCLEARSTRIKE64,NCEP,0 (0x00),big,5e2a6401cc36c760996aa0a49f4e76181a03f723cbe9bc3d555ce320f3a7cd09
+No-Intro,Nuclear Strike 64 (Germany),NUCLEARSTRIKE64,NCED,0 (0x00),big,66705531964873b3c260a051cb174d40ed64dfd714347d520ac4ee3d4465bf86
+No-Intro,Nuclear Strike 64 (Germany) (1999-11-17) (Beta),NUCLEARSTRIKE64,NCED,0 (0x00),big,208f3562cb00621e1a6fac045f2c40d04227ab98ee772827da9eb61f77ceffbc
+No-Intro,Nuclear Strike 64 (USA),NUCLEARSTRIKE64,NCEE,0 (0x00),big,2f8409ee74e82ede8d71e692ccef39b4bc549caa260083ffe98a5934de808313
+No-Intro,Nuclear Strike 64 (USA) (1999-09-21) (Beta),,,0 (0x00),big,3a147d27bce3217a066c7b690a9d2c8ef7e12e226a61a72bd008d000568034ce
+No-Intro,Nuclear Strike 64 (USA) (Beta) (Earlier),,,0 (0x00),big,49074f2ba1b9010d35bcf437e0338a90033e5089d4e04bab98ffad07e7ced499
+No-Intro,Nushi Zuri 64 - Shiokaze ni Notte (Japan),64,NUMJ,0 (0x00),big,2143c7b960f65171b2675a3c11249e342b30b0e7e0fa2394cff0863502b546b6
+No-Intro,Nushi Zuri 64 (Japan),64,NUTJ,0 (0x00),big,7f422da0e0b90eb7a518c73897ffd08fd8d6dfc0d50498de01d7f3fb4008b9a9
+No-Intro,Nushi Zuri 64 (Japan) (Rev 1),64,NUTJ,1 (0x01),big,05db6e5da4084e6e4e59f9caea21591a907b41d22217f3cfabb50a7b6e9b3c09
+No-Intro,"O.D.T. (Europe) (En,Fr,De,Es,It) (Proto)",O.D.T,NTDP,0 (0x00),big,04767fcca844d82cd3bde35008d8759adfd42d401b4a211722dd82bde55ae92b
+No-Intro,"O.D.T. (USA) (En,Fr,Es) (Proto)",O.D.T,NTDE,0 (0x00),big,5f75675501cfb8033a99a0ef1c67974fb9ce48b5e48f2d174dacb9b5131597e9
+No-Intro,Off Road Challenge (Europe),OFFROAD,NOFP,0 (0x00),big,fa8bcf7ca006714b7cd7fa7d91f10e3abadce17ac187c5e8d64699fd7ac9cbe3
+No-Intro,Off Road Challenge (USA),OFFROAD,NOFE,0 (0x00),big,09630ee855b5ea4c0a50110f0f424591e1c830cc4a2faf70fc2039ab02520fca
+No-Intro,Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1),OgreBattle64,NOBJ,1 (0x01),big,3747527389273e3bf8de77d9379e60b40ef448115c6c3ccdcf70cc1e8368e957
+No-Intro,Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console),OgreBattle64,NOBJ,1 (0x01),big,1b1b61da1cfa4e0ab0b44f28340f70ab74cb1916376e203ee4d97e7fe0302b9a
+No-Intro,Ogre Battle 64 - Person of Lordly Caliber (USA),OgreBattle64,NOBE,0 (0x00),big,571e83396bc81e70da4c0a20313d82dbd7dfe685f2c37418c8e27f927e2cc67a
+No-Intro,Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1),OgreBattle64,NOBE,1 (0x01),big,3bfbaf0af968795102f6d136713665e347c22723b4ca75bd5494fdc97df5919e
+No-Intro,"Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)",OgreBattle64,NOBE,1 (0x01),big,e24a00d5a8b3dcb6fe405a141f34255e9eb7a46217ceac47c2ac77d50be81434
+No-Intro,"Olympic Hockey 98 (Europe) (En,Fr,De,Es)",OLYMPIC HOCKEY,NHNP,0 (0x00),big,ed472da7692df1685d4ad8938e7d305ec109fe7a5a5072d8a9c03ed6707a8da8
+No-Intro,Olympic Hockey 98 (Japan),OLYMPIC HOCKEY,NHNJ,0 (0x00),big,23a4e6ee5af0c9ae1f06521f391c09fc40a818c9938cd2102836c6b499654781
+No-Intro,Olympic Hockey 98 (USA),OLYMPIC HOCKEY,NHNE,0 (0x00),big,abc97f53702ab34be6d78d09eeb0bba44f3db19d7843ef496ddadc9fe4bc4edf
+No-Intro,Onegai Monsters (Japan),ONEGAI MONSTER,NOMJ,0 (0x00),big,8de633b3c479269e8ba2df607c788b216277249a46d84583a3531393a7e1621d
+No-Intro,"Operation WinBack (Europe) (En,Fr,De,Es,It)",OPERATION WINBACK,NWDP,0 (0x00),big,9f655b00de6a69aefe1f3f66d2e599be2789cc2551746fafc21e1483daf457b6
+No-Intro,Pachinko 365 Nichi (Japan),PACHINKO365NICHI,NPCJ,0 (0x00),big,f4af1b9a7a1612722302e7ee7c4b9bce48277c2cdaaedec56aa30b65c079311e
+No-Intro,Pachislo DX (Japan),PACHISLODX,ZSFJ,0 (0x00),big,d80b5770553fd28736c741de79ab8fe907008c7138369ccdf6e181ed881e7fae
+No-Intro,"Paper Mario (Europe) (En,Fr,De,Es)",PAPER MARIO,NMQP,0 (0x00),big,5540ccd817201a3f5174295dde7fce7e2a6f79f081209a4b6b7eec7d9c4b88e4
+No-Intro,Paper Mario (USA),PAPER MARIO,NMQE,0 (0x00),big,9ec6d2a5c2fca81ab86312328779fd042b5f3b920bf65df9f6b87b376883cb5b
+No-Intro,Paper Mario (USA) (LodgeNet),PAPER MARIO,NMQG,0 (0x00),big,c12870ee7022c4c7273f2c980a0ee17a392ff5c567f75aa14a2a2b692fbaabe3
+No-Intro,Paperboy (Europe),PAPERBOY,NYPP,0 (0x00),big,d4fab7f0a04d4c7dfc21ec66d3ae83a65c857bb346549e4a41ee6f2008086efa
+No-Intro,Paperboy (USA),PAPERBOY,NYPE,0 (0x00),big,12cc5490a22e4af0fee6d40d15fda0281049860c61a5e30d864a071083191819
+No-Intro,Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan),Parlor PRO 64,NPPJ,0 (0x00),big,bd0a1843c934edadd92e62b7a44793b8c2ce156b6b5688ae7d644a45c2065dea
+No-Intro,PD Ultraman Battle Collection 64 (Japan),Ultraman Battle JAPA,NUBJ,0 (0x00),big,c179e15cb02266e27f915930a00f0f3573f26028f42c4c99e40c3d10c5724b56
+No-Intro,Penny Racers (Europe),PENNY RACERS,NCRP,0 (0x00),big,c2f4887ee2c9129ac9d550b0e8877fcf9066f56474a82967362df4b561f72487
+No-Intro,Penny Racers (USA),PENNY RACERS,NCRE,0 (0x00),big,f8f58b65f6d50fdd42a478573e39371faec03c448e39c4f99af9a0860d6bd6a1
+No-Intro,Perfect Dark (Europe) (2000-04-26) (Debug),Perfect Dark,NPDP,0 (0x00),big,067f2ab86000c0443198ece2025e8d97a4d5dd005759184ee0a15e443efc6a2e
+No-Intro,"Perfect Dark (Europe) (En,Fr,De,Es,It)",Perfect Dark,NPDP,0 (0x00),big,8e432b1a5f4ca512e2c22a1c3a5bb878ff6e92de2ddfebb1ba98e8d00e0394ff
+No-Intro,Perfect Dark (Japan),PERFECT DARK,NPDJ,0 (0x00),big,d29a2fba12a5583d52bbd0b2a334fd66526b0744086bba0def871d9d0bb9daa3
+No-Intro,Perfect Dark (USA),Perfect Dark,NPDE,0 (0x00),big,b4173ee90ba6e3514b17d7f340c6c248e2a4c429fdc3c671dd82bbf5afcbb152
+No-Intro,Perfect Dark (USA) (2000-03-22) (Debug),Perfect Dark DBGNTSC,NPDE,1 (0x01),big,4abbee7a0d7b985a733275c06327865f79e4ad96e60205d9165da7598432f151
+No-Intro,Perfect Dark (USA) (Rev 1),Perfect Dark,NPDE,1 (0x01),big,4e51142acac686d96861cecc58cf7cb7c3b06b21733b7f8ed609a709dc039a21
+No-Intro,PGA European Tour (USA),PGA European Tour,NEAE,0 (0x00),big,ae6ab96248d077b12d994d36e31ba585860e1563641811c0338efe209c0efd13
+No-Intro,"PGA European Tour Golf (Europe) (En,De) (Version B.29) (Beta)",PGA European Tour Go,NEAP,0 (0x00),big,b7cf5ee5bfb389a78417ad455df0cd44d356ce4ea141d67d6aa7ff97830bc317
+No-Intro,"PGA European Tour Golf (Europe) (En,Fr,De,Es,It)",PGA European Tour Go,NEAP,0 (0x00),big,7e94ceebb0e63d0cef7df1b97b589db298a26ecda0933c7980eab5dc3edd2395
+No-Intro,Pikachuu Genki de Chuu (Japan),PIKACHU GENKIDECHU,NPGJ,0 (0x00),big,99eb713ed5cea0c86652f813b4e313e3080dd063722a1338bc453366bf46819b
+No-Intro,Pikachuu Genki de Chuu (Japan) (Beta),,,0 (0x00),big,863ebec5ec450b2936bb81df8abf85d3abda5b81a93457a1f25adc0b5eba67d1
+No-Intro,"Pilotwings 64 (Europe) (En,Fr,De)",Pilot Wings64,NPWP,0 (0x00),big,afe1c8ea27446b6dcf98d8eed92338db0031edf95419bccf4c95be292166fd84
+No-Intro,Pilotwings 64 (Japan),Pilot Wings64,NPWJ,0 (0x00),big,69bb7ca8e2a320ecd6f1851ef4f0caeece67457fa5475408e2dc0bec0e364b8f
+No-Intro,Pilotwings 64 (USA),Pilot Wings64,NPWE,0 (0x00),big,32e3056e854bda2e1d79ce5d050548ffcdef51003aacb0a0fd0328c70eff31b2
+No-Intro,Pilotwings 64 (USA) (LodgeNet),PILOTWINGS 64,NPWG,0 (0x00),big,0e8a2d252034f220e68f5d7f871b458c7e26baa1cc64d6cd563a3ecb45b88808
+No-Intro,Pokemon Puzzle League (Europe),PUZZLE LEAGUE N64,NPNP,0 (0x00),big,85ef6c0a307d6b3043fa8a70d7425bd1bba1027da70832f60faef2c4f7b0e0e7
+No-Intro,Pokemon Puzzle League (Europe) (Wii Virtual Console),PUZZLE LEAGUE N64,NPNP,0 (0x00),big,16858b09a74c65953333efef6d1fa0aa1cc4854f1f60673f698248590bd7741c
+No-Intro,Pokemon Puzzle League (France),PUZZLE LEAGUE N64,NPNF,0 (0x00),big,82a63e75c3cc76eb59c7dcbbca2229128cf4a8ece143551e90bbfc4ad65341c2
+No-Intro,Pokemon Puzzle League (France) (Wii Virtual Console),PUZZLE LEAGUE N64,NPNF,0 (0x00),big,fe8d2958ebea1fbdbc3277bbd9cec8bf4fd5c22ceed3d9ea36de1e3816e0f568
+No-Intro,Pokemon Puzzle League (Germany),PUZZLE LEAGUE N64,NPND,0 (0x00),big,2a1d8458a3dd5b57df2fcc90fa54b728dbf818239c414f0e795487a9be5e2bc2
+No-Intro,Pokemon Puzzle League (Germany) (Wii Virtual Console),PUZZLE LEAGUE N64,NPND,0 (0x00),big,94795dfe8659c9875e811db914e46c205a9f7f4325fdfd43fed048994ffa3cd4
+No-Intro,Pokemon Puzzle League (USA),PUZZLE LEAGUE N64,NPNE,0 (0x00),big,2987fb9d618305319809f4d5125eacc4ec8787a743712f526b022ec94a5d2bc4
+No-Intro,Pokemon Puzzle League (USA) (Wii Virtual Console),PUZZLE LEAGUE N64,NPNE,0 (0x00),big,e21e61cf5b06685dc35c69a5dbab696d24d4f2ffc546d6a77d7e907c2dbb27e0
+No-Intro,Pokemon Snap (Australia),POKEMON SNAP,NPFU,0 (0x00),big,9e0974fc8a43b93493f057e0c62bfd955ec2e70f65d578a89c5eae6cf7742b4a
+No-Intro,Pokemon Snap (Europe),POKEMON SNAP,NPFP,0 (0x00),big,5fe996f65900f83376ff96cb54fcad2da40010700fe4e36cb006a59737f969f1
+No-Intro,Pokemon Snap (France),POKEMON SNAP,NPFF,0 (0x00),big,ddafdca5aeaef7f00aa3a844baf4e950d212c0ccb213664c8ae1a2266b3612ae
+No-Intro,Pokemon Snap (Germany),POKEMON SNAP,NPFD,0 (0x00),big,f4866ef4187c2357cc921624e8f8d35ad5a2832281dfe91a70ec04628d47ef5a
+No-Intro,Pokemon Snap (Italy),POKEMON SNAP,NPFI,0 (0x00),big,bd666cc6bc6c75a8fadf563af8c046db6eaff5da2837192e74b7353e153084f7
+No-Intro,Pokemon Snap (Japan),POKEMON SNAP,NPFJ,0 (0x00),big,f13e6bf81048af5618ddc35f0fbe6c9a4e3345cc53d7360355c5bb87b0b9afa4
+No-Intro,Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console),POKEMON SNAP,NPFJ,1 (0x01),big,c74abe931a6d6e915143bfec863a05a300715941df0a83167847fcd0e0c96d04
+No-Intro,Pokemon Snap (Spain),POKEMON SNAP,NPFS,0 (0x00),big,3bf1549b5443cdb3e6e7c74617646f6ad881394b70df01e43cbe8025a10efd97
+No-Intro,Pokemon Snap (USA),POKEMON SNAP,NPFE,0 (0x00),big,a1d5d816db7f8557ee04c35a011326d058b2c1fbca76b57b352b1d705a1ec1cc
+No-Intro,Pokemon Snap (USA) (LodgeNet),POKEMON SNAP,NPFG,0 (0x00),big,8eae862bf3d1071398c1e42da3208073c115490c9aee9321e9e2ece14b977865
+No-Intro,Pokemon Snap Station (USA) (Demo) (Kiosk),POKEMON SNAP,NPHE,0 (0x00),big,95bea63075551b8fa171b104f5d4d51fa405bb38d61bd57f6a31c038b6213ca0
+No-Intro,Pokemon Stadium (Europe),POKEMON STADIUM,NPOP,0 (0x00),big,17e09da1cbb4f15d92c3e28f0a7ed8a071bf8740177260e59791616688fb0a32
+No-Intro,Pokemon Stadium (Europe) (Rev 1),POKEMON STADIUM,NPOP,1 (0x01),big,b844b60b8b042d76303a27708796a15d7b0b3dac6a04e9d057d4f87433065a00
+No-Intro,Pokemon Stadium (France),POKEMON STADIUM,NPOF,0 (0x00),big,fdc743a54113b670b55ef84bda4eb8b25f5ef0de50ff1563f9a6de8a1f5fca08
+No-Intro,Pokemon Stadium (Germany),POKEMON STADIUM,NPOD,0 (0x00),big,fd9a54dbcb80b85b0acf3e5c80f7c16631573f6e846d3ce74942a5954bafe438
+No-Intro,Pokemon Stadium (Italy),POKEMON STADIUM,NPOI,0 (0x00),big,4cb1aab7c8fa510d3c85b86193077ce4fd32aa13cb62329e9c127c8f00623bcd
+No-Intro,Pokemon Stadium (Japan),POKEMON STADIUM,CPSJ,0 (0x00),big,ed9f7cd7da795467c1e2b08ed1f878ff5aed906eae9ffe252074aef7a6703d8b
+No-Intro,Pokemon Stadium (Spain),POKEMON STADIUM,NPOS,0 (0x00),big,cca3d1b2df433e96984dcce1469894e12b7ccd37033eb51807afc3895210e55f
+No-Intro,Pokemon Stadium (USA),POKEMON STADIUM,NPOE,0 (0x00),big,502f6082a6436012a8b61419435dec1388869a90ed870e87e2d7bee88f831519
+No-Intro,Pokemon Stadium (USA) (Rev 1),POKEMON STADIUM,NPOE,1 (0x01),big,290ccf333af450af59487563c1050c831cc9316975d5e0c7bac2e56a74732c53
+No-Intro,Pokemon Stadium (USA) (Rev 2),POKEMON STADIUM,NPOE,2 (0x02),big,a2dc9d14bae5035bda8a7ca05b9c16e61bb5a19be5e707dd6f6e1fe98ceba4ea
+No-Intro,Pokemon Stadium 2 (Europe),POKEMON STADIUM 2,NP3P,0 (0x00),big,f6c23949468f2d1f5a363a6c3f9cd53a2997b83f25ce9691f873c6141bdf4ce6
+No-Intro,Pokemon Stadium 2 (France),POKEMON STADIUM 2,NP3F,0 (0x00),big,b661d92a94eb3c7a00cd27acc1e93d1e52299bf85a76397ee38e998a84af68ea
+No-Intro,Pokemon Stadium 2 (Germany),POKEMON STADIUM 2,NP3D,0 (0x00),big,f13571ff5dff3abe42ef1d3c7d2350301ea54dd71ab3c4ff5bf761b0194d6bff
+No-Intro,Pokemon Stadium 2 (Italy),POKEMON STADIUM 2,NP3I,0 (0x00),big,466697442f7fb401f04fc2f97dc71cd8c097e12190916fee69dd98aa78b45c44
+No-Intro,Pokemon Stadium 2 (Japan),POKEMON STADIUM 2,CP2J,0 (0x00),big,ba3dda9d33c047ed4902b9cb534c06195e5708972b7db16202087fcbd7c7a0e4
+No-Intro,Pokemon Stadium 2 (Spain),POKEMON STADIUM 2,NP3S,0 (0x00),big,d91b466bebcf7bac8fb9d31709ea7d8049e810533195f7c4b2c402897d47babf
+No-Intro,Pokemon Stadium 2 (USA),POKEMON STADIUM 2,NP3E,0 (0x00),big,8160abe7d4b9734317000c44e9f882efefe4cc6359eacded98be62f2811e40a9
+No-Intro,Pokemon Stadium Kin Gin (Japan),POKEMON STADIUM G&S,NP3J,0 (0x00),big,e0ce95bbebb775181497cbf6414845d2dbf19b5d95840f0ab3baa8d61bb6f618
+No-Intro,Polaris SnoCross (USA),POLARISSNOCROSS,NPXE,0 (0x00),big,6b960629bab4e865090109fa6e9fefdd42c0194c2f3f4d295bd75c1bc18b233a
+No-Intro,Portal 64 v0.90,,,0 (0x00),big,407ea1b7cba1560865322d96005a052f2169ebbabfee0ba9498e034d24e3ddb1
+No-Intro,Power League 64 (Japan),PowerLeague64,NPLJ,0 (0x00),big,670cdc2e110ef9eb9babe83e5627f2bf7293821ebd8ae8e100486777599a90b1
+No-Intro,Power Rangers - Lightspeed Rescue (Europe),POWER RANGERS,NPUP,0 (0x00),big,2749a21383fd2b981e068abddf9d83a372a9b8b31fc5249a85c58fc52ffff69d
+No-Intro,Power Rangers - Lightspeed Rescue (USA),POWER RANGERS,NPUE,0 (0x00),big,152b71d4a6e23ee2d2fc5e1f19f4aa787b775487cb9f3e5a39c0b105be029527
+No-Intro,"Powerpuff Girls, The - Chemical X-Traction (USA)",PPG CHEMICAL X,NPQE,0 (0x00),big,4f0b777a71734e59a3fddce59f98661cba4ef653e0c4b1828b5891fd9814d160
+No-Intro,"Powerpuff Girls, The - Chemical X-Traction (USA) (Beta) (2001-09-27)",POWERPUFF GIRLS,NPQE,3 (0x03),big,697e9388a015a8a3d3823e234048e5e1e48b66c26d4f7bb090fd9bcac614ea12
+No-Intro,Premier Manager 64 (Europe),Premier Manager 64,NPMP,0 (0x00),big,a3c0a0b8c41c2d8215b253aa330517b91329986d2cc6b2882d638de06e72a4c9
+No-Intro,Pro Mahjong Kiwame 64 (Japan),KIWAME 64,NKMJ,0 (0x00),big,ef0c1333aa1bc6ac40ad6a3c18e17b392183e29de04a47188b4afff06722134b
+No-Intro,Pro Mahjong Kiwame 64 (Japan) (Rev 1),KIWAME 64,NKMJ,1 (0x01),big,ea587b80388d764bf1cbb67b5c7aab9265b0590561b83f943e71770a3554d435
+No-Intro,Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan),TSUWAMONO64,NNRJ,0 (0x00),big,ab3f4af871192a47fecc0c1835a9635544a22de5bbde9fe5c624f46d31b7eb55
+No-Intro,Puyo Puyo Sun 64 (Japan),PUYO PUYO SUN 64,NPYJ,0 (0x00),big,198d2a83176784e3b4c457cef631eb2493f3def99f1fd922e9e4c4c9582c140b
+No-Intro,Puyo Puyoon Party (Japan),PUYOPUYO4,NPTJ,0 (0x00),big,c506b2964d9806c6f4a1a4ae076032609f15c84c6ffd152ee059f53c0b1b9c9c
+No-Intro,Puzzle Bobble 64 (Japan),PUZZLEBOBBLE64,NPBJ,0 (0x00),big,754ffac52da6d7ccd024c61aaef9305ddd6991130c678783122ac69a0a25c717
+No-Intro,Pyoro 64  (MPAL) (Aftermarket) (Unl),PYORO64,BPYB,0 (0x00),big,20153369e3be2bd47e3e7a5f8280ed3129c45aaef8904cf3e4fc85ecccc05186
+No-Intro,Pyoro 64  (NTSC) (Aftermarket) (Unl),PYORO64,BPYE,0 (0x00),big,fc3539c45589f79fea2b30a7d5586b4f5d7c3dfbed4eef263bbecec1bfbefcd8
+No-Intro,Pyoro 64  (PAL) (Aftermarket) (Unl),PYORO64,BPYI,0 (0x00),big,0b070aec1fe852915ec295b877108b0d774c9a1bcd930306ced1698df00ced24
+No-Intro,Quake (Europe),Quake,NQKP,0 (0x00),big,b6f02382d292f06f3730b8bbe6d308bf9423780e9369a65b4df3cd0a46680f7b
+No-Intro,Quake (USA),Quake,NQKE,0 (0x00),big,ce43bcb4c11975f0e1720d7617c05bf23f420b1f76ab115ff52ba7344594a4bc
+No-Intro,Quake II (Europe),QUAKE II,NQ2P,0 (0x00),big,695ca7d96730543d3dac0fa40be7f2a1d365d48700093afd00a42cddff229445
+No-Intro,Quake II (USA),QUAKE II,NQ2E,0 (0x00),big,f6d9d17030d83035220a4010c2a65786a717fd6f7642f740d2c731e1774c3437
+No-Intro,Quest 64 (USA),Quest 64,NETE,0 (0x00),big,3292d99dd93c3054906887a84a00efdd747ee620cbea4601df2f7f82d5f74c74
+No-Intro,Racing Simulation 2 (Germany),Racing Simulation 2,NMGD,0 (0x00),big,d06dcf5924f201a645988d624b4bc7beddb60d35ddc78f6b9a6b7e11d9f905cd
+No-Intro,Rakugakids (Europe),RAKUGAKIDS,NKRP,0 (0x00),big,c9aa31b4f500c77b49efce28894786df9e75341f297742cc7a681037ad8759d0
+No-Intro,Rakugakids (Japan),RAKUGAKIDS,NKRJ,0 (0x00),big,ce3a55c321483e56f0c54d8fb36691c2ac40a4e67aaa8894440d5e1b4f8815c7
+No-Intro,Rally '99 (Japan),Rally'99,NRAJ,0 (0x00),big,cd7b68d4eadc48d7182d18ba7a6fa5afe6aacba1f99d310d5f7874fcf312ee25
+No-Intro,Rally Challenge 2000 (USA),RALLY CHALLENGE,NWQE,0 (0x00),big,60681b4ff96742f6e4d77043cf37f8f22d73bdc257c2605be41283de96c88db3
+No-Intro,Rampage - World Tour (Europe),RAMPAGE,NRPP,0 (0x00),big,3667dd20e8ef97659e5d09d718bbd5efe2f517d8afcab7be76688abb11e64008
+No-Intro,Rampage - World Tour (USA),RAMPAGE,NRPE,0 (0x00),big,a06da4bf6342670df551738c07ed2d1c91ee12c29df73c0c3f8eeae2ea1016ea
+No-Intro,Rampage 2 - Universal Tour (Europe),RAMPAGE2,N2PP,0 (0x00),big,ef59e77d8444785c4ca4b6aedc744e8d57edde65f3a4cee24cf48bf153a33a63
+No-Intro,Rampage 2 - Universal Tour (USA),RAMPAGE2,N2PE,0 (0x00),big,9c8fc5075e370ea1cfdac4abf38038eb0eee736b3a622caea83f48dc776a02b8
+No-Intro,Rampage 2 - Universal Tour (USA) (LodgeNet),RAMPAGE2,N2PG,0 (0x00),big,dce5e25490001b19b8518d3af42a24a66f8e0be22333131fd32fd66cf3bb84fe
+No-Intro,"Rat Attack (Europe) (En,Fr,De,Es,It,Nl)",RAT ATTACK,NRTP,0 (0x00),big,4c10cba5a2017a021ea87b5e39865097cf14a79c9c532a2af0cc8c8625284a25
+No-Intro,Rat Attack! (USA),RAT ATTACK,NRTE,0 (0x00),big,783f04c290558b64c1cda2a1ae512e6931cd78e424ea1710dcc0930be250d341
+No-Intro,"Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)",Rayman 2,NY2P,0 (0x00),big,c80b063de6afe80bb47281efe76406654070e942d5a733fee2668c8e11a2581b
+No-Intro,"Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",Rayman 2,NY2E,0 (0x00),big,e9a71380b43e25b998f638480b309e300ad9b8a0439ff36e0a8b5fc4ac132e8a
+No-Intro,"Razmoket, Les - La Chasse aux Tresors (France)",RUGRATSTREASUREHUNT,NRGF,0 (0x00),big,ec6d2cbe4db8c2a8dbc6d7f80e302f45e0752ec4a8745ebc6da8b8bf7609b12f
+No-Intro,Razor Freestyle Scooter (USA),RAZOR FREESTYLE,NFQE,0 (0x00),big,bdb827e672625c795e1c8be7645c8a4ea3fd5c6ed41cdd16b16980d86481f5f4
+No-Intro,Ready 2 Rumble Boxing - Round 2 (USA),Ready to Rumble,N22E,0 (0x00),big,a075e7ca185b3800639d333359a04100e087db297fd2f5eab88f7dcd90ab5563
+No-Intro,"Ready 2 Rumble Boxing (Europe) (En,Fr,De)",READY 2 RUMBLE,NRDP,0 (0x00),big,2546b5f00c6f0188a31f9ba3782abe059c7dd83fcfee8ff738542eb06a4aafc3
+No-Intro,Ready 2 Rumble Boxing (USA),READY 2 RUMBLE,NRDE,0 (0x00),big,649e9f45d7386c3ff5f196d4053d6f458fa5d105264ee88c5937ffd92c7a1bf7
+No-Intro,Ready 2 Rumble Boxing (USA) (LodgeNet),READY 2 RUMBLE,NRDG,0 (0x00),big,19ad54192331838a25c7a7cd77de78e75f9c5328134245f3bd043eed3ddaf264
+No-Intro,"Resident Evil 2 (Europe) (En,Fr)",Resident Evil II,NREP,0 (0x00),big,52093e994c89848b17c8e6f26546d66374cf47c9b471ec15da7f322b7ee17ab8
+No-Intro,Resident Evil 2 (USA),Resident Evil II,NREE,0 (0x00),big,d13b0cd918b89c78867902c324c9c0d9dcb7fdb576e4e8fce8f2002917d657a7
+No-Intro,Resident Evil 2 (USA) (Rev 1),Resident Evil II,NREE,1 (0x01),big,71f3f779613bf1f0e2050bfa600425385d2c257a647d2e40f63be1a7986e9aac
+No-Intro,"Re-Volt (Europe) (En,Fr,De,Es)",Re-Volt,NRVP,0 (0x00),big,ce619ae064bc608d9a139f95e6bbc9f17fe3898d242943bc92fd0d6fc74915b0
+No-Intro,Re-Volt (USA),Re-Volt,NRVE,0 (0x00),big,826fd84fb778f6ddaa8bc14cbf116fb25bf1bf6ed4b833d7e30501be6f144823
+No-Intro,Road Rash 64 (Europe),ROAD RASH 64,NROP,0 (0x00),big,bfc3324c7689d6b76fbda6e4a431ae5eeb017da9707240d1d21109fda3a1e610
+No-Intro,Road Rash 64 (Europe) (Beta) (1999-10-12),ROAD RASH 64,NROP,0 (0x00),big,7d0047fe373a032756bb97468c4db59929468abf3a42b45544e31cc5cbfdbc80
+No-Intro,Road Rash 64 (USA),ROAD RASH 64,NROE,0 (0x00),big,74e49e863484b5d17dcbe3891b99f2cafe3cf7511aa1dc5427022f699301db73
+No-Intro,Road Rash 64 (USA) (Beta 1),,,0 (0x00),big,93dcac74d4d4462d555feac7324c4b9ccdb5b12d86e843b10919bd009d727fa1
+No-Intro,Road Rash 64 (USA) (Beta 2),ROAD RASH 64,NROE,0 (0x00),big,70822f8b0a6ae09e8eed5789b584c4f4c1622777c621d402ab1797ddbc1e261b
+No-Intro,"Roadsters (Europe) (En,Fr,De,Es,It,Nl)",ROADSTERS TROPHY,NRRP,0 (0x00),big,ba3307883fe81ddeb81ed6a51cb1d4cd9d3353c73ca9007c02212c777b572e2e
+No-Intro,"Roadsters (USA) (En,Fr,Es)",ROADSTERS TROPHY,NRRE,0 (0x00),big,49c4494ce6acca523c7066b0bdf598ff466a9b5a91cb2ff85730a7079c1911fd
+No-Intro,Robot Poncots 64 - 7tsu no Umi no Caramel (Japan),Robopon64,NR7J,0 (0x00),big,02cda6221c10cba0705f351227e2d6c77e071bdb4f7aa8b5cd3c7c047a2b1881
+No-Intro,Robotech - Crystal Dreams (USA) (Proto 1),,,0 (0x00),big,ff3a52f2c8805d25d67c8fb00a2c66f7d1bfc72a1c35388a3c44c5b70d230ff1
+No-Intro,Robotech - Crystal Dreams (USA) (Proto 2),,,0 (0x00),big,db937005d30ad639500a3b04dfa5a8c35b630124f847e98421cc98ed7136db57
+No-Intro,Robotron 64 (Europe),ROBOTRON-64,NRXP,0 (0x00),big,18e582cfc79c8659d06664459bee45d5892291a9264ffda0652cb36c0d548aa6
+No-Intro,Robotron 64 (USA),ROBOTRON-64,NRXE,0 (0x00),big,3ef7690f97d3957af7294eab4432fa1673a15bba0435664cc9fa2fd757168804
+No-Intro,Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29),ROCKETROBOTONWHEELS,NSUP,0 (0x00),big,1ab8ac8c5f7c904f2202b5f820be5f782b4a5485fbf588a46e566c34e9c36373
+No-Intro,"Rocket - Robot on Wheels (Europe) (En,Fr,De)",ROCKETROBOTONWHEELS,NSUP,0 (0x00),big,1ecb0f1620413c8b219856f78255a18f53b03efd25cb065fa1c7e172aa099d4f
+No-Intro,Rocket - Robot on Wheels (USA),ROCKETROBOTONWHEELS,NSUE,0 (0x00),big,50e9a1eb850b766c33626a1a93073492117802955e725d240724716a9213c5d9
+No-Intro,Rockman Dash - Hagane no Boukenshin (Japan),RockMan Dash,NRHJ,0 (0x00),big,8dd3795f5e69d630a96e402d7a980b6dfb71b6209b217bb615a48803500a0246
+No-Intro,Ronaldinho's Soccer 64 (Brazil) (Pirate),RONALDINHO SOCCER,NJPE,0 (0x00),big,ff56a6143a1794f63dcf66b27bc380e5baa7e33dbe8526edd1a432119efac4c1
+No-Intro,RR64 - Ridge Racer 64 (Europe),RIDGE RACER 64,NRZP,0 (0x00),big,6ab08cdaebaa41248560e24d4727c45d5ccb372c8f8909fed3d3e6a56dba71be
+No-Intro,RR64 - Ridge Racer 64 (USA),RIDGE RACER 64,NRZE,0 (0x00),big,5f6e9c279eb5ccedd7ae0ce5b6b6825e704feb8c24a4ea09d50200885fb4d9a1
+No-Intro,RTL World League Soccer 2000 (Germany),RTL WLS2000,NWKD,0 (0x00),big,caac491eab833b97a5d1432e2670847e69d484eb3708275a59982116494956d1
+No-Intro,Rugrats - Die grosse Schatzsuche (Germany),RUGRATSTREASUREHUNT,NRGD,0 (0x00),big,d05b146db52e386852df38acbe2ac27d3ef8de23dde64f5cbe9aede66be00215
+No-Intro,Rugrats - Scavenger Hunt (USA),RUGRATSSCAVENGERHUNT,NRGE,0 (0x00),big,d2dab1d3e46d6da4d0b98b2ce26494388e10392bf0fc70255802c4184105439e
+No-Intro,Rugrats - Scavenger Hunt (USA) (Beta) (1999-04-02),,,0 (0x00),big,949e669fdd33a8a26bd592200254a6c0c49265fd72b753efff3b816e13df7033
+No-Intro,Rugrats - Treasure Hunt (Europe),RUGRATSTREASUREHUNT,NRGP,0 (0x00),big,64404a986f22f13309191e445f2e255fc15b7337b15261c7470b2b5671385f22
+No-Intro,Rugrats in Paris - The Movie (Europe),RUGRATS IN PARIS,NRKP,0 (0x00),big,b7858f9af16060440f2dd8377d9f2601c2d46a27f05bc849e5c7bc7d7145e0ca
+No-Intro,Rugrats in Paris - The Movie (USA),RUGRATS IN PARIS,NRKE,0 (0x00),big,0003695c730c286051e0746f7936221f097b9987e965c7cd9219c7098ec93c5d
+No-Intro,"Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)",RUSH 2,NR2P,0 (0x00),big,fbc02c5a58f42f88de3ae595ddce3ebbfd6d866f1c39ea346addcedca997cd2a
+No-Intro,Rush 2 - Extreme Racing USA (USA),RUSH 2,NR2E,0 (0x00),big,a59e65822d46775ca91d98b1220bcdea9acb54e48e56a7b5c026a3a877c08eb5
+No-Intro,Rush 2 - Extreme Racing USA (USA) (LodgeNet),RUSH 2,NR2G,0 (0x00),big,8eccd6597bb399e654552c6f574175e1f7ab2e4abfaacc67fc4974258f83dc66
+No-Intro,"S.C.A.R.S. (Europe) (En,Fr,De)",SCARS,NCSP,0 (0x00),big,3a11dc6bd22531527a452dab24c1d9146e4bf6228f4aace1a897ad447482df8a
+No-Intro,S.C.A.R.S. (USA),SCARS,NCSE,0 (0x00),big,d747045a2200df1809b38a29122038cc7afa4a5df96f9a2ad1b0a27a82b19b23
+No-Intro,Saikyou Habu Shougi (Japan),,NSHJ,0 (0x00),big,1d81949eda06331501f807296aaa3b775ccf4fea12a57b1575641579a7b299ab
+No-Intro,"San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)",S.F.RUSH,NSFP,0 (0x00),big,344a58277fd5f833b7c5dbae8c6f947fba391c2fd74e56c9604640fd68dc553b
+No-Intro,"San Francisco Rush - Extreme Racing (USA) (En,Fr,De)",S.F. RUSH,NSFE,0 (0x00),big,493960054c6749048d9a1f9f01df5f99a8a5983f19e033606ae4b85beffb3841
+No-Intro,"San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)",S.F. RUSH,NSFE,1 (0x01),big,bd50055d25599567b08117a021b0db9c4e22d32b3d7164b13c7457ad1835fa29
+No-Intro,"San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)",RUSH 2049,NRUP,0 (0x00),big,40bd50dfe6bc41f38323000927b37f2c0a02d8d0090b1db4882576c39eabf2e4
+No-Intro,San Francisco Rush 2049 (USA),Rush 2049,NRUE,0 (0x00),big,83c4964d513718e99cd3569bc33108308cee983eb24bf057c25b366a9160f92c
+No-Intro,Sblobber 64 (World) (Aftermarket) (Unl),sblobber64,,0 (0x00),big,9ca33f811658b79d2a94fab3790fee955a389eb8c16c8bab2bed7cceb4df90c5
+No-Intro,Scooby-Doo! - Classic Creep Capers (Europe),SCOOBY-DOO,NSYP,0 (0x00),big,19e6b675083aa6b0c54d17f7d5b5a909e71f8d6e36eeff57f4dd143c038677f7
+No-Intro,Scooby-Doo! - Classic Creep Capers (USA),SCOOBY-DOO,NSYE,0 (0x00),big,cd332c229fd4340653c296290d44a2de5c9a9ec951d1fef432ee863e6121a338
+No-Intro,Scooby-Doo! - Classic Creep Capers (USA) (Rev 1),SCOOBY-DOO,NSYE,1 (0x01),big,57c78af045f94f222b443359eb47f359b8478c5f4b497510b98c4c75ecc03041
+No-Intro,SD Hiryuu no Ken Densetsu (Japan),SD HIRYU STADIUM,NDCJ,0 (0x00),big,9f499647daa608266637d3a06446311a7fa9b23132df8d28eda613cc41d5a7b1
+No-Intro,Sesame Street - Elmo's Letter Adventure (USA),Elmo's Letter Advent,NELE,0 (0x00),big,eadfd24dd54f56343dd228cddfce67dd8af450a2e8d0040f6a1ed87ea81fdef5
+No-Intro,Sesame Street - Elmo's Number Journey (USA),Elmo's Number Journe,NENE,0 (0x00),big,2f510e2df3e422f2a95711bb4f513e280789dcf299f482ec3175e83eff868c57
+No-Intro,Shadow Man (Brazil),Shadowman,NSDB,0 (0x00),big,ca4cb06734007fd9ae09653e73a6ff46c6e8c83878bc468f96d66d0dfd608d75
+No-Intro,"Shadow Man (Europe) (En,Es,It)",Shadowman,NSDP,0 (0x00),big,322603e871ebf8556c565f291bb3642d42fbd27bcda03e7c0ecf4d2aec86a5a7
+No-Intro,Shadow Man (France),Shadowman,NSDF,0 (0x00),big,4b38312c467b825ee0472746fe572a13d5520e8db3638299ae33c98110bc72e0
+No-Intro,Shadow Man (Germany),Shadowman,NSDD,0 (0x00),big,6efd99af685a32105ddbc0b0193af38a0ce8d262c4921e0ddeec68e49b6921ce
+No-Intro,Shadow Man (USA),Shadowman,NSDE,0 (0x00),big,da1a8af84f16ff385271704ca31673b0aa2343f40bc9cd95eac0bdf20676ca27
+No-Intro,Shadowgate 64 - Trials of the Four Towers (Europe),SHADOWGATE64,NSGP,0 (0x00),big,8566804b094a0d79177722c67201ab76dbae4cb3eb89a34b5995ee0522899db5
+No-Intro,"Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)",SHADOWGATE64,NSGY,0 (0x00),big,f555df60f67cc6aad5b06fcaa93a09a3ae3d79fcdd6084eccb187ed062589461
+No-Intro,"Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)",SHADOWGATE64,NSGX,0 (0x00),big,d62ae6df6ef2d5d8bc91a5ab3e229bbfb7ef297c6b9364a736c0d60bafa4a675
+No-Intro,Shadowgate 64 - Trials of the Four Towers (Japan),SHADOWGATE64,NSGJ,0 (0x00),big,cb5a41d98f5c0bb85fe1e99d396c2d56b36751d346258d06aae6f4b81871c7d4
+No-Intro,"Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)",SHADOWGATE64,NSGE,0 (0x00),big,bddefa567e6cae05126d9c29053eaeec3e78e088e4ea1cfd50ca3223a85f0871
+No-Intro,"Shadowgate 64 - Trials of the Four Towers (USA) (En,Es) (Beta)",SHADOWGATE64,NSGE,0 (0x00),big,77ce7d9ae142be989a5b77ddf0609bbdc2157b74dc86d9df9d87cf23cd306909
+No-Intro,Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan),TOUKON ROAD,NTOJ,0 (0x00),big,2f23a0e0af2fa0d10808c3f002011f7f5e44d4e142252e71f94e6683f4c0380f
+No-Intro,Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan),TOUKON ROAD2,NT3J,0 (0x00),big,2d6eb66ebda091f534e1dd23adc1276562fc1d2f8d9021f264738e02bbc1e191
+No-Intro,SimCity 2000 (Japan),SIM CITY 2000,NS2J,0 (0x00),big,858bfc0a47afb73452b59966095fc1a96d3fb701da274d4ea7acea5f74451f8d
+No-Intro,SimCopter 64 (USA) (Proto),,,0 (0x00),big,387df53451abcb5a1ad24723cd7aaf64e676d47a80ef43f59e5af5f07ead6e90
+No-Intro,Slosseum Dual (Japan),,,0 (0x00),big,81531cef4721e276c4c22b7293c18c78e075221435b8e6cf8ffeadc6d64c35a4
+No-Intro,Snobo Kids (Japan),,NSKJ,0 (0x00),big,3e732db0c4034407dd8788ded92c224cde3e5480c3d83ca1dcc93e6e950779f1
+No-Intro,Snow Speeder (Japan),Snow Speeder,NSNJ,0 (0x00),big,59fec0af835ee0b27339b09aa49b4afb8f7f2120d967808596907894f370f59f
+No-Intro,"Snowboard Kids (Europe, Australia)",SNOWBOARD KIDS,NSKP,0 (0x00),big,9034eb5f375ccd8fa101e3638ddde8c1110437581db111a81c9c586fee11ebcf
+No-Intro,Snowboard Kids (USA),SNOWBOARD KIDS,NSKE,0 (0x00),big,58870ea67d49f778e7a7607eb270ad1d3a081a4733b337b2d607de2606dcfb3c
+No-Intro,Snowboard Kids 2 (Australia),SNOWBOARD KIDS2,NK2P,0 (0x00),big,ba930f182f2d1ae73fa340a5eec4d1a1ef77b75c3498ba2867d98caef09e5fa7
+No-Intro,Snowboard Kids 2 (USA),SNOWBOARD KIDS2,NK2E,0 (0x00),big,8af426d05af66033ab6ba8e643aaf3ea4eee329a642440600821f6faf6618ebd
+No-Intro,Sonic Wings Assault (Japan),SONIC WINGS ASSAULT,NSAJ,0 (0x00),big,febf0934f6d2b792b9668df33fab18fc7d51d64a2ef8b88fe4ffbe43ee12c512
+No-Intro,South Park - Chef's Luv Shack (Europe),South Park Chef's Lu,NCYP,0 (0x00),big,808c16c10a8c60998b743f7ed96ec82363172dfeccc1035d2cbd527bdc9df6d0
+No-Intro,South Park - Chef's Luv Shack (USA),South Park: Chef's L,NCYE,0 (0x00),big,71219cf4aaab9884b7d026d1676bfbc00eaae2f0e05d1c0a09836b42473ea575
+No-Intro,South Park (Brazil),South Park,NDTB,0 (0x00),big,afb86754f19cce5b563896d99343c234e96e1d48116ac2a9bdb366e6e1f5f484
+No-Intro,"South Park (Europe) (En,Fr,Es)",South Park,NDTP,0 (0x00),big,e0cdb6f2c756febffc10266a5bf93ee853a0393de2f18353174e569303d3252c
+No-Intro,South Park (Germany),South Park,NDTD,0 (0x00),big,346ddcf6d1259bd31389267009d2caac74ddf79f608dfd826705e7c9fbfdad9e
+No-Intro,South Park (USA),South Park,NDTE,0 (0x00),big,68e87dbae05414026a126cb6e0c632e7660668a0003e1e1c975df8296e2a36a6
+No-Intro,South Park Rally (Europe),South Park Rally,NPRP,0 (0x00),big,20192eac2b4ae2eac5a5eb0f516463a789e6e5a2860411ea7f91f5f46fb9fe0a
+No-Intro,South Park Rally (Europe) (Beta) (2000-01-08),,,0 (0x00),big,c432b645a583dc5ea0eb9ec9bcc9c8a56777b6c270bac88f8d8b08b8651ec392
+No-Intro,South Park Rally (Europe) (Beta) (2000-01-17),p003.rom,NTUE,0 (0x00),big,fc9abc30131d3268cefac6933361f3980f82576dcd49383f770e005f004f8275
+No-Intro,South Park Rally (USA),South Park Rally,NPRE,0 (0x00),big,0e5168c8864f65781f50b83267528350d7f8ee4ffa9d4d3555533edccd656d87
+No-Intro,South Park Rally (USA) (Beta) (2000-01-14),sprally,NSPE,0 (0x00),big,01e014810a06896be27db02f3896686e99a806a0c9da8693ea9256ab4e3a41d7
+No-Intro,South Park Rally (USA) (Beta) (2000-01-27),sp10.rom,NTUE,0 (0x00),big,f7170b81bc2f635334cc3c58aa8f78e743daf5eeaa0ce0f1fc60420e6135412f
+No-Intro,Space Dynamites (Japan),SPACE DYNAMITES,NDKJ,0 (0x00),big,2f57c79de6d646c9da4a529053e3913c208db15de132900df700738d3f4982ab
+No-Intro,Space Invaders (USA),SPACE INVADERS,NIVE,0 (0x00),big,c5075e54bd06fe05881f9ff0f590366afb1c917adb0dc24f3d573c51d6e26a2d
+No-Intro,"SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)",Silicon Valley,NSVP,0 (0x00),big,0b13e3a0d4c7eaeda6556fdcad9bf0e6aefad2696c827a820786bb123e9387b0
+No-Intro,SpaceStation Silicon Valley (Japan) (Proto),Silicon Valley,NSVJ,0 (0x00),big,05d887b93daba2747858aed07cab3ec55505176a5bb82d038795c5025254dd21
+No-Intro,SpaceStation Silicon Valley (USA),Silicon Valley,NSVE,0 (0x00),big,b125bf0d761547ba878e44ef83f9e1ec3f400da7c46cf9a404b6caee6f9ba473
+No-Intro,SpaceStation Silicon Valley (USA) (Rev 1),Silicon Valley,NSVE,1 (0x01),big,ea3ea86e4012e878151bfdaa519afe5eee6f9388ec1cc2ae26baf0048f0a9abc
+No-Intro,Spider-Man (USA),SPIDERMAN,NSLE,0 (0x00),big,feff90ed1201c91ff167d66958048e61c192c9d6a756ddb98f799017ac9cd25c
+No-Intro,Star Fox 64 (Japan),STARFOX64,NFXJ,0 (0x00),big,438d5a25aafe7d0b2e490b9a87183ca3f00d2d7ddce6b3a5784c7bdc0cffc7bd
+No-Intro,Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console),STARFOX64,NFXJ,1 (0x01),big,e994d2660fd930adea76c71d73d5a4b749bda5269d09ebf47e570dcc8e18fdd1
+No-Intro,Star Fox 64 (USA),STARFOX64,NFXE,0 (0x00),big,a8d31134f6d2658fb7bdce5e8f8e74ab70cfcbed73ada22d680225915cb0fe22
+No-Intro,Star Fox 64 (USA) (LodgeNet),STARFOX64,NFXG,0 (0x00),big,dc16ebcf619cba24ca70d86c1424e1c609c1f376ad2bb9765f2802474f66bfab
+No-Intro,Star Fox 64 (USA) (Rev 1),STARFOX64,NFXE,1 (0x01),big,385bcf1901ed12fb1152f3c227d1968cc54ae41e8566da66695df71af40a573f
+No-Intro,Star Soldier - Vanishing Earth (Japan),STAR SOLDIER,ZHBJ,0 (0x00),big,6f23e0269989c9265f7b388144893cef56071077e4e6e635a42bb8060d74532e
+No-Intro,Star Soldier - Vanishing Earth (Japan) (En),STAR SOLDIER,NS6J,0 (0x00),big,4f5f52e4d8e02f584059b7349400685e85835ce001c8aba7b24ad34f484fece8
+No-Intro,Star Soldier - Vanishing Earth (Japan) (En) (Beta) (1998-03-10),,,0 (0x00),big,35291a9fff3bb06aeaf079987a83587cb7cc048a809b96dab99dced573976452
+No-Intro,Star Soldier - Vanishing Earth (USA),STAR SOLDIER,NS6E,0 (0x00),big,e80af976102089a2f1ed401b74f8082b591a4b350983c3a5647e21064a764813
+No-Intro,Star Twins (Japan),STAR TWINS,NJFJ,0 (0x00),big,7c62e7fe10747fa038b6854a7db8412d9152c33d75a0ba90b8a208f0ca5c1e07
+No-Intro,"Star Wars - Rogue Squadron (Europe) (En,Fr,De)",Rogue Squadron,NRSP,0 (0x00),big,a33b6b738116c36e78a0d078ceb9ff7ddaa7b36244689421fa7d85d70ccc2273
+No-Intro,"Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1)",rogue squadron,NRSP,1 (0x01),big,592b37eed2730ae25232b163dea6632cf6b9ed21dd3be35c0500a939b897627b
+No-Intro,Star Wars - Rogue Squadron (USA),Rogue Squadron,NRSE,0 (0x00),big,9c32d0087fa2b83c5ee6f19ee86683907653ed8f30e7d4680a0adac334559dd7
+No-Intro,Star Wars - Rogue Squadron (USA) (LodgeNet),Rogue Squadron,NRSG,0 (0x00),big,85e3baa1a5d8e8d7bd006d7d9818e0993dc344f46892a9033fedef3e8454c78e
+No-Intro,Star Wars - Rogue Squadron (USA) (Rev 1),rogue squadron,NRSE,1 (0x01),big,4813551d01d3a3474df3a51f84c31059cd2a9d1eeae7885dda51a88ee6b9f88d
+No-Intro,Star Wars - Shadows of the Empire (Europe),Shadow of the Empire,NSWP,0 (0x00),big,e9a7566a699e2c885d3cf86eb366f9fcd36e06a68f1ca0419700bbec44e3eacb
+No-Intro,Star Wars - Shadows of the Empire (USA),Shadow of the Empire,NSWE,0 (0x00),big,f916ff87a7ad3217ca26697607dc48d30f187edb797dc1535e1095edffdb0ff6
+No-Intro,Star Wars - Shadows of the Empire (USA) (Aftermarket) (Unl),Shadow of the Empire,NSWE,3 (0x03),big,5d5dc9aba45563bcd4a2bced42c865ca8916f2ce9a335c83e9e4e764ac6c2994
+No-Intro,Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15),Shadow of the Empire,NSWE,0 (0x00),big,617a6b8889e4e779fb5950e7096fd7a79dae1515880046827ac0e2d7fe6b34ff
+No-Intro,Star Wars - Shadows of the Empire (USA) (Rev 1),Shadow of the Empire,NSWE,1 (0x01),big,895d3dbbdc4945b690ef80f6dff8e5c95b5e3ab9fb3d9b62b5a8e9c61110a0e9
+No-Intro,Star Wars - Shadows of the Empire (USA) (Rev 2),Shadow of the Empire,NSWE,2 (0x02),big,e7085e013123537f34e0edec8801318016da4dbac424172d6dc5f3b67d98642c
+No-Intro,Star Wars - Shutsugeki! Rogue Chuutai (Japan),rogue squadron,NRSJ,0 (0x00),big,6c13a4b27820ab17f8e9d67775cf68f6df757c62babc6347542e5d456770878c
+No-Intro,Star Wars - Teikoku no Kage (Japan),Shadow of the Empire,NSWJ,0 (0x00),big,ed01f66646360a645f8c283d9d887504f662dc741758cbe3a865c8dc85c8d52f
+No-Intro,Star Wars Episode I - Battle for Naboo (Europe),Battle for Naboo,NNAP,0 (0x00),big,b5bdfe343a2b24cad636b66cac0af54ac04aefbfa26a817957227cc24ced4846
+No-Intro,Star Wars Episode I - Battle for Naboo (USA),Battle for Naboo,NNAE,0 (0x00),big,515b2302fefe1741c09103f70708690a058ba77a7ab8acd086c48b972b22d33e
+No-Intro,Star Wars Episode I - Battle for Naboo (USA) (Beta),Battle for Naboo,NNAE,0 (0x00),big,2dbba691279d4879b0e6edfa6f69113b79227b37afb5097108691870c8a8dbf4
+No-Intro,"Star Wars Episode I - Racer (Europe) (En,Fr,De)",STAR WARS EP1 RACER,NEPP,0 (0x00),big,326b810b24cef38b04b74084bfd487fb6d40ea955dc2a54849de942bde076edc
+No-Intro,Star Wars Episode I - Racer (Japan),STAR WARS EP1 RACER,NEPJ,0 (0x00),big,44bf4f65daf5933ac1f903cffff8ee154f3f6613e3a7c806a0390495392644a7
+No-Intro,Star Wars Episode I - Racer (USA),STAR WARS EP1 RACER,NEPE,0 (0x00),big,8d6f85683b630e25385619af37197d48279366f6609bb6edc1201ff24c08b757
+No-Intro,Star Wars Episode I - Racer (USA) (Aftermarket) (Unl),STAR WARS EP1 RACER,NEPE,1 (0x01),big,314730e75239c074b896af47d53dc0a5746131bcfc8b925795e4933fee5de147
+No-Intro,StarCraft 64 (Australia),STARCRAFT 64,NSQP,0 (0x00),big,f2267c9325d608f283830a7d568dcd9a2fc126f93b1c7d3ea23a34082031c19a
+No-Intro,StarCraft 64 (Germany) (Proto),STARCRAFT 64,NSQD,0 (0x00),big,f420511ebfcbef912de53552f1cac72a5a3833dee4ed0a7312bc37f7056d782b
+No-Intro,StarCraft 64 (USA),STARCRAFT 64,NSQE,0 (0x00),big,e7d21880c13953b45b8f8db6b2b6cfa02daa29d35b23799a967e96f21001b020
+No-Intro,StarCraft 64 (USA) (Beta),28y)tUy7]9,7I,73 (0x49),big,1750659350fa1a66e7b3905653a79b9864712a5d822b9ac42c68fbb6bf7f6ec6
+No-Intro,"Starshot - Space Circus Fever (Europe) (En,Fr,De)",Starshot,NSCP,0 (0x00),big,c82d314e5aee48c305d141ba1cb0203cc450e4ea3fd49e464563bc6a64d69094
+No-Intro,"Starshot - Space Circus Fever (USA) (En,Fr,Es)",Starshot,NSCE,0 (0x00),big,0119becb46b84107ce9f67c89439474f43b08b77f0da2e3731ae4cc95f573d5f
+No-Intro,Stunt Racer 64 (USA),Stunt Racer 64,NR3E,0 (0x00),big,d3b01e935aec87819bb053d2881ec59e7c4c66ed2843df144dab618e2bc3fd8c
+No-Intro,Styx (World) (Aftermarket) (Unl),Styx,ED 0,48 (0x30),big,ab7b901d61a7b7b85e8b5ce212e36b61b187b73369c6661d3595a00951f55313
+No-Intro,Super B-Daman - Battle Phoenix 64 (Japan),BattlePhoenix64,NB6J,0 (0x00),big,7e5ce77e2b99581537db722e58ce309dc6d4de857ea9ebf631fb9fc30c0a558e
+No-Intro,Super Bowling (Japan),SUPER BOWLING,NBWJ,0 (0x00),big,8f032d2f3f3c1c68fc6f94a15045d149dd916897356fef963c6a362c61ff690f
+No-Intro,Super Bowling (USA),SUPER BOWLING,NBWE,0 (0x00),big,c86664acd35c31ccd1e2aa054a8614b933f037e411919b2aded5ddb237bd6dff
+No-Intro,"Super Mario 64 (Europe) (En,Fr,De)",SUPER MARIO 64,NSMP,0 (0x00),big,c792e5ebcba34c8d98c0c44cf29747c8ee67e7b907fcc77887f9ff2523f80572
+No-Intro,Super Mario 64 (Japan),SUPER MARIO 64,NSMJ,0 (0x00),big,9cf7a80db321b07a8d461fe536c02c87b7412433953891cdec9191bfad2db317
+No-Intro,Super Mario 64 (Japan) (Rev 3) (Shindou Edition),SUPERMARIO64,NSMJ,3 (0x03),big,f8807b5e28f1b1a31c5d3675d23ece73f949ccb553dcbb07972666a1e76adfa2
+No-Intro,Super Mario 64 (USA),SUPER MARIO 64,NSME,0 (0x00),big,17ce077343c6133f8c9f2d6d6d9a4ab62c8cd2aa57c40aea1f490b4c8bb21d91
+No-Intro,Super Mario 64 (USA) (LodgeNet),SUPER MARIO 64,NSMG,0 (0x00),big,387e4b48e206d4e1097b96aea8c376d177f5a72a455d800671889199200c902a
+No-Intro,Super Real Mahjong VS (Japan),Super Real Majan VS,ZSEJ,0 (0x00),big,bdfc8c64ff4bd0fe327878e599cee946cb9cccd7ce800b2f6954a10cada69fd2
+No-Intro,Super Real Mahjong VS (Japan) (Rev 1),Super Real Majan VS,ZSEJ,1 (0x01),big,2badf5a5efa08daab42ce831ec054075c8de077bbff5463d4e97ace894c0d19f
+No-Intro,Super Robot Spirits (Japan),SUPERROBOTSPIRITS,NSSJ,0 (0x00),big,57781c0d44fe3843107d3a327575343234eedf3287412623e45b9c4ee0a76734
+No-Intro,Super Robot Taisen 64 (Japan),64,NS4J,0 (0x00),big,ee5f4a21d8e5f7827d21199e27800edf250df9a8e4d10befb1a6992df597b13e
+No-Intro,Super Smash Bros. (Australia),SMASH BROTHERS,NALU,0 (0x00),big,ae6bc07dec084e10bf8ed6364964425d29cd2dacf427c9f06e35fb33290f78bf
+No-Intro,"Super Smash Bros. (Europe) (En,Fr,De)",SMASH BROTHERS,NALP,0 (0x00),big,ddc65284e78c301f764d2f5e1e01de9a017225867a0b9326b73057fb8bdb1daf
+No-Intro,Super Smash Bros. (USA),SMASH BROTHERS,NALE,0 (0x00),big,15592e79d3c5295cef4371d4992f0bd25bec2102fc29644c93e682f7ea99ef3d
+No-Intro,Super Smash Bros. (USA) (LodgeNet),SMASH BROTHERS,NALG,0 (0x00),big,aaa00b6f24ba139164371bff13f74be50c1b9a4e85594411c54a88e3f343794d
+No-Intro,Super Speed Race 64 (Japan),SUPER SPEED RACE 64,NLCJ,0 (0x00),big,f43570e2c579f476488d655920f508f92c09f88004dec886b85e54fcadb6a423
+No-Intro,"Supercross 2000 (Europe) (En,Fr,De)",Supercross,NSXP,0 (0x00),big,92db4d0ba456d921c077d5bd524c913c297ea888bc78d5018ced70faa6203a59
+No-Intro,Supercross 2000 (USA),Supercross,NSXE,0 (0x00),big,2659be83dc4d8795d01d4838383579ad9aecf1a06ef0ea6aebc9588184fb9080
+No-Intro,"Superman - The New Superman Aventures (USA) (En,Fr,Es)",SUPERMAN,NSPE,0 (0x00),big,37df2542bf24951e259990c4d76c13f96dd52cba867f492b3a99391d0978b178
+No-Intro,"Superman (Europe) (En,Fr,De,Es,It,Nl)",SUPERMAN,NSPP,0 (0x00),big,ae0cb81d7fff296f4a079e3ec08255ea9d65979230bb41ab4ae492bf830d56a0
+No-Intro,Superman (USA) (Beta) (1998-09-06),,,0 (0x00),big,8c48fcb16408b555997c83611db09a45a99a6f516ed083a163d406698ea17ea1
+No-Intro,Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan),!,NPZJ,0 (0x00),big,bf07279640b1c64287f02413794c8200769a74570d3cb0e5e5d22df4c1dda66e
+No-Intro,"Swoop 64, The (World) (Aftermarket) (Unl)",,,0 (0x00),big,98a7104446ef2202429cd4397486846c39fda14ee26e1877c4e47670c2f29a25
+No-Intro,Sydney 2000 (Europe) (Proto),Syd2k GBR,,0 (0x00),big,8da2c8bd3a4a95cc9eb82bb5da40a816ef0277a7268021acff6517ce80590bf7
+No-Intro,Sydney 2000 (USA) (Proto),Syd2k USA,,0 (0x00),big,a050bea9070d5509c33b292faa7cd4abfbda87a1bd8d86710cc75fd1d29ac880
+No-Intro,Tamiya Racing 64 (USA) (Proto),,,0 (0x00),big,d1052f868382170b7aa3e47b993a866f3c93209ae4b0a2cb91e5554df844ff46
+No-Intro,Tarzan (Europe),TARZAN,NTAP,0 (0x00),big,046a40f91cb5a623390bfd3cd5ad3b28dc2b4dc602a885667a6c7405e6799797
+No-Intro,Tarzan (France),TARZAN,NTAF,0 (0x00),big,4dba12006cfbb965de11f95cde4042afde4fb53a5c8dfed0393dfadc87e7394f
+No-Intro,Tarzan (Germany),TARZAN,NTAD,0 (0x00),big,e830ed7b598776dd2c26be160f0fe8d647bf30c56401b7598adfe457a9a9947c
+No-Intro,Tarzan (USA),TARZAN,NTAE,0 (0x00),big,e56d09772489a1a7426693396e6cbb24c1bfcd0ced11b92bc1546b081e9f3c06
+No-Intro,"Taz Express (Europe) (En,Fr,De,Es,It,Nl)",Taz Express,NTXP,0 (0x00),big,5f3dcf40286aa1bb914b5fc3b6672b8db59d7a75e6e37f8941bae0dd87860cd8
+No-Intro,Taz Express (USA) (Proto) (2000-05-15),Taz Express,NTXE,0 (0x00),big,ac108c9f6167edad6c31d82d8ab9381691f9b4773a6fe9e34f89639586764e1a
+No-Intro,Telefoot Soccer 2000 (France),TELEFOOT SOCCER 2000,NWKF,0 (0x00),big,c2abd9801d992e9470d3a312d9bc9845d18e2e270826bb95c120371632297e1c
+No-Intro,Telelocation - Gemini (World) (64Brew Game Jam 2020) (Aftermarket) (Unl),,,0 (0x00),big,202fdb28c7efe998125000bae3c1a328327403f7957b13f983f7180a2ffd4203
+No-Intro,Tetris 64 (Japan) (En),TETRIS64,NT6J,0 (0x00),big,ba6305efc6a8d8ae1ea4b48e714d8e56abfda872d82af1e2ba4d7701b1166d2e
+No-Intro,Tetrisphere (Europe),TETRISPHERE,NTPP,0 (0x00),big,1bb4ed1ef078560e283a4fe942972fb0297bd33d7f9e36cb673358c394176dd1
+No-Intro,Tetrisphere (USA),TETRISPHERE,NTPE,0 (0x00),big,f7cbc93ac273488bfb89955ab6ae9b60c730907872107a67a56b945e8579ef87
+No-Intro,TG Rally 2 (Europe),TG RALLY 2,NL2X,0 (0x00),big,ee12beeafdc435af8f46dd15c86b28dbc60be992a9374a889cfac5a0780c3a2d
+No-Intro,"Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)",Tigger's Honey Hunt,NT9P,0 (0x00),big,52212186f8b790dcde0deefcef1a066e1ec279f727ce9a4b92d04e769919200d
+No-Intro,Tigger's Honey Hunt (USA),Tigger's Honey Hunt,NT9E,0 (0x00),big,8be27129642a6ba16f400b6aaaee895fbd9726811c5aa15db71b4cbe6145a6be
+No-Intro,"Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)",TOM AND JERRY,NTJP,0 (0x00),big,389bc437af911d02f02dbf1f5996d34b895ff1d61335ea9b8fbbfd8f1e5f2fa9
+No-Intro,Tom and Jerry in Fists of Furry (USA),TOM AND JERRY,NTJE,0 (0x00),big,ca15f99191e7a09d1334f209414375463c6897acde636d22638087f8a15b87fa
+No-Intro,Tom Clancy's Rainbow Six (Europe),RAINBOW SIX,NR6P,0 (0x00),big,2e5d44c0450b97cc4c3ed634222c083818615aeaa8a09f832129da75f6cec8c0
+No-Intro,Tom Clancy's Rainbow Six (France),RAINBOW SIX,NR6F,0 (0x00),big,13783f667340351ddd75e08786191f42849601b4370b721d1f1c0cc84d0f3912
+No-Intro,Tom Clancy's Rainbow Six (Germany),RAINBOW SIX,NR6D,0 (0x00),big,23dcc7183e762d7d80052b189279f1cbd153bb47db2751f21e02f070fb61bc86
+No-Intro,Tom Clancy's Rainbow Six (USA),RAINBOW SIX,NR6E,0 (0x00),big,23a774fc0f83c4a134e23b33c450b600aee2e3b57e13cccd361103ef885bf916
+No-Intro,Tommy Thunder (USA) (Proto) (1997-10-01),LALA,NiE,0 (0x00),big,9f42f697031b19154f1a184ac224bbfa4c4f02a4c1b366dd2617428bdee79c3b
+No-Intro,Tonic Trouble (Europe) (Beta),,,0 (0x00),big,8bb9bb43d2778fe77fd45eb5f58928aca58c75b8d81aeb0185894edcd4f2b660
+No-Intro,"Tonic Trouble (Europe) (En,Fr,De,Es,It)",Tonic Trouble,NTTP,0 (0x00),big,03ec2d3d3ba63bd394313589333b8d6781331bc3cca06321beddae76e747bcb6
+No-Intro,Tonic Trouble (USA) (Rev 1),Tonic Trouble,NTTE,1 (0x01),big,f6070df42b54b32b64beac42dd77e2f69fb74fa3f93740b9fdd7862d55e75bf4
+No-Intro,Tony Hawk's Pro Skater (USA),TONY HAWK PRO SKATER,NTFE,0 (0x00),big,f96e1688a360214844421a230a782a0c0215dddfab81f1bfedade0364648ee52
+No-Intro,Tony Hawk's Pro Skater (USA) (Beta),TONY HAWK PRO SKATER,NTFE,0 (0x00),big,f176d2698222758e67a8dddd5f0faa902a9b79a3415845a769cf0a59652027f6
+No-Intro,Tony Hawk's Pro Skater (USA) (Rev 1),TONY HAWK PRO SKATER,NTFE,1 (0x01),big,506961e65197aaff2b47ae055b7d28470f80fb925914ebeac9ddc541a7a9fd8d
+No-Intro,Tony Hawk's Pro Skater 2 (Europe),THPS2,NTQP,0 (0x00),big,1f675f4a3c73d4e985fb72764a80a6a2b28fd888152d438efcfe629d0d80180c
+No-Intro,Tony Hawk's Pro Skater 2 (USA),THPS2,NTQE,0 (0x00),big,6ac38612aaae84f8bba22a33a165c17fba3072b16999edcc9a86ab726008d726
+No-Intro,Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20),,,0 (0x00),big,39df4d15ffdb081a29d399f0df935dad667080b9ffc255f44dcbf559871f2586
+No-Intro,Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04),,,0 (0x00),big,05946af0bcc0ca1e9c8b17675c24df98038e66864a934b5182ff858993b0d0ae
+No-Intro,Tony Hawk's Pro Skater 3 (USA),THPS3,N3TE,0 (0x00),big,93c8a1be89390ef27e5f2da709ca16c9a24936538766c6774640cf534c9d2aee
+No-Intro,Tony Hawk's Skateboarding (Europe),TONY HAWK SKATEBOARD,NTFP,0 (0x00),big,10eb3aa1501d8172a711c4bc939fec65afd1f2d79f51e11c59235ca4c29f3585
+No-Intro,Toon Panic (Japan) (Proto),,,0 (0x00),big,5ace3ace72727390d2d6bd6b4421a06d317c3e387cee2b1883a7e6b5eb4768a6
+No-Intro,Top Gear Hyper Bike (Europe),Top Gear Hyper Bike,NGBP,0 (0x00),big,37de2e8503c5306d40ab9488f0c74424a5f5dfe795990ba9bd839a0d991ef5b0
+No-Intro,Top Gear Hyper Bike (Japan),Top Gear Hyper Bike,NGBJ,0 (0x00),big,9c85d8dac5c32a0cf72b68fda3e0ca7687bbac64d364f8cbf285885c74b05767
+No-Intro,Top Gear Hyper-Bike (USA),Top Gear Hyper Bike,NGBE,0 (0x00),big,f2c23cf3bbc4d4bd19cab8575f2ea03e60e3c5f3ed2f5911d1dc829f461e2d66
+No-Intro,Top Gear Hyper-Bike (USA) (Beta),,,0 (0x00),big,83774c23dd3f473bdd5b25dc2baf400332699bfab9fc6c60575148a251384d1f
+No-Intro,Top Gear Overdrive (Europe),Top Gear Overdrive,NRCP,0 (0x00),big,f9befa4ff29d2291cf7d82e4b32dcca2e516add8d75365328ea5f7280bea0e97
+No-Intro,Top Gear Overdrive (Japan),Top Gear Overdrive,NRCJ,0 (0x00),big,005cf83582fbfb734340b36c6643be260ae921bde249005e47de546827190db6
+No-Intro,Top Gear Overdrive (USA),Top Gear Overdrive,NRCE,0 (0x00),big,489da63fda3c10cdac69515968377a2334a1bfe868b92d4d0dfb27980e0f3498
+No-Intro,Top Gear Overdrive (USA) (Beta),,,0 (0x00),big,917f2f7ae45bb14a0c588e266f0909a0f2be206bd6b78d33b29be138cedcf46f
+No-Intro,Top Gear Rally (Asia) (En),TOP GEAR RALLY,NGRX,0 (0x00),big,159b558f1f6810fbf2b9081fe7f1d100af5765b61bef2fc223c8d8cfc4506f43
+No-Intro,Top Gear Rally (Europe),TOP GEAR RALLY,NTRP,0 (0x00),big,a519d53ddc8481a0fcc8f92034257b86a363b9e75ae4438ac4fad6c3e018e8c3
+No-Intro,Top Gear Rally (Japan),TOP GEAR RALLY,NTRJ,0 (0x00),big,d880e9bd0d7e354fa421eff6b91f776d9b7d67fdae560e038deb31efe9b0402e
+No-Intro,Top Gear Rally (USA),TOP GEAR RALLY,NGRE,0 (0x00),big,af2ac2550273fa340d84e3674a2d3c60a921a47b5dbf19662fe006c379fafc40
+No-Intro,Top Gear Rally 2 (Europe),TOP GEAR RALLY 2,NL2P,0 (0x00),big,a59a4e5bed8bd6957f0b7ff32e5a0971b72781dc12923a7b373d30a25a755f79
+No-Intro,Top Gear Rally 2 (Europe) (Beta) (1999-08-31),,,0 (0x00),big,0565c4866e2147527919ed22a2b3a8c302c6575db3ec5ecb8e2457763845c7f8
+No-Intro,Top Gear Rally 2 (Japan),TOP GEAR RALLY 2,NL2J,0 (0x00),big,03f75da442cc31b9d4546020f956365a90ac9c5069aa628c338c60d231553556
+No-Intro,Top Gear Rally 2 (USA),TOP GEAR RALLY 2,NL2E,0 (0x00),big,e3e523e92aaad69abda8df4cd4aa92505f5d8fa4d67fac4bbe6980666237c4db
+No-Intro,Top Gear Rally 2 (USA) (Beta),TOP GEAR RALLY 2,NL2E,0 (0x00),big,c06049ac701f5c4d0035704b8df96b3f31e1e02e9cd084259b2166804e59a5a1
+No-Intro,Tower & Shaft (Japan),,,0 (0x00),big,a24bf020e4157ccdb6407d443e0385ab3c710f46f43900986c570e648a831c3e
+No-Intro,Toy Story 2 - Buzz l'Eclair a la Rescousse! (France),Toy Story 2,NTHF,0 (0x00),big,5ff7efb853a66959e1a8a96d94942d96ea97d5409769edcb4952db41b0c82a04
+No-Intro,Toy Story 2 - Buzz Lightyear to the Rescue! (Europe),Toy Story 2,NTHP,0 (0x00),big,ae77d1d9b5aa207ea2ec5daa0a0d6bd680425041bacb9dfdc984dd0ec8f39fa1
+No-Intro,Toy Story 2 - Buzz Lightyear to the Rescue! (USA),Toy Story 2,NTHE,0 (0x00),big,b8b0db1259ca80b4397c3c58ef63d38100a69d436ed3f097079eb81d07e764c9
+No-Intro,Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1),Toy Story 2,NTHE,1 (0x01),big,b2a75b38f148d12c29088885d755ae3e9e6320f14cc4c1881826c8fe3cf2bc51
+No-Intro,Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany),Toy Story 2,NTHD,0 (0x00),big,04392e31d7be9b6b138e3030a08d256326071a0dbe16398d2ea7b1836427249b
+No-Intro,Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1),Toy Story 2,NTHD,1 (0x01),big,ff1103ff721d26b0d4807de88ad2229bf2ac8957a2b862f631ee22c473be4842
+No-Intro,Transformers - Beast Wars Metals 64 (Japan),BEASTWARSMETALS64,NTBJ,0 (0x00),big,8f9aea4cdf8cbf85a62efab04bc39b43fee7b73bac489bd38af62ff0955cd462
+No-Intro,Transformers - Beast Wars Transmetals (USA),BEAST WARS US,NOHE,0 (0x00),big,aae1c838d88a4ff7eac6b515452265416141f22bc5dea760c66d0f1eb811165b
+No-Intro,Triple Play 2000 (USA),TRIPLE PLAY 2000,N3PE,0 (0x00),big,61685117852b7a202c8dbc21a5b80c601980e48c937aa036d659605e7043287b
+No-Intro,Tsumi to Batsu - Hoshi no Keishousha (Japan),TSUMI TO BATSU,NGUJ,0 (0x00),big,750c67c56762678d44260831dc15206f50b1a5589ffcd7f6aaad85beafa7d5ba
+No-Intro,Turok - Dinosaur Hunter (Europe),TUROK_DINOSAUR_HUNTE,NTUP,0 (0x00),big,9c9ea5dffe062ebc5038827a5b1d16100752561de6d904eec4186620bc351a0a
+No-Intro,Turok - Dinosaur Hunter (Europe) (Rev 1),TUROK_DINOSAUR_HUNTE,NTUP,1 (0x01),big,0b55834cd737391353c2359f225253e6a2e9bf2121080d376aef7f9a36871d44
+No-Intro,Turok - Dinosaur Hunter (Europe) (Rev 2),TUROK_DINOSAUR_HUNTE,NTUP,2 (0x02),big,4c12397d7a85896e488df15f1329f7fe66502323fcec589b7e0c726a1c93c969
+No-Intro,Turok - Dinosaur Hunter (Germany),TUROK_DINOSAUR_HUNTE,NTUD,0 (0x00),big,5bf631a7a35a44ce8f5f29e30c6882bb533a7ec09074549e21d32f8163d1ecf0
+No-Intro,Turok - Dinosaur Hunter (Germany) (Rev 1),TUROK_DINOSAUR_HUNTE,NTUD,1 (0x01),big,516cd32e66166cce82e49c4b6bb8054a677fb482141282b1cc682bff6dce1371
+No-Intro,Turok - Dinosaur Hunter (Germany) (Rev 2),TUROK_DINOSAUR_HUNTE,NTUD,2 (0x02),big,f608a67ab6c3262683da4d207c029ff8d2a08e5aa6375e583935c094503b10b7
+No-Intro,Turok - Dinosaur Hunter (USA),TUROK_DINOSAUR_HUNTE,NTUE,0 (0x00),big,4111045ae8e05da883037906dc9f693d8e6f55ad6b3a0c43a9472c632486e082
+No-Intro,"Turok - Dinosaur Hunter (USA) (Demo) (Kiosk, E3 1997)",,,0 (0x00),big,6134251820b4ff94c62c1a83f9eca4dc27f72dfe2f3f71aaaa7c4b81dbd99cdf
+No-Intro,Turok - Dinosaur Hunter (USA) (Rev 1),TUROK_DINOSAUR_HUNTE,NTUE,1 (0x01),big,876dc5e9962962b3fdf6248b7611c62b0df117a855d987b39cf8ee1fb3257f96
+No-Intro,Turok - Dinosaur Hunter (USA) (Rev 2),TUROK_DINOSAUR_HUNTE,NTUE,2 (0x02),big,3f46508afd36173886f8a6ea65066663c431be9e1edb8d299356569d87e48bab
+No-Intro,Turok - Legenden des Verlorenen Landes (Germany),Turok: Rage Wars,NRWD,0 (0x00),big,9dc401252bacb2ad7412ef003f97f28cb225d76b3cc76f430fbc27fa05067ca8
+No-Intro,Turok - Rage Wars (Europe),Turok: Rage Wars,NRWP,0 (0x00),big,d763cbbe485a5f9e1b7be97d5ac16735087e23d0bb62c05dc844e01b7e1156d1
+No-Intro,"Turok - Rage Wars (Europe) (En,Fr,It)",Turok: Rage Wars,NRWX,0 (0x00),big,511f6c876586bf401faf01a270c67f26fcb7db55ed3f35759c71ab15a29de750
+No-Intro,Turok - Rage Wars (USA),Turok: Rage Wars,NRWE,0 (0x00),big,0433043aaba2649bdd1fe717c4020550ac663c0362527aa082490f5977a3e46b
+No-Intro,Turok - Rage Wars (USA) (Rev 1),Turok: Rage Wars,NRWE,1 (0x01),big,5dfbae59e4a3860b740ccbb28f33aad624315e30bfca6d60abd62d12a89e0089
+No-Intro,Turok 2 - Seeds of Evil (Europe),Turok 2: Seeds of Ev,NT2P,0 (0x00),big,6c8ec2083adeb6eb7bc0aad865384f77a8f89a98ff21b74a630dd85e8256ebf8
+No-Intro,Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk),Turok 2: Kiosk,NTYP,0 (0x00),big,9b3cda34ff7926fd0d39ac6d97dff4736ac0ab024a4c69fa0b7ce5ad03634357
+No-Intro,"Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)",Turok 2: Seeds of Ev,NT2X,0 (0x00),big,9bf5a28d059f0a2ce8a5bfb8aaa9ba2bfbd204c1bc889198ed70fcb18db2647b
+No-Intro,Turok 2 - Seeds of Evil (Germany),Turok 2: Seeds of Ev,NT2D,0 (0x00),big,7545e13528bad67c540668777322ed82e69d7d76efdcd46e6bf46a48a1289f5d
+No-Intro,Turok 2 - Seeds of Evil (USA),Turok 2: Seeds of Ev,NT2E,0 (0x00),big,a182ff273697bd337c17be427041a1dee6dec0f90d7d62407843c5eabb7e6ef0
+No-Intro,Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk),Turok 2: Kiosk,NTYE,0 (0x00),big,59ef6223fec824af3499ec37d08432190c648c1061aa877d0373da3e918443a1
+No-Intro,Turok 2 - Seeds of Evil (USA) (Rev 1),Turok 2: Seeds of Ev,NT2E,1 (0x01),big,cb62df8e8085fc1828b943723b2cd164aeabbe53b2940314189d4133233dfb86
+No-Intro,Turok 3 - Shadow of Oblivion (Europe),Turok 3: Shadow of O,NTKP,0 (0x00),big,26520b99cbadf6a2f095ec94d898907901a9541703c34976f5f8c926bc90b706
+No-Intro,Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31),,,0 (0x00),big,c7ca62ac76c1e96181094c9b34f4991d2d927c2043013c0a9064b615f4514cd8
+No-Intro,Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-06-06) [b],TUROK3,ABCD,0 (0x00),big,6b56c8c5a2e9c8ee4a2333acdc71f1ddaeb8c2636a660b386257ab951e60fff4
+No-Intro,Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-10) [b],turok,NSED,0 (0x00),big,49be8c172cfcbc4045efac35a4c9b423788e1721360a138af76c7d5e8ddaad8a
+No-Intro,Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T211412),turok,NSHT,0 (0x00),big,12f6f14c38c3a19fa332d2068bcf11f36ab2d82982c40788ea6c17655e50872c
+No-Intro,Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16T220245),turok,NSHT,0 (0x00),big,24e7e1ba7bb79156f0181227192383575e22dfd67279f7660d4d44111436ecf3
+No-Intro,Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-18),TUROK3,ABCD,0 (0x00),big,628cdd8067ff066d02d7a08b375f5b64ac6131127a510d4fc0050135225c2574
+No-Intro,Turok 3 - Shadow of Oblivion (USA),Turok 3: Shadow of O,NTKE,0 (0x00),big,9ac5a8049d6c0dce16fd0ac2898fb42fec42455ca8497d3244de215df1e6e096
+No-Intro,Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-05-03),,,0 (0x00),big,73857c14229df113fb20a05e726a36e71b039ca9d5862c917eac2c6bb35a9727
+No-Intro,Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26),turok3,ABCD,0 (0x00),big,3489e1b20daf77e67a5fc6a20973a8bc2fd4ed83c35ac512be5d7bcfe9909df0
+No-Intro,Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-16),turok,NSHT,0 (0x00),big,78175f1a4731ecc25dbc52987e3dcc12464d3d0be8bd9f6eeeeea71e14cfad9f
+No-Intro,Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-18),turok3,ABCD,0 (0x00),big,bd01280dd12dc579da8dbb080c79b97cedab0d535334c913b5206815eaf8d2dc
+No-Intro,Twisted Edge - Extreme Snowboarding (USA),TWISTED EDGE,NSBE,0 (0x00),big,ae18c310cc6130ba7cb38068fc34ce3e2cd01b1311ee1112613cb5dd5048bf9a
+No-Intro,Twisted Edge - Snowboarding (Europe),TWISTED EDGE,NSBP,0 (0x00),big,a00c0c81651f01a7c88e120c09028ae8419ef7627ad3f912ab3a036fe400e3ec
+No-Intro,Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan),,NIRJ,0 (0x00),big,d702729e9702b3db6a6dbb5fd91767d07108d97c91b41a2dbc89cf75eba7515e
+No-Intro,Viewpoint 2064 (Japan) (Proto),,,0 (0x00),big,a909dc41517a07f22eabba5a8b3f68968cf608be1c81a41e5276bcde515ba7e3
+No-Intro,Vigilante 8 - 2nd Offense (Europe),V8: SECOND OFFENSE,NVGP,0 (0x00),big,f752fbc6ba026fe4efef6f79df7a8e509762507ad5442ad0aa09a68da484d9e7
+No-Intro,Vigilante 8 - 2nd Offense (USA),V8: SECOND OFFENSE,NVGE,0 (0x00),big,46bc15e6fa247275c6c5683cbd4f32646247de9952da68078582eee43d30b4ce
+No-Intro,Vigilante 8 (Europe),VIGILANTE 8,NV8P,0 (0x00),big,7499ee925f730d3b9536abd2b3e97de43207c925c45e7462a8d2bdbc634448b1
+No-Intro,Vigilante 8 (France),VIGILANTE 8,NV8F,0 (0x00),big,20c61c00a592b2084803fa1490af32b75bc225dd1bde3832dd2341116cf0b13e
+No-Intro,Vigilante 8 (Germany),VIGILANTE 8,NV8D,0 (0x00),big,33067628015f159e1a35387f0be04430e1bb52f5b3bd730117c1b397c1a4b918
+No-Intro,Vigilante 8 (USA),VIGILANTE 8,NV8E,0 (0x00),big,fd75b40f561049b70b7e0bc652584062061fd17cf23e518700f5dcc5d4938799
+No-Intro,Violence Killer - Turok New Generation (Japan),VIOLENCEKILLER,NT2J,0 (0x00),big,b26e277246cda342b0ecd4ef03ff663a8e489bf8779a6f9318c4ccc510bb1257
+No-Intro,"Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)",VIRTUALCHESS,NVCP,0 (0x00),big,520a4f53ca23cad5cafb03025117858a1fe474146bd49ace2d270161da4e992c
+No-Intro,"Virtual Chess 64 (USA) (En,Fr,Es)",VIRTUALCHESS,NVCE,0 (0x00),big,ac19658807101ea90ee1971e82145117203a85e4137a3417bc9bce8ff8f04e46
+No-Intro,"Virtual Chess 64 (USA) (En,Fr,Es) (LodgeNet)",VIRTUALCHESS,NVCG,0 (0x00),big,c06a7d8c1182621d1512fb9b1657be47bd1219cca190dd2625b55b4f01a958dc
+No-Intro,Virtual Pool 64 (Europe),Virtual Pool 64,NVRP,0 (0x00),big,06b14029b7ae53de5d3097b2641563eb2bf402f9920779faada96dc380c082f3
+No-Intro,Virtual Pool 64 (USA),Virtual Pool 64,NVRE,0 (0x00),big,e263c17be9deae7acf8eb1850948c179ec45a1409cd373682cc37c0251881efe
+No-Intro,Virtual Pool 64 (USA) (LodgeNet),Virtual Pool 64,NVRG,0 (0x00),big,73be69ba1c5b583514828c425b0c78072ea9614d619e3ae84f4b1572e0f4a975
+No-Intro,Virtual Pro Wrestling 2 - Oudou Keishou (Japan),2,NA2J,0 (0x00),big,358e9a345438155c6bd57da4bbf0f7a9fa1b4f7d5b1b726e8076c38f0f987e52
+No-Intro,Virtual Pro Wrestling 64 (Japan),64,NVPJ,0 (0x00),big,8b7191ae5489fc71c7a18c05a0afba035a88d8f22a2b047253dd9c524fb88921
+No-Intro,Vivid Dolls (Japan),VIVID DOLLS,ZSAJ,0 (0x00),big,9ac6e7c1baeec5f1cf4e26bff356d136d3f22dd0871c0d2bf6af16fa8d948692
+No-Intro,"V-Rally Edition 99 (Europe) (En,Fr,De)",V-RALLY,NVLP,0 (0x00),big,d510b5ccf5a0513ce0a3776f045f7ef9a4983a07e0d00a31f0b1ae5d3eb2d4a7
+No-Intro,V-Rally Edition 99 (Japan),V-RALLY,NVYJ,0 (0x00),big,1aa7e06bb6ff4360a1d47d509486002c1ab5dfd08f1c8555979c855f398e2537
+No-Intro,V-Rally Edition 99 (USA),V-RALLY,NVLE,0 (0x00),big,7bd50354861472b6de24f89e133c6fedb2ce91ac7802df2d618175c83b028585
+No-Intro,Waialae Country Club - True Golf Classics (Europe),Waialae Country Club,NWLP,0 (0x00),big,054aa1854980abaf7bbc4f7d5dba719ad60dac36ae0da75de0129c9c81b52b35
+No-Intro,Waialae Country Club - True Golf Classics (Europe) (Rev 1),Waialae Country Club,NWLP,1 (0x01),big,721a315a19da27bda3ab701e184f8b2a6e8c7396ad331ebc3ae9756d471d6cfc
+No-Intro,Waialae Country Club - True Golf Classics (USA),Waialae Country Club,NWLE,0 (0x00),big,75532cf3a0931e848cfcf22677e2c4356fcd691d9ed5b2d0d0268777ee4aefb9
+No-Intro,Waialae Country Club - True Golf Classics (USA) (Rev 1),Waialae Country Club,NWLE,1 (0x01),big,3b09a12895b177f483940d1bcc7c8306f15ab0f2c7dcd1ff2ec450ea48f50c30
+No-Intro,War Gods (Europe),WAR GODS,NWAP,0 (0x00),big,f6a18d9691aecf0e3491b8dfa67cd83d23464d026d9cb03809ab0b980f21f54f
+No-Intro,War Gods (USA),WAR GODS,NWAE,0 (0x00),big,7247b79c49474c468e448b5ba58a28f8d1556139bfd08fb19770fad3db8b25f6
+No-Intro,"Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)",WAVE RACE 64,NWRP,0 (0x00),big,8897da0cb6e286659ac4d72c5737f6fe97a51bcdfc6e2328ae7dfc0715bf1761
+No-Intro,Wave Race 64 - Kawasaki Jet Ski (Japan),WAVE RACE 64,NWRJ,0 (0x00),big,51271d9395056349bc3c6b660d680293efd9e450f2d656867623278ce3294171
+No-Intro,Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1),WAVE RACE 64,NWRJ,1 (0x01),big,92b63d8f34dd4adb87b36421179f4c36a6be13ca32a3c32ab9907fa5a66737b2
+No-Intro,Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition),WAVE RACE 64,NWRJ,2 (0x02),big,c53b79a5e6014b5e03b016fadbd5c493270162c17c9624530fc726ea5e3f7b81
+No-Intro,Wave Race 64 - Kawasaki Jet Ski (USA),WAVE RACE 64,NWRE,0 (0x00),big,ffef8ea601f5a621d37cfa1d4a83d02274798c9e46ef7193375eacd580e701c6
+No-Intro,Wave Race 64 - Kawasaki Jet Ski (USA) (LodgeNet),WAVE RACE 64,NWRG,1 (0x01),big,d775a0c3936a1b563e7082d92094e168d7b3da5114eae4a7bd3e711f3430937f
+No-Intro,Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1),WAVE RACE 64,NWRE,1 (0x01),big,f35d2423ebcb86eaf86fa935b613c7532b123a7bc50fb74996984c3b02fc3999
+No-Intro,"Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)",W.G. 3DHOCKEY,NWGP,0 (0x00),big,8a4bda81962af21548c70f6c239290e03ed5fe7492ed6e1074ba002aa631dd89
+No-Intro,Wayne Gretzky's 3D Hockey (Japan),WGHOCKEY,NWGJ,0 (0x00),big,9b8af6fd3e6bbd2ca713d780ba449944076ff3d2c6ce15068651feed445e7037
+No-Intro,Wayne Gretzky's 3D Hockey (USA),W.G. 3DHOCKEY,NWGE,0 (0x00),big,72a17d3604182ec85a7dd6d7e4712ec6902a768e997734a53248f4ffeae577f0
+No-Intro,Wayne Gretzky's 3D Hockey (USA) (Rev 1),W.G. 3DHOCKEY,NWGE,1 (0x01),big,e8f5d17ee66414102ebc2bae752ffb9f74c9e4c5960e6cbf18b72db1a3ff3814
+No-Intro,"Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)",W.G. 3DHockey98,NW8P,0 (0x00),big,8d772114b3511a65c586145035d90ef5bc44ba691bf65304fbb581b41df1f19f
+No-Intro,Wayne Gretzky's 3D Hockey '98 (USA),W.G. 3DHOCKEY98,NW8E,0 (0x00),big,7dbcc38d473efaf9c524274dcbd3cbd267d2d43e65c674c667c3843622bd726a
+No-Intro,WCW Backstage Assault (USA),WCW BACKSTAGE,NWVE,0 (0x00),big,cf4169a5489d25711fb94e6c716ab5bf00b9aaf742556f5142998e20bffce7e7
+No-Intro,WCW Mayhem (Europe),WCW MAYHEM,NWMP,0 (0x00),big,d8c97d05f5050636a5756ddac73d1983ab636544f996a6a5d3dd5d15a14339b2
+No-Intro,WCW Mayhem (USA),WCW MAYHEM,NWME,0 (0x00),big,45acaf7b9d36436d73aef1ddc130b48ad115e5c8a3a4efafedf621afaddc2edf
+No-Intro,WCW Nitro (USA),NITRO64,NW3E,0 (0x00),big,4ade28775c54157fca8763de388442b5ca149111b13cd7f1d2e6429c90eaf065
+No-Intro,WCW vs. nWo - World Tour (Europe),WCWvs.NWO:World Tour,NWNP,0 (0x00),big,177b179b78c86b97ac5ee21d7eed543ddd1a1a71a41d74adcb4c7bbdfff5f479
+No-Intro,WCW vs. nWo - World Tour (USA),WCWvs.NWO:World Tour,NWNE,0 (0x00),big,852dc6478e55c13da60080c1ed468ecf6aa2f370c1bb8ba16720622fa931763a
+No-Intro,WCW vs. nWo - World Tour (USA) (Rev 1),WCWvs.NWO:World Tour,NWNE,1 (0x01),big,3711c8838b18374d1c7be0192ad824082d33978f00b886d145bc55a782325d4d
+No-Intro,WCW-nWo Revenge (Europe),WCW / nWo  REVENGE,NW2P,0 (0x00),big,e4bd4f49d6e2217294cd2f9178488349eabd44155e4ad0436a9d1ddef58c53da
+No-Intro,WCW-nWo Revenge (USA),WCW / nWo  REVENGE,NW2E,0 (0x00),big,66c137d326565c6f31f992daba8f67c0aee7f025a142dd249d27019708014b60
+No-Intro,"Wetrix (Europe) (En,Fr,De,Es,It,Nl)",Wetrix,NWTP,0 (0x00),big,17d5917ec3235e9e8aff54201d78bd01aa36377f81ac133ed0248d8ab1c61de5
+No-Intro,Wetrix (Japan),wetrix,NWTJ,0 (0x00),big,799b8544502af901572ca54e210c082280f57695b538ed6c3a87cccefe840522
+No-Intro,"Wetrix (USA) (En,Fr,De,Es,It,Nl)",Wetrix,NWTE,0 (0x00),big,790f36a3ddd64e4dcd08c479b0b66f9080d0191473e92fa895f53d15706167bb
+No-Intro,Whack 'n' Roll (USA) (v0.8.2) (Beta) (1998-02-05),whack 'n' roll,,0 (0x00),big,ff781fc0998e8cff0e76d576ce77ebee7420c43765187f54400161195f07b323
+No-Intro,Wheel of Fortune (USA),WHEEL OF FORTUNE,NWFE,0 (0x00),big,5da09844f1f63270830836c42787046d48d72c125a50ae91d46327a93a25e383
+No-Intro,Wide-Boy64 AGB (World) (v0.00b) (Beta),,,0 (0x00),big,9e56f37b24f149bd752a27dd581b418a70b3754f2fb9bb1b218afcdffbfe2c28
+No-Intro,Wide-Boy64 AGB (World) (v0.02c),,,0 (0x00),big,e342bb94e57deaaa7a438acb01e34cdcdd1126251aeafb5061e30210bcbbe61b
+No-Intro,Wide-Boy64 AGB (World) (v0.04c),,,0 (0x00),big,41e9dec235448a9fd983930997ae229921ce779ef22f0a9cd75620ab6ea693f8
+No-Intro,Wide-Boy64 CGB (World) (v1.02),,,0 (0x00),big,bec59ebd23fad5906f9dfb2ddab06a64c843752b5002993cdeea8a011bb3fc56
+No-Intro,Wild Choppers (Japan),WILD CHOPPERS,NWCJ,0 (0x00),big,86cb6ee6d6740eb372090dead1a9ae1dd397cd75453941194516451c8220260a
+No-Intro,Wildwaters (USA) (1999-06-15) (Proto),,,0 (0x00),big,2573603e3acaf2ddb432a62be384d76826ef3b1bd29b51f5c5823cc0436922be
+No-Intro,WinBack - Covert Operations (USA),WIN BACK,NWDE,0 (0x00),big,526b30f315ab44e6916906ae5851c924b6862e78b2f686356addb44ef26a48cc
+No-Intro,WinBack (Japan),WIN BACK,NWDJ,0 (0x00),big,006b8b00d8a1bd683f4379a7331f35520680a9f4e883e30a21c8c349177a02b8
+No-Intro,WinBack (Japan) (Rev 1),WIN BACK,NWDJ,1 (0x01),big,d29382c9d11959f77f2af388ce442a9ca1927ab71b98b9f43af61f14b66eccfc
+No-Intro,Wipeout 64 (Europe),Wipeout 64,NWPP,0 (0x00),big,56d336877efb7be840d96c476c2c10191e291377ce9dd6ec942f1300f6934897
+No-Intro,Wipeout 64 (Europe) (Beta),Wipeout 64,NWPP,0 (0x00),big,21422b3c5fcdeed38b38767ddb2df5ad52c2936e65a20dbbeec50d8a32ba3d8d
+No-Intro,Wipeout 64 (USA),Wipeout 64,NWPE,0 (0x00),big,fdcf4ae70d90abef4f299b04664e009a967e55f97a065b43f596b749dd7d6b15
+No-Intro,Wizard of the Board (World) (NTSC) (Aftermarket) (Unl),WIZARD OF THE BOARD,E,0 (0x00),big,5c6899205a184ccb75292242007599e330768da96f3047af6a5b8c3eb3ed10c7
+No-Intro,Wizard of the Board (World) (PAL) (Aftermarket) (Unl),WIZARD OF THE BOARD,P,0 (0x00),big,e64a9c6f047e2d5c7cfec2c1b81a2ff8b3df4acb0f82ba310b203ff80edcb084
+No-Intro,Wonder Project J2 - Koruro no Mori no Jozet (Japan),WONDER PROJECT J2,NJ2J,0 (0x00),big,8bbda06b90ca6cbb897286b05d6bbc3d87464af6a14c3641ec84d2b25610a3aa
+No-Intro,"World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",World Cup 98,N8WP,0 (0x00),big,8f99290db186f35b4dd96562edc12138146157df5f48ca4b389a8cef1afe7a49
+No-Intro,"World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)",World Cup 98,N8WE,0 (0x00),big,45f7895bbf19f4f0c0b41e6a32f847236aef08b85d49b8475357ea846c717daa
+No-Intro,"World Driver Championship (Europe) (En,Fr,De,Es,It)",WORLD DRIVER CHAMP,NWOP,0 (0x00),big,535c6b9430f74e36e1347f20e656eeb662af699c40a868e1d4a6bdd3c577f7d4
+No-Intro,World Driver Championship (USA),WORLD DRIVER CHAMP,NWOE,0 (0x00),big,e8e3734c5d2453c3a4bc940862545e2b84bdd65299e432548276fd71bccdfd97
+No-Intro,"Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)",WORMS N64,NWUP,0 (0x00),big,d79ebabeef2d0a913c910497e73bf7d188c012fd578ec66a855d7bdbaa6d5bdc
+No-Intro,"Worms Armageddon (USA) (En,Fr,Es)",WORMS ARMAGEDDON,NADE,0 (0x00),big,42f408c8d3448233c7f452188270057875164cf763c9194a1bb8e8c8014a9468
+No-Intro,"Worms Armageddon (USA) (En,Fr,Es) (Aftermarket) (Unl)",WORMS ARMAGEDDON,NADE,0 (0x00),big,794945d2db742007d6ca98787827a31834db9684513a563c6b31e13612a8fcee
+No-Intro,WWF Attitude (Europe),WWF: Attitude,NTIP,0 (0x00),big,403189fe4c003396404f12589e29ec9d6342d908ef87d9d3fc315aa3fa555c06
+No-Intro,WWF Attitude (Germany),WWF: Attitude,NTID,0 (0x00),big,97b7d1fa75de75181f9a4785ea9d7efc109a8cdcf26627fc3194aacdc3ebf268
+No-Intro,WWF Attitude (USA),WWF: Attitude,NTIE,0 (0x00),big,a6702c3a7a535b785ad4bd75cdca2e1f15fca59556824b7c54bdae56ecae34d3
+No-Intro,WWF No Mercy (Europe),WWF No Mercy,NW4P,0 (0x00),big,9fb50974a14e834ba540df59891d359d2c9b846359bb26d58db71fb8e28ff289
+No-Intro,WWF No Mercy (Europe) (Rev 1),WWF No Mercy,NW4P,1 (0x01),big,381d46cfdf108122d8e41a3e0a45b2c8fb9d0429f130dde5d6d58e6d81da07c0
+No-Intro,WWF No Mercy (USA),WWF No Mercy,NW4E,0 (0x00),big,28badb169848aa814c35c242c48c1e95ce2540d6663e67079f97768096c17a1f
+No-Intro,WWF No Mercy (USA) (Beta) (2000-09-11),,,0 (0x00),big,3dd1f846c6ba859fbfee64f1171ad134969931321ac2d9d33c6f45c5b264f269
+No-Intro,WWF No Mercy (USA) (Rev 1),WWF No Mercy,NW4E,1 (0x01),big,fc561fce443010b114cc8ea41226772b7b2a2d33055be163fad91ac9c3b096cb
+No-Intro,WWF War Zone (Europe),WWF War Zone,NWWP,0 (0x00),big,75539b5fa0bcb196d7dae076d9317ac21864f953b63dcb78c85e7f4fb4144501
+No-Intro,WWF War Zone (USA),WWF War Zone,NWWE,0 (0x00),big,ee4f5a036423b78449475fa09471de6148ff6972d0510098943bc83092f990b5
+No-Intro,WWF WrestleMania 2000 (Europe),WRESTLEMANIA2000,NWXP,0 (0x00),big,8f759c230e6c261eb77cff7906740173132c7051fcaed10dea71d78e375e45c7
+No-Intro,WWF WrestleMania 2000 (Japan),2000,NWXJ,0 (0x00),big,3e3114266d5faeed1ed385528b0e4dbe268fdf64778a657895b31bab9de9ad85
+No-Intro,WWF WrestleMania 2000 (USA),WRESTLEMANIA 2000,NWXE,0 (0x00),big,cbd44033868d3747241f5028206056e64836d744c756b5c39dc7b3a446e8ce5b
+No-Intro,Xena - Warrior Princess - The Talisman of Fate (Europe),XENAWARRIORPRINCESS,NXFP,0 (0x00),big,07173ba69bda3c300c2c2353a241fcaa1d9fe5eaf9abb56fe815433fc1343696
+No-Intro,Xena - Warrior Princess - The Talisman of Fate (USA),XENAWARRIORPRINCESS,NXFE,0 (0x00),big,d336e2c20edb20d68b9bb8e725c2661e8da8c54598b786ac01b02da86830e71f
+No-Intro,Xplorer 64 (Germany) (v1.067) (Unl),1930Germany,,0 (0x00),unknown,3a584303610ee0b73936e0b363c86c6e499fb1f00b046e6a3c2b44958490b767
+No-Intro,X'treme Roller (USA) (Proto),,,0 (0x00),big,1465517b5c2486b4ba83b1b03ca2b140fd46e3da37d8a9987c6c0b1b92613a77
+No-Intro,Yakouchuu II - Satsujin Kouro (Japan),YAKOUTYUU2,NYKJ,0 (0x00),big,c6a52c2377f3d6236ba2d29557461b9af106d99afeba2156e21e2477b00ddffd
+No-Intro,Yoshi Story (Japan),YOSHI STORY,NYSJ,0 (0x00),big,52acf92dc66018b3ed84b334cb511ed956db8b3013ffc4e8586ae00bd93b0c95
+No-Intro,"Yoshi's Story (Europe) (En,Fr,De)",YOSHI STORY,NYSP,0 (0x00),big,19d5e75ab2ace98294b7d9c7a5e57955d5f8be8d8d188e288eb31a27555ec5dd
+No-Intro,"Yoshi's Story (USA) (En,Ja)",YOSHI STORY,NYSE,0 (0x00),big,e8a63388c38f8f0bea37e9b13a97f0898ac5496e08ca2028afb8db9a866e0ce9
+No-Intro,"Yoshi's Story (USA) (En,Ja) (LodgeNet)",YOSHI STORY,NYSG,0 (0x00),big,62db4fae05c874b78d14a4a6d11f01bc333f0a6bbfc0b7366c8617ff873be42f
+No-Intro,Yuke Yuke!! Trouble Makers (Japan),TROUBLE MAKERS,NTMJ,0 (0x00),big,68e2f727c58379f4c04ef00c7b3a8149a12955d845e247dd0518609f44274d65
+No-Intro,Zelda no Densetsu - Mujura no Kamen (Japan),THE MASK OF MUJURA,NZSJ,0 (0x00),big,d5b295cff29864b17090fab06024739ece5e4febaf3455f9ce4eb2ce3d460fc0
+No-Intro,Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube),ZELDA MAJORA'S MASK,NZSJ,2 (0x02),big,8d8cd9ec66a425e98ca94874d72af07e696824b24c7d91606753b0a190e99db0
+No-Intro,Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1),THE MASK OF MUJURA,NZSJ,1 (0x01),big,7f81367323b3face9dff8961abe1937df9f87a13c558ec038838c25490029bf3
+No-Intro,Zelda no Densetsu - Toki no Ocarina (Japan),THE LEGEND OF ZELDA,CZLJ,0 (0x00),big,d38fd6ff19daf05320b3c23f9adc119b017408686e12aaf32f313a7582b020af
+No-Intro,"Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection)",THE LEGEND OF ZELDA,CZLJ,15 (0x0F),big,da91bd0f0a4e8382838a4eac455ed09f7236d951423e8039dd308bc73be8b090
+No-Intro,Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1),THE LEGEND OF ZELDA,CZLJ,1 (0x01),big,ade86e53ad21cd69d751e019547ddbf413cb78dbd34f07ade5f1dfbbd8904b5c
+No-Intro,Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2),THE LEGEND OF ZELDA,CZLJ,2 (0x02),big,10833ee97cdfa1bb9b248839946992b86ec60342846682aeca06049adb5365e5
+No-Intro,Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube),THE LEGEND OF ZELDA,CZLJ,15 (0x0F),big,c1b83e01bb2effc40cca233acf47a126d4eac974523184cbdc2fd0b18b0ac0bf
+No-Intro,Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube),THE LEGEND OF ZELDA,CZLJ,15 (0x0F),big,4ee156612f4a5c50e4966dd69798952342b081d60b1fb494cac6b0eafe39456e
+No-Intro,Zool - Majuu Tsukai Densetsu (Japan),,NMZJ,0 (0x00),big,3b22441ab51bdecfdb6805bc8320f164031016fc5b23019aa16b2b2d0f7f2e8e
